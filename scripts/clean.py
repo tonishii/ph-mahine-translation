@@ -10,6 +10,30 @@ def clean_file(path, dir_name):
     pattern = r"\s+"
     text = re.sub(pattern, " ", text)
 
+    pattern = r"^(.*?)(?=Genesis\s+1\s)"
+    text = re.sub(pattern, "", text)
+
+    if dir_name == "tausug":
+      pattern = r"^(.*?)(?=Matiyu\s+1\s)"
+      text = re.sub(pattern, "", text)
+
+    if dir_name == "yami":
+      pattern = r"^(.*?)(?=Matay\s+1\s)"
+      text = re.sub(pattern, "", text)
+
+    if dir_name == "pangasinan":
+      pattern = r"^(.*?)(?=Mateo\s+1\s)"
+      text = re.sub(pattern, "", text)
+
+    if dir_name == "maranao":
+      pattern = r"^(.*?)(?=Maksod\s+1\s)"
+      text = re.sub(pattern, "", text)
+
+    if dir_name == "chavacano":
+      pattern = r"^(.*?)(?=Mateo 1:1 1 Mateo 2:1)"
+      text = re.sub(pattern, "", text)
+
+
     out_dir = f"data/processed/{dir_name}"
     os.makedirs(out_dir, exist_ok=True)
     with open(out_dir + "/bible_clean.txt", "w", encoding="utf-8") as f:
