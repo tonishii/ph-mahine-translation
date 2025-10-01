@@ -3,10 +3,10 @@ import re, os
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
     text = f.read()
-
+    
     pattern = r"\n\s*\n"
     text = re.sub(pattern, "\n", text)
-
+      
     pattern = r"\s+"
     text = re.sub(pattern, " ", text)
 
@@ -32,6 +32,18 @@ def clean_file(path, dir_name):
     if dir_name == "chavacano":
       pattern = r"^(.*?)(?=Mateo 1:1 1 Mateo 2:1)"
       text = re.sub(pattern, "", text)
+      
+    if dir_name == "english":
+      pattern = r"[¶]"
+      text = re.sub(pattern, "", text)
+      pattern = r"\s+[;]"
+      text = re.sub(pattern, ";", text)
+      pattern = r"\s+[:]"
+      text = re.sub(pattern, "", text)
+      pattern = r"(\b\d+\b(\s+\d+\b)+)"
+      text = re.sub(pattern, "", text)
+      pattern = r"\s+([?.!,;:])"
+      text = re.sub(pattern, r'\1', text)
 
 
     out_dir = f"data/processed/{dir_name}"
