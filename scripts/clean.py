@@ -1,5 +1,6 @@
 import re, os
 from clean_kapampangan import clean_kapampangan
+from clean_hiligaynon import clean_hiligaynon
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -40,17 +41,8 @@ def clean_file(path, dir_name):
       pattern = r"^(.*?)(?=Mateo 1:1 1 Mateo 2:1)"
       text = re.sub(pattern, "", text)
 
-    if dir_name == "english":
-      pattern = r"¶\s+"
-      text = re.sub(pattern, "", text)
-      pattern = r"\s+[;]"
-      text = re.sub(pattern, ";", text)
-      pattern = r"\s+[:]"
-      text = re.sub(pattern, "", text)
-      pattern = r"(\b\d+\b(\s+\d+\b)+)"
-      text = re.sub(pattern, "", text)
-      pattern = r"\s+([?.!,;:])"
-      text = re.sub(pattern, r'\1', text)
+    if dir_name == "hiligaynon":
+      text = clean_hiligaynon(text)
 
     out_dir = f"data/processed/{dir_name}"
     os.makedirs(out_dir, exist_ok=True)
