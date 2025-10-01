@@ -62,6 +62,11 @@ def clean_kapampangan(text):
   pattern = r"([a-zA-Z]+)\n(\d+)\n"
   text = re.sub(pattern, r"\1 \2\n", text)
 
+  # CORRECTIONS:
+
+  pattern = r"([eE]) n e"
+  text = re.sub(pattern, r"\1 ne", text)
+
   # verify(text)
   return text
 
