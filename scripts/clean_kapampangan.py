@@ -42,8 +42,9 @@ def clean_kapampangan(text):
   pattern = r"(1\sJuan|2\sJuan|3\sJuan|Juan|Nahum|Genesis|Habakuk|Exodo|Zepania|Levitico|Hageo|Ding Bilang|Zacarias|Deuteronomio|Malakias|Josue|Ukum|Mateo|Ruth|Marcos|1 Samuel|Lucas|2 Samuel|1 Ari|Ding Dapat|2 Ari|Roma|1 Cronica|1 Corinto|2 Cronica|2 Corinto|Ezra|Galacia|Nehemias|Efeso|Ester|Filipos|Job|Colosas|Ding Dalit|1 Tesalonica|Ding Kasebian|2 Tesalonica|Ecclesiastes|1 Timoteo|Ing Malagung Diling Kanta|2 Timoteo|Isaias|Tito|Jeremias|Filemon|Ding Tagulele|Hebreo|Ezekiel|Santiago|Daniel|1 Pedro|Hosea|2 Pedro|Joel|Amos|Obadias|Jonas|Judas|Mikeas|Kapahayagan)\s(\d+)\s(.*?)(?=\d+\s*)"
   text = re.sub(pattern, r"\1 \2\n", text)
 
-  # pattern = r"\s(?=\d+)"
-  # text = re.sub(pattern, "\n", text)
+  # Separates by verse
+  pattern = r"\s(?=\d+)"
+  text = re.sub(pattern, "\n", text)
 
   # Removes the first newline
   pattern = r"^\n"
