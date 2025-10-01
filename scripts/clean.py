@@ -3,21 +3,19 @@ from clean_kapampangan import clean_kapampangan
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
-    text = ""
+    text = f.read()
+
+    pattern = r"\n\s*\n" # Removes unnecessary newlines
+    text = re.sub(pattern, "\n", text)
+
+    pattern = r"\s+"
+    text = re.sub(pattern, " ", text)
+
+    # Removes everything until first chapter
+    pattern = r"^(.*?)(?=Genesis\s+1\s)"
+    text = re.sub(pattern, "", text)
 
     if dir_name == "kapampangan":
-      text = f.read()
-
-      pattern = r"\n\s*\n" # Removes unnecessary newlines
-      text = re.sub(pattern, "\n", text)
-
-      pattern = r"\s+"
-      text = re.sub(pattern, " ", text)
-
-      # Removes everything until first chapter
-      pattern = r"^(.*?)(?=Genesis\s+1\s)"
-      text = re.sub(pattern, "", text)
-
       text = clean_kapampangan(text)
 
     if dir_name == "tausug":
