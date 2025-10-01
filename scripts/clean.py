@@ -1,5 +1,6 @@
 import re, os
 from clean_kapampangan import clean_kapampangan
+from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
 
 def clean_file(path, dir_name):
@@ -17,6 +18,9 @@ def clean_file(path, dir_name):
     # Removes everything until first chapter
     pattern = r"^(.*?)(?=Genesis\s+1\s)"
     text = re.sub(pattern, "", text)
+
+    if dir_name == "tagalog":
+      text = clean_tagalog(text)
 
     if dir_name == "kapampangan":
       text = clean_kapampangan(text)
