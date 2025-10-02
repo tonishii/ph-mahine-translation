@@ -31,7 +31,8 @@ def clean_tagalog(text):
   text = re.sub(pattern, "", text)
 
   # Separate by book
-  pattern = rf"(?=({"|".join(books)})\s+\d+\s)"
+  book_pattern = "|".join(books)
+  pattern = rf"(?=({book_pattern})\s+\d+\s)"
   text = re.sub(pattern, "\n", text)
 
   # Normalizes Juan books
@@ -47,7 +48,7 @@ def clean_tagalog(text):
   text = re.sub(pattern, "", text)
 
   # Remove the titles
-  pattern = rf"\s+({"|".join(books)})\s\n"
+  pattern = rf"\s+({book_pattern})\s\n"
   text = re.sub(pattern, "\n", text)
 
   # Normalize spacing
@@ -55,7 +56,7 @@ def clean_tagalog(text):
   text = re.sub(pattern, " ", text)
 
   # Remove everything from the book title to the first verse number
-  pattern = rf"({"|".join(books)})\s(\d+)\s(.*?)(?=\d+\s*)"
+  pattern = rf"({book_pattern})\s(\d+)\s(.*?)(?=\d+\s*)"
   text = re.sub(pattern, r"\1 \2\n", text)
 
   # Separates by verse
@@ -82,7 +83,8 @@ def clean_tagalog(text):
   return text
 
 def verify(text):
-  pattern = rf"({"|".join(books)})\s(\d+)\n"
+  book_pattern = "|".join(books)
+  pattern = rf"({book_pattern})\s(\d+)\n"
   chapter_counts = [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52, 5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4]
 
   chapters = re.findall(pattern, text)
