@@ -65,7 +65,7 @@ def clean_hiligaynon(text):
     pattern = r"^\d+,(.*?)+"
     text = re.sub(pattern, "ajdsalkdnalsjdn", text)
     
-    verify(text)
+    #verify(text)
     return text
 
 def verify(text):
