@@ -52,4 +52,11 @@ def clean_bicolano(text):
     pattern = r"Esclarecimento(.|\n)*"
     text = re.sub(pattern, "", text)
     
+    # Remove double new lines
+    pattern = r'\n\n+'
+    text = re.sub(pattern, "\n", text)
+    
+    # Remove the very first newline
+    text = re.sub(r'^\s*\n+', '', text)
+    
     return text
