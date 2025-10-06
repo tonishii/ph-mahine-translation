@@ -6,7 +6,7 @@ def clean_pangasinese(text):
         "Mateo", "Marcos", "Lucas", "Juan", "Binuhatan",
         "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
         "1 Tesalonica", "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
-        "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Pahayag"
+        "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Puyan"
     ]
     
     books = new_testament_books
@@ -43,7 +43,7 @@ def clean_pangasinese(text):
     pattern = r"\s\n(Juan\s+\d+)[ \t]*\n([A-Za-z])"
     text = re.sub(pattern, r" \1\2", text, flags=re.MULTILINE)
     
-    pattern = r"((\d+-)*\d+)(?=[A-Za-z])"
+    pattern = r"((\d+-)*\d+) (?=[A-Za-z])"
     text = re.sub(pattern, r"\n\1 ", text)
     
     pattern = r"^\d,(.*?)(?=\n)"
@@ -67,7 +67,7 @@ def verify(text):
       "Mateo", "Marcos", "Lucas", "Juan", "Binuhatan",
       "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
       "1 Tesalonica", "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
-      "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Pahayag"
+      "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Puyan"
   ]
 
   books = new_testament_books
