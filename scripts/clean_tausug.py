@@ -31,6 +31,10 @@ def clean_tausug(text):
     # Remove standalone ꞌ
     pattern = r"\bꞌ\b"
     text = re.sub(pattern, "", text)
+    
+    pattern = r"[\(\[\{;,\-]*[A-Z][a-z]{1,3}\.\s*\d+:\d+(?:-\d+)?[\)\]\};,\-]*"
+    text = re.sub(pattern, "", text)
+    
 
     # Replace multiple spaces with one space
     pattern = r"[ \t]+"
