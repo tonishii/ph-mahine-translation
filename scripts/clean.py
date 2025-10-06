@@ -4,6 +4,7 @@ from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
 from clean_pangasinese import clean_pangasinese
 from clean_waray import clean_waray
+from clean_tausug import clean_tausug
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -51,6 +52,9 @@ def clean_file(path, dir_name):
 
     if dir_name == "hiligaynon":
       text = clean_hiligaynon(text)
+
+    if dir_name == "tausug":
+      text = clean_tausug(text)
 
     out_dir = f"data/processed/{dir_name}"
     os.makedirs(out_dir, exist_ok=True)
