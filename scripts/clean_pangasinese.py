@@ -2,15 +2,6 @@ import re
 from collections import defaultdict
 
 def clean_pangasinese(text):
-    old_testament_books = [
-        "Genesis", "Exodus", "Leviticus", "Numero", "Deuteronomio",
-        "Josue", "Hukom", "Ruth", "1 Samuel", "2 Samuel",
-        "1 Hari", "2 Hari", "1 Cronica", "2 Cronica", "Ezra", "Nehemias", "Ester",
-        "Job", "Salmo", "Hulubaton", "Manugwali", "Kanta", "Isaias", "Jeremias",
-        "Panalambiton", "Ezekiel", "Daniel", "Hoseas", "Joel", "Amos", "Obadias", "Jonas",
-        "Micas", "Nahum", "Habakuk", "Zefanias", "Haggai", "Zacarias", "Malakias"
-    ]
-    
     new_testament_books = [
         "Mateo", "Marcos", "Lucas", "Juan", "Binuhatan",
         "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
@@ -18,14 +9,13 @@ def clean_pangasinese(text):
         "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Pahayag"
     ]
     
-    books = old_testament_books + new_testament_books
+    books = new_testament_books
     
-    pattern = r"\d+\s+Ang Pulong Sang Dios \(Hiligaynon Contemporary Bible\) © 1996, 2006, 2011 by Biblica, Inc\.®\.\s+"
-    #pattern = r"\d+\n+Ang Pulong Sang Dios\n\(Hiligaynon Contemporary Bible\)\n© 1996, 2006, 2011 by Biblica, Inc\.®.\s+"
+    pattern = r"\d+\s+Pangasinan Maung a Balita Biblia New Testament © 1977, Bible © 1983, Philippine Bible Society\.\s+"
     text = re.sub(pattern, "", text)
     
-    pattern = r"\s+Hiligaynon - All Bible \(Ang Pulong Sang Dios\)\s+"
-    text = re.sub(pattern, " ", text)
+    pattern = r"^(.*?)(?=Mateo\s+1\s)"
+    text = re.sub(pattern, "", text)
     
     pattern = r"\((.*?)\)|\{(.*?)\}"
     text = re.sub(pattern, "", text)
@@ -65,18 +55,13 @@ def clean_pangasinese(text):
     pattern = r"^\d+,(.*?)+"
     text = re.sub(pattern, "ajdsalkdnalsjdn", text)
     
+    pattern = r"Esclarecimento(.*)+"
+    text = re.sub(pattern, "", text)
+    
     verify(text)
     return text
 
 def verify(text):
-  old_testament_books = [
-      "Genesis", "Exodus", "Leviticus", "Numero", "Deuteronomio",
-      "Josue", "Hukom", "Ruth", "1 Samuel", "2 Samuel",
-      "1 Hari", "2 Hari", "1 Cronica", "2 Cronica", "Ezra", "Nehemias", "Ester",
-      "Job", "Salmo", "Hulubaton", "Manugwali", "Kanta", "Isaias", "Jeremias",
-      "Panalambiton", "Ezekiel", "Daniel", "Hoseas", "Joel", "Amos", "Obadias", "Jonas",
-      "Micas", "Nahum", "Habakuk", "Zefanias", "Haggai", "Zacarias", "Malakias"
-  ]
 
   new_testament_books = [
       "Mateo", "Marcos", "Lucas", "Juan", "Binuhatan",
@@ -85,18 +70,9 @@ def verify(text):
       "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Pahayag"
   ]
 
-  books = old_testament_books + new_testament_books
+  books = new_testament_books
 
   chapter_counts = [
-      # Old Testament
-      50, 40, 27, 36, 34,   # Genesis – Deuteronomio
-      24, 21, 4, 31, 24,    # Josue – 2 Samuel
-      22, 25, 29, 36, 10, 13, 10,  # 1 Hari – Ester
-      42, 150, 31, 12, 8,   # Job – Kanta
-      66, 52, 5, 48, 12,    # Isaias – Daniel
-      14, 3, 9, 1, 4,       # Hoseas – Jonas
-      7, 3, 3, 3, 2, 14, 4, # Micas – Malakias
-
       # New Testament
       28, 16, 24, 21, 28,   # Mateo – Binuhatan
       16, 16, 13, 6, 6, 4, 4,  # Roma – Colosas

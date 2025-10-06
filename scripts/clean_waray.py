@@ -63,6 +63,9 @@ def clean_waray(text):
   pattern = r"^\d+,(.*?)+"
   text = re.sub(pattern, "ajdsalkdnalsjdn", text)
   
+  pattern = r"Esclarecimento(.*)+"
+  text = re.sub(pattern, "", text)
+  
   verify(text)
   return text
 

@@ -62,9 +62,15 @@ def clean_hiligaynon(text):
     pattern = r"\n\s*\n"
     text = re.sub(pattern, "\n", text)
     
-    pattern = r"^\d+,(.*?)+"
-    text = re.sub(pattern, "ajdsalkdnalsjdn", text)
+    pattern = r"^\d+,(.*)+"
+    text = re.sub(pattern, "", text, flags=re.MULTILINE)
     
+    pattern = r"\n\s*\n"
+    text = re.sub(pattern, "\n", text)
+    
+    pattern = r"Esclarecimento(.*)+"
+    text = re.sub(pattern, "", text)
+  
     #verify(text)
     return text
 
