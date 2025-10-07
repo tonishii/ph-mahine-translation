@@ -35,7 +35,10 @@ def clean_bicolano(text):
     # Add space after single verse numbers (e.g. 3text → 3 text)
     pattern = r"\b(\d+)([\"“]?[A-Za-z]+)\b"
     text = re.sub(pattern, r"\n\1 \2", text)
-
+    
+    pattern = r"\b[A-Z][a-z]+\.\s*\d+:\d+(?:-\d+:\d+|\-\d+)?\b"
+    text = re.sub(pattern, r"", text)
+    
     # Normalize spacing for . & ,
     pattern = r"\s+([.,])"
     text = re.sub(pattern, r"\1", text)
@@ -59,4 +62,4 @@ def clean_bicolano(text):
     # Remove the very first newline
     text = re.sub(r'^\s*\n+', '', text)
     
-    return text
+    return text, books

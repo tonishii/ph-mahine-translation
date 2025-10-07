@@ -81,7 +81,7 @@ def clean_hiligaynon(text):
     text = re.sub(pattern, "\n", text)
   
     #verify(text)
-    return text
+    return text, books
 
 def verify(text):
   old_testament_books = [
