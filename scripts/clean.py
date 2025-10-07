@@ -14,34 +14,31 @@ from clean_cebuano import clean_cebuano
 from clean_espanol import clean_espanol
 from clean_english import clean_english
 
+codes = {
+  "english": "ENG",
+  "spanish": "SPA",
+  "yami": "TAO",
+  "tagalog": "TGL",
+  "cebuano": "CEB",
+  "ilocano": "ILO",
+  "kapampangan": "PAM",
+  "hiligaynon": "HIL",
+  "waray": "WAR",
+  "pangasinense": "PAG",
+  "bicolano": "BCL",
+  "tausug": "TSG",
+  "kalanguya": "KAK",
+}
+
 def to_excel(text, books, out_dir):
     name = out_dir[len("data/processed/"):]
-
-    codes = {
-      "english": "ENG",
-      "spanish": "SPA",
-      "yami": "TAO",
-      "tagalog": "TGL",
-      "cebuano": "CEB",
-      "ilocano": "ILO",
-      "kapampangan": "PAM",
-      "hiligaynon": "HIL",
-      "waray": "WAR",
-      "pangasinense": "PAG",
-      "bicolano": "BCL",
-      "chavacano": "CBK",
-      "tausug": "TSG",
-      "maranao": "MRW",
-      "kalanguya": "KAK",
-    }
-    
     
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     verses = []
     current_book, current_chapter = None, None
 
     book_pattern = "|".join(re.escape(book) for book in books)
-    book_regex = re.compile(rf"^({book_pattern})\s+(\d+)$", re.IGNORECASE)
+    book_regex = re.compile(rf"^({book_pattern})\s+(\d+)$")
 
     for line in lines:
         match = book_regex.match(line)
@@ -65,8 +62,23 @@ def to_excel(text, books, out_dir):
         df.to_excel(excel_path, index=False)
         print(f"{excel_path}")
     else:
-        print("Error no excel")
+        print("Error no excel")  
 
+def to_sentence(text, books, out_dir):
+    name = out_dir[len("data/processed/"):]
+    book_pattern = "|".join(re.escape(book) for book in books)
+    text = re.sub(rf"\b(?:{book_pattern})\s+\d+\b", "", text)
+    
+    text = re.sub(r"^\s*\d+(?:-\d+)?\s+", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\s+", " ", text).strip()
+    
+    text = re.sub(r'(?<=[.!?]["”])\s+(?=[A-Z])', "\n", text)
+    text = re.sub(r'(?<=[.!?])\s+(?=[A-Z])', "\n", text)
+    
+    os.makedirs("data/by_sentence", exist_ok=True)
+    file_path = os.path.join("data/by_sentence", f"{codes.get(name)}.txt")
+    with open(file_path, "w", encoding="utf-8") as f:
+      f.write(text)
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -146,6 +158,7 @@ def clean_file(path, dir_name):
 
     print(out_dir + "/bible_clean.txt ✓")
     to_excel(text, books, out_dir)
+    to_sentence(text, books, out_dir)
 
 def main():
   dir_path = "data/raw/"
