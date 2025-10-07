@@ -92,19 +92,23 @@ def clean_english(text):
 
 def verify(text):
     old_testament_books = [
-        "Genesis", "Exodus", "Leviticus", "Numero", "Deuteronomio",
-        "Josue", "Hukom", "Ruth", "1 Samuel", "2 Samuel",
-        "1 Hari", "2 Hari", "1 Cronica", "2 Cronica", "Ezra", "Nehemias", "Ester",
-        "Job", "Salmo", "Hulubaton", "Manugwali", "Kanta", "Isaias", "Jeremias",
-        "Panalambiton", "Ezekiel", "Daniel", "Hoseas", "Joel", "Amos", "Obadias", "Jonas",
-        "Micas", "Nahum", "Habakuk", "Zefanias", "Haggai", "Zacarias", "Malakias"
+        "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
+        "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel",
+        "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles",
+        "Ezra", "Nehemiah", "Esther", "Job", "Psalms",
+        "Proverbs", "Ecclesiastes", "Song of Songs", "Isaiah",
+        "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea",
+        "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum",
+        "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
     ]
 
     new_testament_books = [
-        "Mateo", "Marcos", "Lucas", "Juan", "Binuhatan",
-        "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
-        "1 Tesalonica", "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
-        "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Pahayag"
+        "Matthews", "Mark", "Luke", "John", "The Acts",
+        "Romans", "1 Corinthians", "2 Corinthians",
+        "Galatians", "Ephesians", "Philippians", "Colossians",
+        "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy",
+        "Titus", "Philemon", "Hebrews", "James", "1 Peter", "2 Peter",
+        "1 John", "2 John", "3 John", "Jude", "Revelation"
     ]
 
     books = old_testament_books + new_testament_books
