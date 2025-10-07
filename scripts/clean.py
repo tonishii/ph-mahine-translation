@@ -112,7 +112,6 @@ def clean_file(path, dir_name):
     to_sentence(text, books, dir_name)
     print(f"data/by_sentence/{codes.get(dir_name)}.txt: {dir_name} ✓")
 
-
 def main():
   dir_path = "data/raw/"
 
