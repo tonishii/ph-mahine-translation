@@ -1,16 +1,33 @@
 import os
+import sys
 from pypdf import PdfReader
 
 dir_path = "data/raw/"
 
-for dir_name in os.listdir(dir_path):
-  if dir_name.startswith("."): continue
+if not sys.argv[1:]:
+  for dir_name in os.listdir(dir_path):
+    if dir_name.startswith("."): continue
 
-  full_path = os.path.join(dir_path, dir_name)
+    full_path = os.path.join(dir_path, dir_name)
 
-  reader = PdfReader(full_path + "/bible.pdf")
-  text = "\n".join(page.extract_text() for page in reader.pages)
-  with open(full_path + "/bible.txt", "w", encoding="utf-8") as f:
-    f.write(text)
+    reader = PdfReader(full_path + "/bible.pdf")
+    text = "\n".join(page.extract_text() for page in reader.pages)
+    with open(full_path + "/bible.txt", "w", encoding="utf-8") as f:
+      f.write(text)
 
-  print(full_path + ": " + str(len(reader.pages)))
+    print(full_path + ": " + str(len(reader.pages)))
+
+else:
+  for argv in sys.argv[1:]:
+    full_path = os.path.join(dir_path, argv)
+
+    if not os.path.exists(full_path + "/bible.pdf"):
+      print(f"File not found: {full_path + "/bible.pdf"}")
+      continue
+
+    reader = PdfReader(full_path + "/bible.pdf")
+    text = "\n".join(page.extract_text() for page in reader.pages)
+    with open(full_path + "/bible.txt", "w", encoding="utf-8") as f:
+      f.write(text)
+
+    print(full_path + ": " + str(len(reader.pages)))
