@@ -52,7 +52,9 @@ def main():
       if dir_name.startswith("."): continue
 
       if not os.path.exists(dir_path + f"/{codes.get(dir_name)}.txt"):
-        print(f"File not found: {dir_path + f"/{codes.get(dir_name)}.txt"}")
+        filename = f"{codes.get(dir_name)}.txt"
+        print(filename)
+        print(f"File not found: {os.path.join(dir_path,filename)}")
         continue
 
       with open(dir_path + f"/{codes.get(dir_name)}.txt", "r", encoding="utf-8") as f:
@@ -63,7 +65,8 @@ def main():
   else:
     for argv in sys.argv[1:]:
       if not os.path.exists(dir_path + f"/{codes.get(argv)}.txt"):
-        print(f"File not found: {dir_path + f"/{codes.get(argv)}.txt"}")
+        filename = f"{codes.get(argv)}.txt"
+        print(f"File not found: {os.path.join(dir_path,filename)}")
         continue
 
       with open(dir_path + f"/{codes.get(argv)}.txt", "r", encoding="utf-8") as f:
