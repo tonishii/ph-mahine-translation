@@ -5,6 +5,7 @@ from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
 from clean_pangasinese import clean_pangasinese
 from clean_waray import clean_waray
+from clean_tuwali import clean_tuwali
 from clean_bicolano import clean_bicolano
 from clean_kalanguya import clean_kalanguya
 from clean_tausug import clean_tausug
@@ -150,6 +151,9 @@ def clean_file(path, dir_name):
     
     if dir_name == "english":
       text, books = clean_english(text)
+
+    if dir_name == "tuwali":
+      text = clean_tuwali(text)
 
     out_dir = f"data/processed/{dir_name}"
     os.makedirs(out_dir, exist_ok=True)
