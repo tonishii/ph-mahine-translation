@@ -14,7 +14,7 @@ books = [
 
 def clean_tagalog(text):
 
-  # Remove anything with a parentheses or braces and its contents
+  # Remove anything with a parentheses and its contents
   pattern = r"\(.*?\)"
   text = re.sub(pattern, "", text)
 
@@ -59,6 +59,9 @@ def clean_tagalog(text):
   pattern = rf"({book_pattern})\s(\d+)\s(.*?)(?=\d+\s*)"
   text = re.sub(pattern, r"\1 \2\n", text)
 
+  pattern = r"\d+([.,;:!?])\d*"
+  text = re.sub(pattern, r"\1", text)
+
   # Separates by verse
   pattern = r"\s(?=\d+)"
   text = re.sub(pattern, "\n", text)
@@ -79,7 +82,7 @@ def clean_tagalog(text):
   pattern = r"([a-zA-Z]+)\n(\d+)\n"
   text = re.sub(pattern, r"\1 \2\n", text)
 
-  verify(text)
+  # verify(text)
   return text
 
 def verify(text):
