@@ -8,7 +8,7 @@ def clean_hiligaynon(text):
         "1 Hari", "2 Hari", "1 Cronica", "2 Cronica", "Ezra", "Nehemias", "Ester",
         "Job", "Salmo", "Hulubaton", "Manugwali", "Kanta", "Isaias", "Jeremias",
         "Panalambiton", "Ezekiel", "Daniel", "Hoseas", "Joel", "Amos", "Obadias", "Jonas",
-        "Micas", "Nahum", "Habakuk", "Zefanias", "Haggai", "Zacarias", "Malakias"
+        "Micas", "Nahum", "Zefanias", "Haggai", "Zacarias", "Malakias"
     ]
     
     new_testament_books = [
@@ -59,6 +59,12 @@ def clean_hiligaynon(text):
     pattern = r"((\d+-)*\d+)(?=[A-Za-z])"
     text = re.sub(pattern, r"\n\1 ", text)
     
+    pattern = r"((\d+-)*\d+)(?=[“])"
+    text = re.sub(pattern, r"\n\1 ", text)
+    
+    pattern = r" \s(?=\d+\s\w+)"
+    text = re.sub(pattern, "\n", text)
+    
     pattern = r"^\d,(.*?)(?=\n)"
     text = re.sub(pattern, "", text, flags=re.MULTILINE)
     
@@ -68,9 +74,6 @@ def clean_hiligaynon(text):
     pattern = r"^\d+,(.*)+"
     text = re.sub(pattern, "", text, flags=re.MULTILINE)
     
-    pattern = r"\n\s*\n"
-    text = re.sub(pattern, "\n", text)
-    
     pattern = r"Esclarecimento(.*)+"
     text = re.sub(pattern, "", text)
     
@@ -78,6 +81,36 @@ def clean_hiligaynon(text):
     text = re.sub(pattern, r"\1\2\n", text)
     
     pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
+    text = re.sub(pattern, "\n", text)
+    
+    pattern = r"(?<=Habakuk)\s(Habakuk\s\d)"
+    text = re.sub(pattern, r"\n\1", text)
+    
+    pattern = r"(Habakuk\s2\s)(\d\s(.*))"
+    text = re.sub(pattern, r"\n\1\n\2", text)
+    
+    pattern = r"(Habakuk\s3)(.*)"
+    text = re.sub(pattern, r"\n\1", text)
+    
+    pattern = r"\n(.*?)(?=21-35)"
+    text = re.sub(pattern, r"\1\n", text)
+    
+    pattern = r"(?=36-39)"
+    text = re.sub(pattern, r"\n", text)
+    
+    pattern = r"\n(.*?)(?=40-42)"
+    text = re.sub(pattern, r"\1\n", text)
+    
+    pattern = r"\n(.*?)(?=43-54)"
+    text = re.sub(pattern, r"\1\n", text)
+    
+    pattern = r"(?=55-57)"
+    text = re.sub(pattern, r"\n", text)
+    
+    pattern = r"[‒]*\d+‒"
+    text = re.sub(pattern, r"", text)
+    
+    pattern = r"\n\s*\n"
     text = re.sub(pattern, "\n", text)
   
     #verify(text)
@@ -127,12 +160,13 @@ def verify(text):
 
   book_chapters = defaultdict(list)
   for book, chap in chapters:
-      book_chapters[book].append(int(chap))
+    book_chapters[book].append(int(chap))
 
-  # Compare using canonical order
-  for book, expected in zip(books, chapter_counts):
-      found = len(book_chapters[book])
-      if found == expected:
-          print(f"{book} chapters ({found}) in order ✓")
+  for ((book, chaps), count) in zip(book_chapters.items(), chapter_counts):
+    if chaps != sorted(chaps):
+      print(f"Chapters out of order in {book}: {chaps}")
+    else:
+      if count == len(chaps):
+        print(f"{book} chapters ({len(chaps)}) in order ✓")
       else:
-          print(f"{book} chapters ({found} SHOULD BE {expected}) NOT in order x")
+        print(f"{book} chapters ({len(chaps)}) NOT in order x")

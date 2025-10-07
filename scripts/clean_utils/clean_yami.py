@@ -63,7 +63,7 @@ def clean_yami(text):
     pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
     text = re.sub(pattern, "\n", text)
 
-    # verify(text)
+    #verify(text)
     return text, books
 
 def verify(text):
@@ -94,10 +94,11 @@ def verify(text):
     for book, chap in chapters:
         book_chapters[book].append(int(chap))
 
-    # Compare using canonical order
-    for book, expected in zip(books, chapter_counts):
-        found = len(book_chapters[book])
-        if found == expected:
-            print(f"{book} chapters ({found}) in order ✓")
+    for ((book, chaps), count) in zip(book_chapters.items(), chapter_counts):
+        if chaps != sorted(chaps):
+            print(f"Chapters out of order in {book}: {chaps}")
         else:
-            print(f"{book} chapters ({found} SHOULD BE {expected}) NOT in order x")
+            if count == len(chaps):
+                print(f"{book} chapters ({len(chaps)}) in order ✓")
+            else:
+                print(f"{book} chapters ({len(chaps)}) NOT in order x")

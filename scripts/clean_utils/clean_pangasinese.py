@@ -3,9 +3,9 @@ from collections import defaultdict
 
 def clean_pangasinese(text):
     new_testament_books = [
-        "Mateo", "Marcos", "Lucas", "Juan", "Binuhatan",
+        "Mateo", "Marcos", "Lucas", "Juan", "Gawgawa",
         "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
-        "1 Tesalonica", "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
+        "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
         "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Puyan"
     ]
 
@@ -60,14 +60,20 @@ def clean_pangasinese(text):
 
     pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
     text = re.sub(pattern, "\n", text)
+    
+    pattern = r"1 Tesalonica\s\n+(?=1)"
+    text = re.sub(pattern, "", text)
+    
+    pattern = r"(1 Tesalonica\s)\n+(?=\d)"
+    text = re.sub(pattern, r"\1", text)
 
-    # verify(text)
+    #verify(text)
     return text, books
 
 def verify(text):
 
   new_testament_books = [
-      "Mateo", "Marcos", "Lucas", "Juan", "Binuhatan",
+      "Mateo", "Marcos", "Lucas", "Juan", "Gawgawa",
       "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
       "1 Tesalonica", "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
       "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Puyan"
@@ -91,12 +97,13 @@ def verify(text):
 
   book_chapters = defaultdict(list)
   for book, chap in chapters:
-      book_chapters[book].append(int(chap))
+    book_chapters[book].append(int(chap))
 
-  # Compare using canonical order
-  for book, expected in zip(books, chapter_counts):
-      found = len(book_chapters[book])
-      if found == expected:
-          print(f"{book} chapters ({found}) in order ✓")
+  for ((book, chaps), count) in zip(book_chapters.items(), chapter_counts):
+    if chaps != sorted(chaps):
+      print(f"Chapters out of order in {book}: {chaps}")
+    else:
+      if count == len(chaps):
+        print(f"{book} chapters ({len(chaps)}) in order ✓")
       else:
-          print(f"{book} chapters ({found} SHOULD BE {expected}) NOT in order x")
+        print(f"{book} chapters ({len(chaps)}) NOT in order x")
