@@ -21429,8 +21429,8 @@ Nahum 3
 16 Damo na an imo mga magparatigayon nga darudamo pa ngani kay han mga bitoon ha langit! Kundi yana waray na hira, sugad hin mga duron nagkalupad na. 
 17 An imo mga opisyal sugad hin kabalay hin mga duron nga nagpapabilin dida han mga pader ha adlaw nga mahagko t. Kundi kon nasirang na an adlaw, nagkakalupad ini ngan waray nahibabaro kon hain na hira! 
 18 Emperador han Asiria, patay na an imo mga gobernador, ngan nakaturog na ha kadayonan an harangdon mo nga mga tawo! Nagsasarang didto han kabukiran an imo mga tawo, ngan waray na magpapauli ha ira. 
-19 Waray tambal han imo mga kasakitan ngan diri mabubulong an imo mga kasamdan. Namamakpak hin kalipay an ngatanan nga nabati han sumat han imo pagkapukan. May nakapalagiw ba tikang han imo diri natatapos nga kamaraogdaog?  
-Habacuc 1
+19 Waray tambal han imo mga kasakitan ngan diri mabubulong an imo mga kasamdan. Namamakpak hin kalipay an ngatanan nga nabati han sumat han imo pagkapukan. May nakapalagiw ba tikang han imo diri natatapos nga kamaraogdaog?  Habacuc
+Habacuc 1 
 1 Amo ini an mensahe nga iginpadayag han GINOO kan manaragna Habacuc. Nagngurutob hi Habacuc Tungod han Kawaray Katadongan 
 2 O GINOO, san-o pa nimo pamamatii an akon pangaro hin bulig ha imo? San-o ka pa pagtatalwas ha amon hini nga panlupig? 
 3 Kay ano nga pinapakita mo ako hin sugad nga kakurian? Uunanhon mo pakailob hin pagtan-aw hin sugad nga kasaypanan? An mga panruba ug panlupig naglilibot ha akon, ngan may-ada araway ngan pagkabirubingkil ha ngatanan nga dapit. 
@@ -21439,14 +21439,13 @@ Habacuc 1
 6 Ginhihimo ko nga gamhanan an mga Babilonianhon, ito nga magbangis ngan madagmit masina nga mga tawo. Ginlalatas nira an kalibutan hin pagsulong hin iba nga mga tuna. 
 7 Nagpapasarang hira hin kahadlok ngan kakulba, ngan ha ira kamapahitas-on, waray iba nga balaod kon diri an ira la kalugaringon. 8“Malarolaksi kay hin mga leyopardo an ira mga kabayo, mapiropintas kay hin mga gutom nga lubo. Naabot a n ira mga dikabayo tikang ha higrayo nga katunaan; nagbabandok ha tuna an ira mga kabayo. Naabot hira nga nahugdon sugad hin mga agila nga nasulinap hin pagdagit han ira kakaonon. 9“Nasulong an ira mga kasondalohan nga mag-isog ha pag-awayan, ngan nahahadlok an ngatanan han ira pag-aabot. Sugad han baras an kadamo han ira mga bihag. 
 10 Gintatamay nira an kahadian ngan gintataw-an nira an labaw nga mga opisyal. Waray marig-on nga kota nga nakakapugong ha ira—nagtatambak hira hin tuna nga ira sasak-an ngan naagaw nira an kota. 
-11 Niyan nalabay hira sugad hin hangin ngan diri na hinkikit-an ini nga mga tawo kanay gahom amo an ira diyos.” Nagngurutob na Liwat han GINOO 
-Habacuc 12
+11 Niyan nalabay hira sugad hin hangin ngan diri na hinkikit-an ini nga mga tawo kanay gahom amo an ira diyos.” Nagngurutob na Liwat han GINOO hi Habacuc  12 GINOO, Dyos ka na tikang pa ha tinikangan. Ikaw an akon Dyos nga baraan ngan waray kataposan. O GINOO nga akon Dyos ngan mananalipod, ginpili mo an mga Babilonianhon ngan ginpakusog mo hira basi makagkastigo hira ha amon. 
 13 Kundi uunanhon mo hin pakailob hini nga maglingo ngan magraot nga mga tawo? Baraan hin duro an imo mga mata hin pagtan-aw han karat-an, ngan diri ka mailob hin pagkita hin mga tawo nga nagbubuhat hin sayop. Sanglit kay ano nga nahilom ka la samtang ginpupukan nira in mga tawo nga mas matadong kay ha ira? 
 14 Uunanhon mo hin pagdumara hin mga tawo nga sugad hin isda o sugad hin kabalay hin gudtiay nga mga mananap nga waray pangulo nga nagmamando ha ira? 
 15 Dinadakop han mga Babilonianhonan mga tawo pinaagi hin mga kawil ug mga pukot nga sugad hin mga isda la hira, ngan nagoliat hira nga malipayon tungod han ira dakop! 
 16 Ginsisingba pa ngani nira an ira mga pukot ngan ginhahalaran ini hin mga halad nga tinubod, kay nahatag man an ira mga pukot han gimamaupayi nira nga pagkaon. 
-17 Gagamiton ba nira ha kadayonan an ira mga espada ngan magpapadayon ba hira hin pagpuo hin waray pagkalooy han mga nasod?
-Habacuc 2
+17 Gagamiton ba nira ha kadayonan an ira mga espada ngan magpapadayon ba hira hin pagpuo hin waray pagkalooy han mga nasod? 
+Habacuc 2 
 1 Masaka ako han akon lantawan ngan maghuhulat ako kon ano an igsusumat ha akon han GINOO ngan kon ano an iya igbabaton han akon sumbong. 
 2 Ini an ibinaton ha akon han GINOO: “Isurat hin klaro dida hin mga papan nga susuratan an akon igpapadayag ha imo, basi mabasa ini ha usa la ka pagsiplat. 
 3 Isurat ini, kay diri pa ini panahon nga matutuman ini. Kundi diri maiha maabot na an panahon ngan matutuman na an akon igpapakita ha imo. Daw mahinay an iya pag-abot, kundi hulata la ini; maabot gud ini ngan diri na maglalangan. 
@@ -21466,7 +21465,7 @@ Habacuc 2
 17 Pinanmulod niyo an mga kagurangan han Libano; yana kamo naman an pagpupudlon. Pinanmatay niyo an kamanampan hini; yana paghahadlokon kamo hin kamanampan. Mahinanabo ini tungod han panmatay nga iyo nabuhat ngan tungod han iyo panlupig han mga tawo han kalibutan ngan han mga syudad hini. 
 18 Ano an gamit hin diyosdiyos? Butang la ini nga ginhimo hin tawo, ngan waray gud ini iginsusumat ha iyo kon diri mga buwa la. Ano nga kaupayan an nahihimo  hini para han maghirimo hini nga nasarig man hiya hini —usa la nga diyos nga diri ngani nakakayakan! 
 19 Maghihikaraot kamo! Nasiring kamo ngada hin usa ka tipak nga kahoy, “Pagmata!” o ngada hin usa ka bug-os nga bato, “Bangon!” Makakagpadayag ba ngada ha imo hin bisan ano in usa nga diyosdiyos? Bangin pinutos ini hin salapi ug bulawan, kundi waray gud ini kinabuhi. 
-20 Aada an GINOO han iya baraan nga Templo; pamingawa ha iya atubangan an ngatanan dinhe ha tuna.
+20 Aada an GINOO han iya baraan nga Templo; pamingawa ha iya atubangan an ngatanan dinhe ha tuna. 
 Habacuc 3
 1 Pag-ampo ini ni Habacuc nga manaragna: 
 2 O GINOO, hinbatian ko an imo ginbuhat, ngan nahahadlok gud ako. Buhata na liwat yana nga mga panahon an dagko nga mga binuhatan nga imo ginbuhat hadto. Kalooyi kami bisan kon nasisina ka. 
