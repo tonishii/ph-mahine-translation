@@ -8,6 +8,7 @@ from clean_yami import clean_yami
 from clean_ilocano import clean_ilocano
 from clean_cebuano import clean_cebuano
 from clean_espanol import clean_espanol
+from clean_english import clean_english
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -67,6 +68,9 @@ def clean_file(path, dir_name):
 
     if dir_name == "hiligaynon":
       text = clean_hiligaynon(text)
+    
+    if dir_name == "english":
+      text = clean_english(text)
 
     out_dir = f"data/processed/{dir_name}"
     os.makedirs(out_dir, exist_ok=True)
