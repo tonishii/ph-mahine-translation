@@ -4,6 +4,7 @@ from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
 from clean_pangasinese import clean_pangasinese
 from clean_waray import clean_waray
+from clean_tausug import clean_tausug
 from clean_yami import clean_yami
 from clean_ilocano import clean_ilocano
 from clean_cebuano import clean_cebuano
@@ -71,6 +72,9 @@ def clean_file(path, dir_name):
     
     if dir_name == "english":
       text = clean_english(text)
+
+    if dir_name == "tausug":
+      text = clean_tausug(text)
 
     out_dir = f"data/processed/{dir_name}"
     os.makedirs(out_dir, exist_ok=True)
