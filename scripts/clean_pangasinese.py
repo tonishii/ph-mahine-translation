@@ -62,7 +62,7 @@ def clean_pangasinese(text):
     text = re.sub(pattern, "\n", text)
     
     verify(text)
-    return text
+    return text, books
 
 def verify(text):
 

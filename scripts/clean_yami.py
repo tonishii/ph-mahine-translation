@@ -64,7 +64,7 @@ def clean_yami(text):
     text = re.sub(pattern, "\n", text)
 
     verify(text)
-    return text
+    return text, books
 
 def verify(text):
     new_testament_books = [

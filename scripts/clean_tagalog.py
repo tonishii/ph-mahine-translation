@@ -83,7 +83,7 @@ def clean_tagalog(text):
   text = re.sub(pattern, r"\1 \2\n", text)
 
   # verify(text)
-  return text
+  return text, books
 
 def verify(text):
   book_pattern = "|".join(books)
