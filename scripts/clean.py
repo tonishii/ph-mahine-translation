@@ -1,4 +1,5 @@
 import re, os, sys
+import pandas as pd
 from clean_kapampangan import clean_kapampangan
 from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
@@ -11,6 +12,36 @@ from clean_ilocano import clean_ilocano
 from clean_cebuano import clean_cebuano
 from clean_espanol import clean_espanol
 from clean_english import clean_english
+
+def to_excel(text, out_dir):
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    verses = []
+    current_book, current_chapter = None, None
+
+    for line in lines:
+        match = re.match(r"^([1-3]?\s?[A-Za-z]+)\s+(\d+)$", line)
+        if match:
+            current_book, current_chapter = match.groups()
+            continue
+
+        match = re.match(r"^(\d+)\s+(.*)", line)
+        if match and current_book and current_chapter:
+            verse, verse_text = match.groups()
+            verses.append({
+                "Book": current_book.strip(),
+                "Chapter": int(current_chapter),
+                "Verse": int(verse),
+                "Text": verse_text.strip()
+            })
+
+    if verses:
+        df = pd.DataFrame(verses)
+        excel_path = os.path.join(out_dir, "by_verse.xlsx")
+        df.to_excel(excel_path, index=False)
+        print(f"{excel_path} ✓")
+    else:
+        print("Error no excel created")
+
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -86,6 +117,7 @@ def clean_file(path, dir_name):
       f.write(text)
 
     print(out_dir + "/bible_clean.txt ✓")
+    to_excel(text, out_dir)
 
 def main():
   dir_path = "data/raw/"
