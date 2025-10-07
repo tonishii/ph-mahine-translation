@@ -4,6 +4,7 @@ from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
 from clean_pangasinese import clean_pangasinese
 from clean_waray import clean_waray
+from clean_yami import clean_yami
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -32,8 +33,7 @@ def clean_file(path, dir_name):
       text = re.sub(pattern, "", text)
 
     if dir_name == "yami":
-      pattern = r"^(.*?)(?=Matay\s+1\s)"
-      text = re.sub(pattern, "", text)
+      text = clean_yami(text)
 
     if dir_name == "pangasinan":
       text = clean_pangasinese(text)
