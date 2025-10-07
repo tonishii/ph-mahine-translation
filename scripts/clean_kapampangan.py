@@ -2,6 +2,20 @@ import re
 from collections import defaultdict
 
 def clean_kapampangan(text):
+  books = [
+    "Nahum", "Genesis", "Habakuk", "Exodo", "Zepania", "Levitico", "Hageo",
+    "Ding Bilang", "Zacarias", "Deuteronomio", "Malakias", "Josue", "Ukum",
+    "Mateo", "Ruth", "Marcos", "1 Samuel", "Lucas", "2 Samuel", "Juan",
+    "1 Ari", "Ding Dapat", "2 Ari", "Roma", "1 Cronica", "1 Corinto",
+    "2 Cronica", "2 Corinto", "Ezra", "Galacia", "Nehemias", "Efeso",
+    "Ester", "Filipos", "Job", "Colosas", "Ding Dalit", "1 Tesalonica",
+    "Ding Kasebian", "2 Tesalonica", "Ecclesiastes", "1 Timoteo",
+    "Ing Malagung Diling Kanta", "2 Timoteo", "Isaias", "Tito", "Jeremias",
+    "Filemon", "Ding Tagulele", "Hebreo", "Ezekiel", "Santiago", "Daniel",
+    "1 Pedro", "Hosea", "2 Pedro", "Joel", "1 Juan", "Amos", "2 Juan",
+    "Obadias", "3 Juan", "Jonas", "Judas", "Mikeas", "Kapahayagan"
+  ]
+
   # Remove anything with a parentheses or braces and its contents
   pattern = r"\(.*?\)|\{.*?\}"
   text = re.sub(pattern, "", text)
@@ -73,7 +87,7 @@ def clean_kapampangan(text):
   text = re.sub(pattern, r"\1 ne", text)
 
   # verify(text)
-  return text
+  return text, books
 
 def verify(text):
   pattern = r"(Nahum|Genesis|Habakuk|Exodo|Zepania|Levitico|Hageo|Ding Bilang|Zacarias|Deuteronomio|Malakias|Josue|Ukum|Mateo|Ruth|Marcos|1 Samuel|Lucas|2 Samuel|Juan|1 Ari|Ding Dapat|2 Ari|Roma|1 Cronica|1 Corinto|2 Cronica|2 Corinto|Ezra|Galacia|Nehemias|Efeso|Ester|Filipos|Job|Colosas|Ding Dalit|1 Tesalonica|Ding Kasebian|2 Tesalonica|Ecclesiastes|1 Timoteo|Ing Malagung Diling Kanta|2 Timoteo|Isaias|Tito|Jeremias|Filemon|Ding Tagulele|Hebreo|Ezekiel|Santiago|Daniel|1 Pedro|Hosea|2 Pedro|Joel|1 Juan|Amos|2 Juan|Obadias|3 Juan|Jonas|Judas|Mikeas|Kapahayagan)\s(\d+)\n"

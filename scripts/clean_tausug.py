@@ -62,4 +62,4 @@ def clean_tausug(text):
     # Remove leading newlines
     text = re.sub(r'^\s*\n+', '', text)
     
-    return text
+    return text, books

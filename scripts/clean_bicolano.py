@@ -59,4 +59,4 @@ def clean_bicolano(text):
     # Remove the very first newline
     text = re.sub(r'^\s*\n+', '', text)
     
-    return text
+    return text, books

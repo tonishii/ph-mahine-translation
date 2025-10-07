@@ -90,7 +90,7 @@ def clean_cebuano(text):
   text = re.sub(pattern, "\n", text)
 
   # verify(text)
-  return text
+  return text, books
 
 def verify(text: str):
   pattern = rf"({"|".join(books)})\s(\d+)"
