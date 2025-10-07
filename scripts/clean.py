@@ -1,4 +1,4 @@
-import re, os
+import re, os, sys
 from clean_kapampangan import clean_kapampangan
 from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
@@ -73,12 +73,27 @@ def clean_file(path, dir_name):
 
 def main():
   dir_path = "data/raw/"
-  for dir_name in os.listdir(dir_path):
-    if dir_name.startswith("."): continue
 
-    full_path = os.path.join(dir_path, dir_name)
+  if not sys.argv[1:]:
+    for dir_name in os.listdir(dir_path):
+      if dir_name.startswith("."): continue
 
-    clean_file(full_path, dir_name)
+      full_path = os.path.join(dir_path, dir_name)
+
+      if not os.path.exists(full_path + "/bible.txt"):
+        print(f"File not found: {full_path + "/bible.txt"}")
+        continue
+
+      clean_file(full_path, dir_name)
+  else:
+    for argv in sys.argv[1:]:
+      full_path = os.path.join(dir_path, argv)
+
+      if not os.path.exists(full_path + "/bible.txt"):
+        print(f"File not found: {full_path + "/bible.txt"}")
+        continue
+
+      clean_file(full_path, argv)
 
 if __name__ == "__main__":
   main()
