@@ -16,12 +16,16 @@ def clean_kapampangan(text):
     "Obadias", "3 Juan", "Jonas", "Judas", "Mikeas", "Kapahayagan"
   ]
 
-  # Remove anything with a parentheses or braces and its contents
-  pattern = r"\(.*?\)|\{.*?\}"
+  # Remove anything with a parentheses and a digit inside including its contents
+  pattern = r"\(.*\d+-.*\)"
   text = re.sub(pattern, "", text)
 
   # Remove brackets but keep the contents
   pattern = r"\[(.*?)\]"
+  text = re.sub(pattern, r"\1", text)
+
+  # Remove parentheses of the leftovers but keep the contents
+  pattern = r"\((.*?)\)"
   text = re.sub(pattern, r"\1", text)
 
   # Remove the last section of the Bible

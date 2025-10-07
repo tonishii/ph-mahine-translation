@@ -17,6 +17,8 @@ books = [
 ]
 
 def clean_ilocano(text):
+  text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
+
   pattern = r"\s*(?=\n)"
   text = re.sub(pattern, "", text)
 
@@ -24,12 +26,16 @@ def clean_ilocano(text):
   pattern = r"^\n"
   text = re.sub(pattern, "", text)
 
-  # Remove anything with a parentheses and its contents
-  pattern = r"\(.*?\)"
+  # Remove anything with a parentheses and a digit inside including its contents
+  pattern = r"\(.*\d+-.*\)"
   text = re.sub(pattern, "", text)
 
   # Remove brackets but keep the contents
   pattern = r"\[(.*?)\]"
+  text = re.sub(pattern, r"\1", text)
+
+  # Remove parentheses of the leftovers but keep the contents
+  pattern = r"\((.*?)\)"
   text = re.sub(pattern, r"\1", text)
 
   # Remove the last section of the Bible

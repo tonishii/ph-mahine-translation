@@ -1,0 +1,8 @@
+pypdf
+cryptography
+regex
+openpyxl
+beautifulsoup4
+lxml
+requests
+playwright

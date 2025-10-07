@@ -1,4 +1,0 @@
-pypdf
-cryptography
-regex
-openpyxl

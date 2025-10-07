@@ -2,7 +2,7 @@ import re, os, sys, pandas as pd
 
 codes = {
   "english": "ENG",
-  "spanish": "SPA",
+  "espanol": "SPA",
   "yami": "TAO",
   "tagalog": "TGL",
   "cebuano": "CEB",
@@ -14,6 +14,8 @@ codes = {
   "bicolano": "BCL",
   "tausug": "TSG",
   "kalanguya": "KAK",
+  "chavacano": "CBK",
+  "tuwali": "IFK",
 }
 
 def to_excel(text, name):
@@ -26,7 +28,11 @@ def to_excel(text, name):
     if match:
       current_book, current_chapter = match.groups()
     else:
-      p1, p2 = line.split(" ", 1)
+      try:
+        p1, p2 = line.split(" ", 1)
+      except:
+        print(line)
+        return
 
       verses.append({
         "Book": current_book.strip(),
