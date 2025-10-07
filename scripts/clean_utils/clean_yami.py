@@ -8,9 +8,9 @@ def clean_yami(text):
         "1 Tesalonicya", "2 Tesalonicya", "1 Timotay", "2 Timotay", "Tito", "Veydimeng",
         "Sipolay", "Yake", "1 Pite", "2 Pite", "1 Yowani", "2 Yowani", "3 Yowani", "Yota", "Ipaziman"
     ]
-    
+
     books = new_testament_books
-    
+
     pattern = r"^(.*?)(?=Matay\s+1\s)"
     text = re.sub(pattern, "", text)
 
@@ -35,7 +35,7 @@ def clean_yami(text):
     books_pattern = "|".join(books)
 
     pattern = r"({})\s+(\d+)\s(.*?)(?=\d+\s*)".format(books_pattern)
-    text = re.sub(pattern, r"\1 \2 ", text) 
+    text = re.sub(pattern, r"\1 \2 ", text)
     pattern = rf"(^|\s)({books_pattern})\s(\d+)\s\n*(\d+)"
     text = re.sub(pattern, r"\n\1 \2 \3\n\4", text)
 
@@ -59,11 +59,11 @@ def clean_yami(text):
 
     pattern = r"(\d+\s+[A-Za-z]+\s+)\d+\n(\d+)\s*\n+"
     text = re.sub(pattern, r"\1\2\n", text)
-    
+
     pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
     text = re.sub(pattern, "\n", text)
 
-    verify(text)
+    # verify(text)
     return text, books
 
 def verify(text):

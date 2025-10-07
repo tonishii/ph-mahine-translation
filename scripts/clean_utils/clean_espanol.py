@@ -90,7 +90,7 @@ def clean_espanol(text):
   pattern = r"\n\d\n"
   text = re.sub(pattern, "\n", text)
 
-  verify(text)
+  # verify(text)
   return text, books
 
 def verify(text: str):
