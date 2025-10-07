@@ -2,6 +2,8 @@ import re, os
 from clean_kapampangan import clean_kapampangan
 from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
+from clean_ilocano import clean_ilocano
+from clean_cebuano import clean_cebuano
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -11,13 +13,23 @@ def clean_file(path, dir_name):
     pattern = r"\n\s*\n"
     text = re.sub(pattern, "\n", text)
 
-    # Normalize spacing
-    pattern = r"\s+"
-    text = re.sub(pattern, " ", text)
-
     # Removes everything until first chapter
     pattern = r"^(.*?)(?=Genesis\s+1\s)"
     text = re.sub(pattern, "", text)
+
+    # Normalize spacing
+    if dir_name not in ["cebuano", "ilocano"]:
+      pattern = r"\s+"
+      text = re.sub(pattern, " ", text)
+
+    if dir_name == "cebuano":
+      # Removes everything until first chapter
+      text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
+      text = clean_cebuano(text)
+
+    if dir_name == "ilocano":
+      text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
+      text = clean_ilocano(text)
 
     if dir_name == "tagalog":
       text = clean_tagalog(text)
