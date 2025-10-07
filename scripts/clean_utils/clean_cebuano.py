@@ -29,7 +29,7 @@ def clean_cebuano(text):
 
   # Remove anything with a parentheses and its contents
   pattern = r"\(.*?\)"
-  text = re.sub(pattern, "", text)
+  text = re.sub(pattern, "", text, flags=re.S)
 
   # Remove brackets but keep the contents
   pattern = r"\[(.*?)\]"
@@ -44,7 +44,7 @@ def clean_cebuano(text):
   text = re.sub(pattern, "", text)
 
   # Removes special cases
-  pattern = r"(Cebuano.*All Bible\s*|(20[1-9]|2[1-9]\d|[3-9]\d{2,}))"
+  pattern = r"(Cebuano.*All Bible\s*|(20[1-9]|2[1-9]\d|[3-9]\d{2,})|(?<=\n)139\n|(?<=\n)138\n)"
   text = re.sub(pattern, "", text)
 
   # Puts everything that doesnt start with a number in the previous line

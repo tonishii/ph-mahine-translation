@@ -42,6 +42,9 @@ def clean_file(path, dir_name):
     pattern = r"\n\s*\n"
     text = re.sub(pattern, "\n", text)
 
+    pattern = r"-\d+-"
+    text = re.sub(pattern, "", text)
+
     # Normalize spacing
     if dir_name not in ["cebuano", "ilocano", "espanol", "tagalog", "chavacano"]:
       pattern = r"\s+"

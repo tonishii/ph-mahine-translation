@@ -29,9 +29,9 @@ def to_excel(text, name):
       current_book, current_chapter = match.groups()
     else:
       try:
-        p1, p2 = line.split(" ", 1)
+        p1, p2 = line.split(None, 1)
       except:
-        print(line)
+        print(f"Error in processing {name}:", line)
         return
 
       verses.append({
@@ -51,31 +51,30 @@ def to_excel(text, name):
     print("Error no excel")
 
 def main():
-  dir_path = "data/processed"
+  dir_path = "data/raw"
 
   if not sys.argv[1:]:
     for dir_name in os.listdir(dir_path):
       if dir_name.startswith("."): continue
 
-      if not os.path.exists(dir_path + f"/{codes.get(dir_name)}.txt"):
+      if not os.path.exists(f"data/processed/{codes.get(dir_name)}.txt"):
         filename = f"{codes.get(dir_name)}.txt"
-        print(filename)
-        print(f"File not found: {os.path.join(dir_path,filename)}")
+        print(f"File not found: {os.path.join("data/processed/",filename)}")
         continue
 
-      with open(dir_path + f"/{codes.get(dir_name)}.txt", "r", encoding="utf-8") as f:
+      with open(f"data/processed/{codes.get(dir_name)}.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
         to_excel(text, dir_name)
 
   else:
     for argv in sys.argv[1:]:
-      if not os.path.exists(dir_path + f"/{codes.get(argv)}.txt"):
+      if not os.path.exists(f"data/processed/{codes.get(argv)}.txt"):
         filename = f"{codes.get(argv)}.txt"
-        print(f"File not found: {os.path.join(dir_path,filename)}")
+        print(f"File not found: {os.path.join("data/processed/",filename)}")
         continue
 
-      with open(dir_path + f"/{codes.get(argv)}.txt", "r", encoding="utf-8") as f:
+      with open(f"data/processed/{codes.get(argv)}.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
         to_excel(text, argv)
