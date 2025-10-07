@@ -80,6 +80,9 @@ def clean_waray(text):
     
   pattern = r"(Habacuc\s3)(.*)"
   text = re.sub(pattern, r"\n\1", text)
+  
+  pattern = r"\n\d+\s+\n"
+  text = re.sub(pattern, "\n", text)
 
   #verify(text)
   return text, books

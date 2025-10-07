@@ -74,9 +74,6 @@ def clean_hiligaynon(text):
     pattern = r"^\d+,(.*)+"
     text = re.sub(pattern, "", text, flags=re.MULTILINE)
     
-    pattern = r"\n\s*\n"
-    text = re.sub(pattern, "\n", text)
-    
     pattern = r"Esclarecimento(.*)+"
     text = re.sub(pattern, "", text)
     
@@ -109,6 +106,12 @@ def clean_hiligaynon(text):
     
     pattern = r"(?=55-57)"
     text = re.sub(pattern, r"\n", text)
+    
+    pattern = r"[‒]*\d+‒"
+    text = re.sub(pattern, r"", text)
+    
+    pattern = r"\n\s*\n"
+    text = re.sub(pattern, "\n", text)
   
     #verify(text)
     return text, books
