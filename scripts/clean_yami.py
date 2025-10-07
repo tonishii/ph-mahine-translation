@@ -59,6 +59,9 @@ def clean_yami(text):
 
     pattern = r"(\d+\s+[A-Za-z]+\s+)\d+\n(\d+)\s*\n+"
     text = re.sub(pattern, r"\1\2\n", text)
+    
+    pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
+    text = re.sub(pattern, "\n", text)
 
     verify(text)
     return text

@@ -22,6 +22,9 @@ def clean_waray(text):
   
   books = old_testament_books + new_testament_books
   
+  pattern = r"^(.*?)(?=Genesis\s+1\s)"
+  text = re.sub(pattern, "", text)
+    
   pattern = r"\d+\s+Baraan nga Biblia Samarenyo Meaning-Based Bible © 1984 Philippine Bible Society."
   text = re.sub(pattern, "", text)
   
@@ -65,6 +68,9 @@ def clean_waray(text):
   
   pattern = r"(\d+\s+[A-Za-z]+\s+)\d+\n(\d+)\s*\n+"
   text = re.sub(pattern, r"\1\2\n", text)
+  
+  pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
+  text = re.sub(pattern, "\n", text)
   
   verify(text)
   return text

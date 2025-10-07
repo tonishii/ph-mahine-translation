@@ -89,7 +89,7 @@ def main():
       full_path = os.path.join(dir_path, dir_name)
 
       if not os.path.exists(full_path + "/bible.txt"):
-        print(f"File not found: {full_path + "/bible.txt"}")
+        print(f"File not found: {os.path.join(full_path, 'bible.txt')}")
         continue
 
       clean_file(full_path, dir_name)
@@ -98,7 +98,7 @@ def main():
       full_path = os.path.join(dir_path, argv)
 
       if not os.path.exists(full_path + "/bible.txt"):
-        print(f"File not found: {full_path + "/bible.txt"}")
+        print(f"File not found: {os.path.join(full_path, 'bible.txt')}")
         continue
 
       clean_file(full_path, argv)
