@@ -57,7 +57,7 @@ def clean_english(text):
     pattern = r"\s\n(Juan\s+\d+)[ \t]*\n([A-Za-z])"
     text = re.sub(pattern, r" \1\2", text, flags=re.MULTILINE)
     
-    pattern = r"((\d+-)*\d+)(?=[A-Za-z])"
+    pattern = r"((\d+-)*\d+)\s*(?=[A-Za-z])"
     text = re.sub(pattern, r"\n\1 ", text)
     
     pattern = r"^\d,(.*?)(?=\n)"
@@ -94,22 +94,19 @@ def verify(text):
     old_testament_books = [
         "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
         "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel",
-        "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles",
-        "Ezra", "Nehemiah", "Esther", "Job", "Psalms",
-        "Proverbs", "Ecclesiastes", "Song of Songs", "Isaiah",
-        "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea",
-        "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum",
-        "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
+        "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther",
+        "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah",
+        "Lamentations", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah",
+        "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
     ]
 
     new_testament_books = [
-        "Matthews", "Mark", "Luke", "John", "The Acts",
-        "Romans", "1 Corinthians", "2 Corinthians",
-        "Galatians", "Ephesians", "Philippians", "Colossians",
-        "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy",
-        "Titus", "Philemon", "Hebrews", "James", "1 Peter", "2 Peter",
-        "1 John", "2 John", "3 John", "Jude", "Revelation"
+        "Matthew", "Mark", "Luke", "John", "Acts",
+        "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians",
+        "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon",
+        "Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude", "Revelation"
     ]
+
 
     books = old_testament_books + new_testament_books
 
@@ -140,10 +137,11 @@ def verify(text):
     for book, chap in chapters:
         book_chapters[book].append(int(chap))
 
-    # Compare using canonical order
-    for book, expected in zip(books, chapter_counts):
-        found = len(book_chapters[book])
-        if found == expected:
-            print(f"{book} chapters ({found}) in order ✓")
+    for ((book, chaps), count) in zip(book_chapters.items(), chapter_counts):
+        if chaps != sorted(chaps):
+            print(f"Chapters out of order in {book}: {chaps}")
         else:
-            print(f"{book} chapters ({found} SHOULD BE {expected}) NOT in order x")
+            if count == len(chaps):
+                print(f"{book} chapters ({len(chaps)}) in order ✓")
+            else:
+                print(f"{book} chapters ({len(chaps)}) NOT in order x")
