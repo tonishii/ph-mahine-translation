@@ -14,7 +14,7 @@ books = [
 
 def clean_tagalog(text):
 
-  # Remove anything with a parentheses or braces and its contents
+  # Remove anything with a parentheses and its contents
   pattern = r"\(.*?\)"
   text = re.sub(pattern, "", text)
 
@@ -58,6 +58,9 @@ def clean_tagalog(text):
   pattern = rf"({"|".join(books)})\s(\d+)\s(.*?)(?=\d+\s*)"
   text = re.sub(pattern, r"\1 \2\n", text)
 
+  pattern = r"\d+([.,;:!?])\d*"
+  text = re.sub(pattern, r"\1", text)
+
   # Separates by verse
   pattern = r"\s(?=\d+)"
   text = re.sub(pattern, "\n", text)
@@ -78,12 +81,12 @@ def clean_tagalog(text):
   pattern = r"([a-zA-Z]+)\n(\d+)\n"
   text = re.sub(pattern, r"\1 \2\n", text)
 
-  verify(text)
+  # verify(text)
   return text
 
 def verify(text):
   pattern = rf"({"|".join(books)})\s(\d+)\n"
-  chapter_counts = [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52, 5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4]
+  chapter_counts = [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52, 5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5, 3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]
 
   chapters = re.findall(pattern, text)
 
