@@ -15,6 +15,27 @@ from clean_espanol import clean_espanol
 from clean_english import clean_english
 
 def to_excel(text, books, out_dir):
+    name = out_dir[len("data/processed/"):]
+
+    codes = {
+      "english": "ENG",
+      "spanish": "SPA",
+      "yami": "TAO",
+      "tagalog": "TGL",
+      "cebuano": "CEB",
+      "ilocano": "ILO",
+      "kapampangan": "PAM",
+      "hiligaynon": "HIL",
+      "waray": "WAR",
+      "pangasinense": "PAG",
+      "bicolano": "BCL",
+      "chavacano": "CBK",
+      "tausug": "TSG",
+      "maranao": "MRW",
+      "kalanguya": "KAK",
+    }
+    
+    
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     verses = []
     current_book, current_chapter = None, None
@@ -38,10 +59,9 @@ def to_excel(text, books, out_dir):
                 "Text": verse_text.strip()
             })
 
-    # Save results
     if verses:
         df = pd.DataFrame(verses)
-        excel_path = os.path.join(out_dir, "by_verse.xlsx")
+        excel_path = os.path.join("data/by_verse", f"{codes.get(name)}.xlsx")
         df.to_excel(excel_path, index=False)
         print(f"{excel_path}")
     else:
