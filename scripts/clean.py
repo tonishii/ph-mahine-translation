@@ -4,6 +4,7 @@ from clean_tagalog import clean_tagalog
 from clean_hiligaynon import clean_hiligaynon
 from clean_pangasinese import clean_pangasinese
 from clean_waray import clean_waray
+from clean_bicolano import clean_bicolano
 from clean_kalanguya import clean_kalanguya
 from clean_tausug import clean_tausug
 from clean_yami import clean_yami
@@ -70,6 +71,9 @@ def clean_file(path, dir_name):
 
     if dir_name == "hiligaynon":
       text = clean_hiligaynon(text)
+    
+    if dir_name == "bicolano":
+      text = clean_bicolano(text)
       
     if dir_name == "kalanguya":
       text = clean_kalanguya(text)
