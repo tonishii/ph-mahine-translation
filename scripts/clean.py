@@ -55,15 +55,15 @@ def clean_file(path, dir_name):
     # Removes unnecessary newlines
     pattern = r"\n\s*\n"
     text = re.sub(pattern, "\n", text)
-
-    # Removes everything until first chapter
-    pattern = r"^(.*?)(?=Genesis\s+1\s)"
-    text = re.sub(pattern, "", text)
-
+    
     # Normalize spacing
     if dir_name not in ["cebuano", "ilocano", "espanol"]:
       pattern = r"\s+"
       text = re.sub(pattern, " ", text)
+
+    # Removes everything until first chapter
+    pattern = r"^(.*?)(?=Genesis\s+1\s)"
+    text = re.sub(pattern, "", text)
 
     books = []
     
@@ -87,6 +87,7 @@ def clean_file(path, dir_name):
 
     if dir_name == "tausug":
       pattern = r"^(.*?)(?=Matiyu\s+1\s)"
+      text = re.sub(pattern, "", text)
       text, books = clean_tausug(text)
 
     if dir_name == "yami":
@@ -117,9 +118,6 @@ def clean_file(path, dir_name):
     
     if dir_name == "english":
       text, books = clean_english(text)
-
-    if dir_name == "tausug":
-      text, books = clean_tausug(text)
 
     out_dir = f"data/processed/{dir_name}"
     os.makedirs(out_dir, exist_ok=True)
