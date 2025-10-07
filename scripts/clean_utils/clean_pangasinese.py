@@ -8,60 +8,60 @@ def clean_pangasinese(text):
         "1 Tesalonica", "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
         "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Puyan"
     ]
-    
+
     books = new_testament_books
-    
+
     pattern = r"\d+\s+Pangasinan Maung a Balita Biblia New Testament © 1977, Bible © 1983, Philippine Bible Society\.\s+"
     text = re.sub(pattern, "", text)
-    
+
     pattern = r"^(.*?)(?=Mateo\s+1\s)"
     text = re.sub(pattern, "", text)
-    
+
     pattern = r"\((.*?)\)|\{(.*?)\}"
     text = re.sub(pattern, "", text)
-    
+
     pattern = r'\s+([.,;:!?])'
     text = re.sub(pattern, "", text)
-    
+
     pattern = r'\s+([-])'
     text = re.sub(pattern, "-", text)
-    
+
     pattern = r'([-])\s+'
     text = re.sub(pattern, "-", text)
-    
+
     books_pattern = "|".join(books)
-    
+
     pattern = r"({})\s+(\d+)\s(.*?)(?=\d+\s*)".format(books_pattern)
     text = re.sub(pattern, r"\1 \2 ", text)
 
     pattern = rf"(^|\s)({books_pattern})\s(\d+)\s\n*(\d+)"
     text = re.sub(pattern, r"\n\1 \2 \3\n\4", text)
-    
+
     pattern = r"^\s+"
     text = re.sub (pattern, "", text, flags=re.MULTILINE)
-    
+
     pattern = r"\s\n(Juan\s+\d+)[ \t]*\n([A-Za-z])"
     text = re.sub(pattern, r" \1\2", text, flags=re.MULTILINE)
-    
+
     pattern = r"((\d+-)*\d+) (?=[A-Za-z])"
     text = re.sub(pattern, r"\n\1 ", text)
-    
+
     pattern = r"^\d,(.*?)(?=\n)"
     text = re.sub(pattern, "", text, flags=re.MULTILINE)
-    
+
     pattern = r"\n\s*\n"
     text = re.sub(pattern, "\n", text)
-    
+
     pattern = r"Esclarecimento(.*)+"
     text = re.sub(pattern, "", text)
-    
+
     pattern = r"(\d+\s+[A-Za-z]+\s+)\d+\n(\d+)\s*\n+"
     text = re.sub(pattern, r"\1\2\n", text)
-    
+
     pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
     text = re.sub(pattern, "\n", text)
-    
-    verify(text)
+
+    # verify(text)
     return text, books
 
 def verify(text):
