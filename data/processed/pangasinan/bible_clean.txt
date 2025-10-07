@@ -947,7 +947,7 @@ Mateo 28
 17 Nen anengneng day Jesus inggalang da, anggaman a wala ni ray manduaruwad sikara. 
 18 Inmasingger si Jesus tan inkuantod sikara, "Niiter lad siak so amin a pakayari dimad tawen tan diad dalin. 
 19 Kanyan, laka yod saray katoowan ed amin a bansa tan gawa yo ran disipulok. Binyagan yo ra diad ngaray Ama tan diad Anak tan diad Ispiritu Santo, 
-20 tan ibangat yo ran mangonur ed amin ya ingganggan ko d sik ayo. Tan tandaan yo! Siak, ibaan ta kayo lawas anggad pansamput na panaon." Marcos
+20 tan ibangat yo ran mangonur ed amin ya ingganggan ko d sik ayo. Tan tandaan yo! Siak, ibaan ta kayo lawas anggad pansamput na panaon." 
 Marcos 1
 1 Sikato yay Maung a Balitan nipaakar ed Jesu-Cristo, say Anak na Dios. 
 2 Ginmapo onung na insulat nen propita Isaias: "Inkuay Dios, 'Niay managpulong ko. Sikatoy ibakik ya onona nen sika a mangiparaay dalanen mo.’ 
@@ -1601,7 +1601,7 @@ Marcos 16
 17 Saray mananisia naitdan ira na saray tanda na pakayari: papawayen da ray dimonyo ed ngaran ko; mansalita ray nandoroman salita; 
 18 no mamemben iray oleg tan no oninom iray samal anggapoy maoges a nagawad sikara; tan onabig iray mansasakit a pangitapewan da ray lima ra.” 
 19 Kasumpal ya akisalitay Katawan a Jesus ed sikara, niatagey ed tawen tan inmirung ed nikawanan na Dios. 
-20 Linma sirin a nampupulong ed amin a pasen iray disipulo. Tinulongan iray Katawan ed sayan kimey da. Initdan to ray pakayari a manggaway milagro a pamaneknek ton katwaan so salita ya impupulong da.] Lucas
+20 Linma sirin a nampupulong ed amin a pasen iray disipulo. Tinulongan iray Katawan ed sayan kimey da. Initdan to ray pakayari a manggaway milagro a pamaneknek ton katwaan so salita ya impupulong da.] 
 Lucas 1
 1 Kagalgalang kon Teofilo: Amayamay la ray nanoksuy tan nansulat na nipaakar ed saray bengatlan agawgawad pegley mi. 
 2 Insulat da ray imbabalitad sikami na saray akakkaimatun nanlapud gapo ed sarayan agawgawa tan nampupulong na salitay Dios. 
@@ -2666,7 +2666,7 @@ Lucas 24
 50 Inyakar to rad satan ed paway na siudad. Kasabi rad Betania, intagey to ray lima to tan binindisionan to ra. 
 51 Nen bibindisionan to ra, tinaynan to ra tan niatagey ed tawen. 
 52 Inggalang da tan pinmawil iran magaygayaga ed Jerusalem. 
-53 Wala ra lawas ed Timplo a misalsalamat ed Dios. Juan
+53 Wala ra lawas ed Timplo a misalsalamat ed Dios. 
 Juan 1
 1 Diad gapoy gapo wala la so Salita. Say Salita kaibay Dios tan sikatoy Dios. 
 2 Diad gapoy gapo kaiba lay Dios so Salita. 
@@ -4420,7 +4420,7 @@ Juan 21
 27 Ta inmawet iray olo da ra yan totoo, saray layag da nakar dan pinepetan, tan inkopit da ray mata ra. Lapud ag da labay a makanengneng, o makadngel o makatalus ira. Ta ompan lagi ompawi l irad siak a mabolbolus, et paabigen ko ra—kuay Dios.'“ 
 28 Inkuanen Pablo ed kaonuran, "Nepeg yon amtaen a nipulong lad saray Hintil yan balita a nipaakar ed pangilabay Dios. Ondengel ira!” 
 30 Duay taon a nanayam ed Roma si Pablo diad abung ya inabangan t o tan inaawat ton amin iray linmad sikato. 
-31 Makmakpel so linawa to tan ag asebelsebelan ed impanpupulong toy nipaakar ed Panariay Dios tan diad impanbabangat toy nipaakar ed Katawan a Jesu-Cristo. Roma
+31 Makmakpel so linawa to tan ag asebelsebelan ed impanpupulong toy nipaakar ed Panariay Dios tan diad impanbabangat toy nipaakar ed Katawan a Jesu-Cristo. 
 Roma 1
 1 Sayan sulat nanlapud kinen Pablo, sakey ya aripen nen Jesu-Cristo, atawag a magmaliw ya apostol tan pinilin mampulong na Maung a Balita na Dios. 
 2 Sayan Maung a Balita ya abayag lan insipay Dios diad panamegley da ray propita to tan nikorit ed Masanton Sulat, 
@@ -5585,7 +5585,7 @@ Roma 16
 10 Isusulat ko ra yan bengatla legan ya andi ak nid tan, pian no onsabi ak et ag la nakaukolan a masebesebeg ak ed sikayo, diad pangikanak na pakayarin inter ed siak na Katawan. Niiter ed siak yan pakayari a pankaabigan yo, aliwan kaderalan yo. 
 11 Salaya, agagi, tan mampatanir ak la Panseetan yoy pagmaliw yon ayadyari, onur yo ray bangat ko, mankakasakey kayod kanunotan, tan mambilay kayon mareen. Diad o ntan, say Dios na aro tan kareenan so niwalad sikayo. 
 12 Mambabanowan kayod panamegley na inaagin angub. Ibabano kayoy amin a totooy Dios. 
-13 Nawalaan kayon amin komuy bindision na Katawan a Jesu-Cristo, say aroy Dios, tan say pikakasakey na Ispiritu Santo! Galacia
+13 Nawalaan kayon amin komuy bindision na Katawan a Jesu-Cristo, say aroy Dios, tan say pikakasakey na Ispiritu Santo! 
 Galacia 1
 1 Sayan sulat nanlapud kinen Pablo a say inkaapostol to et ag nanlapud too o diad panamegley na too, no ag ingen diad panamegley nen Jesu-Cristo tan say Dios Ama ya amaolid bilay ed sikato. 
 2 Mikakasakey ed siak ya amin iray agagin ka ibak dia a mangipapasabi na pabano ed saray iglisia ed Galacia: 
@@ -5740,7 +5740,7 @@ Galacia 6
 15 Asegat man odin o andi so sakey a too, anggapoy wala Say manona say pagmaliw a balon pinalsa. 
 16 Diad amin a mambibilay on ung ed sayan totontonen tan pati amin a totooy Dios—nawalaan ira komuy kareenan tan panangasiy Dios! 
 17 Kanyan manlapud natan, ag la komun aruman na anggan siopa so kairapan ko, ta saray piglat na laman ko so mangipapaamta ya aripen ak nen Jesus. 
-18 Agagi, nawalaan kayon amin komuy bindision na Katawan tayon Jesu-Cristo. Amen. Efeso
+18 Agagi, nawalaan kayon amin komuy bindision na Katawan tayon Jesu-Cristo. Amen. 
 Efeso 1
 1 Sayan sulat nanlapud kinen Pablo ya apostol nen Cristo J esus, onung ed linaway Dios — Diad saray totooy Dios a wala rad Efeso, saray matoor ed Cristo Jesus: 
 2 Itdan kayo komun na Dios ya Ama tayo tan say Katawan a Jesu-Cristo na bindision tan kareenan. 
@@ -5898,7 +5898,7 @@ Efeso 6
 21 Si Tikico, ya inararon agi tan matoor a managlingkur na Katawan, so mangibalitad sikayoy amin a nipaakar ed siak, pian nakabatan yoy kipapasen tan gagawaen ko. 
 22 Kanyan ibakik ditan pian naamtaan yoy kipapasen mi, et napabiskeg so linawa yo. 
 23 Say kareenan tan aro a katekep na pananisia so iter komuy Dios Ama tan Katawan a Jesu-Cristo ed saray agagi. 
-24 Nawalaan kayo komuy bindisioy Dios, amin yon say panangaro yod Katawan tayon Jesu-Cristo et ag ompatey. Filipos
+24 Nawalaan kayo komuy bindisioy Dios, amin yon say panangaro yod Katawan tayon Jesu-Cristo et ag ompatey. 
 Filipos 1
 1 Sayan sulat nanlapud kindi Pablo tan Timoteo, saray aripen nen Cristo Jesus— Diad amin da ray mananisiad Cristo Jesus a taga ra Filipos, lautlad saray pangulo tan mananulong na iglisia: 
 2 Itdan kayo komun na Dios ya Ama tayo tan say Katawan a Jesu-Cristo na bindision tan kareenan. 
@@ -6006,7 +6006,7 @@ Filipos 4
 20 Say Dios tan Ama tayo so nagalang komun ya anggad angga. Amen. 
 21 Ibabano ta kayon amin a totooy Dios tan mananisiad Cristo Jesus Papaibanoan met iray agagin wadyan kaibak. 
 22 Amin iray totooy Dios dia, lautlad saray mananisian wal ad palasioy Impirador, et papaibanoan met ira. 
-23 Nawalaan kayon amin komuy panangaro na Katawan a Jesu-Cristo. Colosas
+23 Nawalaan kayon amin komuy panangaro na Katawan a Jesu-Cristo. 
 Colosas 1
 1 Sayan sulat nanlapud kinen Pablo ya apostol nen Cristo Jesus onung ed linaway Dios, tan nanlapu met ed agi tayon si Timoteo— 
 2 Diad saray totooy Dios a taga ra Colosas, saray matoor ya agagi ed Cristo: Itdan kayo komun na Dios ya Ama tayo na bindision tan kareenan. 
@@ -6453,7 +6453,7 @@ Colosas 4
 19 Ibanoan mo ak pad kindi Priscila tan Akila, tan diad pamilya nen Onesiforo. 
 20 Atilak ed Corinto si Erasto, balet tinaynan koy Trofimo ed Mileto, ta mansasakit. 
 21 Gawam so anggaay nayarian mon onla dia, kasakbayay panaon na ambetel. Papaibanoan ira di Eubulo, Pudente, Lino, Claudia tan amin da ray agagi. 
-22 Niwala komun ed ispiritum so Katawan Nawalaan kayo komuy bindision na Dios. Tito
+22 Niwala komun ed ispiritum so Katawan Nawalaan kayo komuy bindision na Dios. 
 Tito 1
 1 Sayan sulat nanlapud kinen Pablo ya aripen na Dios tan apostol nen Jesu-Cristo. Nibaki ak a mamabiskeg ed pananisia da ray totoon pinili na Dios tan mangiwanwan ed sikara ed katwaan ya ontokuy ed kasantosan, 
 2 a niletneg ed ilalod andi-anggaan a bilay. Say Dios ya ag mantila so angisipan ed sayan bilay, nanlapu lad kasakbayan na inkapalsay mundo. 
@@ -6502,7 +6502,7 @@ Tito 3
 12 Paonlaen kod tan si Artemas odino si Tikico Kasabi to, gawam so anggaay nayarian mon onlad siak diad Nicopolis, ta labay koy manayam diman legay panaon na ambetel. 
 13 Gawam so anggaay nayarian mon ontulong ed kinen Zenas ya abogado tan si Apolos, pian makakar la ran tampol ed laen da Asikasom a walan amiy nakaukolan da. 
 14 Ibangat mo ray kakaiba tayo ya ikana ray panaon da ed panggaway maabig tan pangiter day talagan nakaukolan Ag da komun dadarakey bilay da. 
-15 Papaibanoan ya amin iray kakaibak dia. Ibanoan yo kami pad saray agagid pananisia. Nawalaan kayon amin komuy bindision na Dios. Filemon
+15 Papaibanoan ya amin iray kakaibak dia. Ibanoan yo kami pad saray agagid pananisia. Nawalaan kayon amin komuy bindision na Dios. 
 Filemon 1
 1 Sayan sulat nanlapud kinen Pablo, sakey a priso makasengeg ed Cristo Jesus, tan nanlapu met ed kinen Timoteo ya agi ta — Diad kinen Filemon ya inararo min kakimeyan, 
 2 tan diad iglisia a mantitipon ed abung to, dia d kinen Apia ya agi min bii, tan diad kinen Arkipo a kapara min sondalo: 
@@ -6528,7 +6528,7 @@ Filemon 1
 22 Iparaanan mo ak pa met na natuloyan ko, ta iilaloan kon iyabuloy na Dios a makapawil ak ditan onung na ipipikasi yon amin. 
 23 Papaibanoay Epafras a kaibak dian apriso, lapud Cristo Jesus. 
 24 Ontan met a papaibanoan ira di Marcos, Aristarco, Demas, tan Lucas a kakimeyan ko ra. 
-25 Nawalaan kayon amin komuy bindision na Katawan a Jesu-Cristo. Hebreo
+25 Nawalaan kayon amin komuy bindision na Katawan a Jesu-Cristo. 
 Hebreo 1
 1 Nen saman, nansal itay Dios ed saray lalaki tayo diad panamegley da ray propita. Amimpiga-piga to yan ginagawa, tan diad nandoroman pamaakaran. 
 2 Balet diad sarayan kaonuran ya agew, say Dios nansalitad sikatayo diad panamegley na Anak to. Pinalsa na Dios so sankamundoan di ad panamegley na Anak, a pinili ton manawir na amin a bengatla. 
@@ -6843,7 +6843,7 @@ Hebreo 13
 22 Kekerewen kod sikayo, agagi, ya anosan yon dengelen yan bangat kon mamabiskeg na linawa yo, ta antikey met yan sulat kod sikayo. 
 23 Labay kon amtaen yo a nibolus lay agi tayon si Timoteo, tan no onsabin tampol, itagar ko no onla ak ditan. 
 24 Ibanoan yo kami pad saray pangulo yo tan amin a totooy Dios Ibabano da kayo ray agagin walad Italia. 
-25 Nawalaan kayon amin komuy bindision na Dios. Santiago
+25 Nawalaan kayon amin komuy bindision na Dios. 
 Santiago 1
 1 Sayan sulat nanlapud kinen Santiago, aripen na Dios tan say Katawan a Jesu-Cristo: Ibabano ta kayon amin a totooy Dios, amin yon akaykayat ed intiron mundo. 
 2 Agagi, panliketan yo so panlilikna yoy nandoroman subsubok na bilay, 
@@ -7270,7 +7270,7 @@ Santiago 5
 12 Maung so pantatasi na balang sakey nipaakar e d kinen Demetrio; say katwaan so dilin mantatasi. Tasian mi met, tan amtam a katwaan so ibabaga mi. 
 13 Amayamay ni ray labay kon ibagad sika, balet aliwa lan diad panamegley na sulat. 
 14 Iilaloan kon magano lay pakapannengneng tan pakapantongtong ta. 
-15 Nawalaan ka komuy kareenan Ibabano da ka ray kakaaro ta dia. Ibanoan mo ak pad saray wadtan a kakaaro ta—balang sakey ed sikara. Judas
+15 Nawalaan ka komuy kareenan Ibabano da ka ray kakaaro ta dia. Ibanoan mo ak pad saray wadtan a kakaaro ta—balang sakey ed sikara. 
 Judas 1
 1 Sayan sulat nanlapud kinen Judas ya aripen nen Jesu-Cristo, tan agi nen Santiago— Diad saray tinawag na Dios a mambibilay irad panangaroy Dios Ama tan panagtalima nen Jesu-Cristo: 
 2 Napano-pano kayo komuy panangasi, kareenan, tan aro. 
@@ -7296,7 +7296,7 @@ Judas 1
 22 Kasian yo ray manduaruwa; 
 23 ilaban yo ray arum diad panamegley na pangyarawi yod sikara ed apoy Kasian yo met iray arum, balet nantekep na takot so pangasi yo; bosul yoy ikakawes dan amansaay maoges iran pilalek na laman. 
 24 Diad sikato a makaasikasod sikayo pian ag kayo napelag tan makapangyarap ed sikayo ya anggapoy pakabalawan ed sikayo, tan walay baleg a liket diad mapagalang a kawalaan to— 
-25 diad saksakey a Dios a Manangilaban tayo diad panamegley nen Jesu-Cristo a Katawan tayo, so kawalaan komuy kagalangan, katageyan, pakayari, tan pakaoley, manlapud gapoy gapo, natan, tan anggad angga! Amen. Puyan
+25 diad saksakey a Dios a Manangilaban tayo diad panamegley nen Jesu-Cristo a Katawan tayo, so kawalaan komuy kagalangan, katageyan, pakayari, tan pakaoley, manlapud gapoy gapo, natan, tan anggad angga! Amen. 
 Puyan 1
 1 Diad sayan libro nisulat iray impuyan na Dios ed Jesu-Cristo. Impuyan na Dios ira ya, pian nipaamta tod saray aripen to ray asingger lan nakaukolan a nagawa. Impaamta met ira ya nen Jesu-Cristo ed kinen Juan ya aripen to diad impangibaki toy sakey ya anghil to, 
 2 tan imbaga nen Juan ya amin iray anengneng to. Sikato yay pamapaneknek to nipaakar ed salitan nanlapud Dios tan say katwaan a tinasian nen Jesu-Cristo. 
