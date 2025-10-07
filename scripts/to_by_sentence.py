@@ -2,7 +2,7 @@ import re, os
 
 codes = {
   "english": "ENG",
-  "spanish": "SPA",
+  "espanol": "SPA",
   "yami": "TAO",
   "tagalog": "TGL",
   "cebuano": "CEB",
@@ -14,6 +14,8 @@ codes = {
   "bicolano": "BCL",
   "tausug": "TSG",
   "kalanguya": "KAK",
+  "chavacano": "CBK",
+  "tuwali": "IFK",
 }
 
 def to_sentence(text, books, name):

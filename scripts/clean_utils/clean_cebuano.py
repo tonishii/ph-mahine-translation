@@ -18,6 +18,8 @@ books = [
 ]
 
 def clean_cebuano(text):
+  text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
+
   pattern = r"\s*(?=\n)"
   text = re.sub(pattern, "", text)
 

@@ -10,7 +10,9 @@ books = [
 ]
 
 def clean_tausug(text):
-    
+    pattern = r"^(.*?)(?=Matiyu\s+1\s)"
+    text = re.sub(pattern, "", text)
+
     # Remove footer
     pattern = r"\b\d+\s+Tausug KITAB INJIL © 1998, Wycliffe Bible Translators, Inc\.\s*"
     text = re.sub(pattern, "", text)
@@ -31,10 +33,10 @@ def clean_tausug(text):
     # Remove standalone ꞌ
     pattern = r"\bꞌ\b"
     text = re.sub(pattern, "", text)
-    
+
     pattern = r"[\(\[\{;,\-]*[A-Z][a-z]{1,3}\.\s*\d+:\d+(?:-\d+)?[\)\]\};,\-]*"
     text = re.sub(pattern, "", text)
-    
+
 
     # Replace multiple spaces with one space
     pattern = r"[ \t]+"
@@ -55,11 +57,11 @@ def clean_tausug(text):
     # Remove “Esclarecimento” and everything after
     pattern = r"Esclarecimento(.|\n)*"
     text = re.sub(pattern, "", text)
-    
+
     # Remove double newlines
     text = re.sub(r'\n\n+', '\n', text)
-    
+
     # Remove leading newlines
     text = re.sub(r'^\s*\n+', '', text)
-    
+
     return text, books

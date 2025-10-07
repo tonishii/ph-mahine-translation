@@ -106,7 +106,7 @@ Génesis 4
 22 Y Zila también dio a luz a Tubal-caín, artífice de toda obra de bronce y de hierro; y la hermana de Tubal-caín fue Naama.
 23 Y d ijo Lamec a sus mujeres Ada y Zila oíd mi voz Mujeres de Lamec escuchad mi dicho Que un varón mataré por mi herida Y un joven por mi golpe.
 24 Si siete veces será vengado Caín Lamec en verdad setenta veces siete lo será.
-25 Y conoció de nuevo Adán a su mujer la cual dio a luz un hijo y llamó su nombre Set: Porque Dios me ha sustituido otro hijo en lugar de Abel, a quien mató Caín.
+25 Y conoció de nuevo Adán a su mujer la cual dio a luz un hijo y llamó su nombre Set: Porque Dios dijo ella me ha sustituido otro hijo en lugar de Abel, a quien mató Caín.
 26 Y a Set también le nació un hijo y llamó su nombre Enós Entonces los hombres comenzaron a invocar el nombre de Jehová.
 Génesis 5
 1 Éste es el libro de las generaciones de Adán El día en que creó Dios al hombre, a semejanza de Dios lo hizo.
@@ -494,7 +494,7 @@ Génesis 19
 17 Y cuando los hubieron llevado fuera dijeron: Escapa por tu vida no mires tras ti, ni pares en toda esta llanura; escapa al monte, no sea que perezcas.
 18 Pero Lot les dijo: No, yo os ruego, señores míos.
 19 He aquí ahora ha hallado vuestro siervo gracia en vuestros ojos y habéis engrandecido vuestra misericordia que habéis hecho conmigo dándome la vida; mas yo no podré escapar al monte no sea que me alcance el mal y muera.
-20 He aquí ahora esta ciudad está cerca para huir allá la cual es pequeña dejadme escapar ahora allá y salvaré mi vida.
+20 He aquí ahora esta ciudad está cerca para huir allá la cual es pequeña dejadme escapar ahora allá ¿no es ella pequeña? y salvaré mi vida.
 21 Y l e respondió He aquí he recibido también tu súplica sobre esto y no destruiré la ciudad de que has hablado.
 22 Date prisa, escápate allá; porque nada podré hacer hasta que hayas llegado allí. Por eso fue llamado el nombre de la ciudad, Zoar.
 23 El sol salía sobre la tierra, cuando Lot llegó a Zoar.
@@ -1050,7 +1050,7 @@ Génesis 35
 3 Y l evantémonos, y subamos a Bet -el; y haré allí altar al Dios que me respondió en el día de mi angustia, y ha estado conmigo en el camino que he andado.
 4 Así dieron a Jacob todos los dioses ajenos que había en poder de ellos y los zarcillos que estaban en sus orejas; y Jacob los escondió debajo de una encina que estaba junto a Siquem.
 5 Y salieron, y el terror de Dios estuvo sobre las ciudades que había en sus alrededores, y no persiguieron a los hijos de Jacob.
-6 Y llegó Jacob a Luz, que está en tierra de Canaán él y todo el pueblo que con él estaba.
+6 Y llegó Jacob a Luz, que está en tierra de Canaán ésta es Bet-el, él y todo el pueblo que con él estaba.
 7 Y e dificó allí un altar y llamó al lugar El -bet-el, porque allí le había aparecido Dios, cuando huía de su hermano.
 8 Entonces murió Débora ama de Rebeca y fue sepultada al pie de Bet -el, debajo de una encina, la cual fue llamada Alón-bacut.
 9 Apareció otra vez Dios a Jacob cuando había vuelto de Padan -aram, y le bendijo.
@@ -1062,7 +1062,7 @@ Génesis 35
 15 Y llamó Jacob el nombre de aquel lugar donde Dios había hablado con él Bet-el. Muerte de Raquel
 16 Después partieron de Bet -el; y había aún como media legua de tierra para llegar a Efrata, cuando dio a luz Raquel, y hubo trabajo en su parto.
 17 Y a conteció, como había trabajo en su parto que le dijo la partera No temas, que también tendrás este hijo.
-18 Y aconteció que al salírsele el alma llamó su nombre Benoni; mas su padre lo llamó Benjamín.
+18 Y aconteció que al salírsele el alma pues murió llamó su nombre Benoni; mas su padre lo llamó Benjamín.
 19 Así murió Raquel, y fue sepultada en el camino de Efrata, la cual es Belén.
 20 Y levantó Jacob un pilar sobre su sepultura ésta es la señal de la sepultura de Raquel hasta hoy.
 21 Y salió Israel, y plantó su tienda más allá de Migdal-edar. Los hijos de Jacob
@@ -2556,7 +2556,8 @@ Génesis 50
 35 Y Jehová hirió al pueblo, porque habían hecho el becerro que formó Aarón.
 Éxodo 33
 1 Jehová dijo a Moisés Anda, sube de aquí tú y el pueblo que sacaste de la tierra de Egipto a la tierra de la cual juré a Abraham Isaac y Jacob diciendo: A tu descendencia la daré;
-2 y yo enviaré delante de ti el ángel y echaré fuera al cananeo y al amorreo al heteo, al ferezeo, al heveo y al jebuseo pero yo no subiré en medio de ti, porque eres pueblo de dura cerviz, no sea que te consuma en el camino.
+2 y yo enviaré delante de ti el ángel y echaré fuera al cananeo y al amorreo al heteo, al ferezeo, al heveo y al jebuseo
+3 a la tierra que fluye leche y miel; pero yo no subiré en medio de ti, porque eres pueblo de dura cerviz, no sea que te consuma en el camino.
 4 Y oyendo el pueblo esta mala noticia vistieron luto, y ninguno se puso sus atavíos.
 5 Porque Jehová había dicho a Moisés Di a los hijos de Israel Vosotros sois pueblo de dura cerviz; en un momento subiré en medio de ti, y te consumiré. Quítate, pues, ahora tus atavíos, para que yo sepa lo que te he de hacer.
 6 Entonces los hijos de Israel se despojaron de sus atavíos desde el monte Horeb.
@@ -4902,7 +4903,7 @@ Números 32
 35 Atarot-sofán, Jazer, Jogbeha,
 36 Bet-nimra y Bet-arán, ciudades fortificadas; hicieron también majadas para ovejas.
 37 Y los hijos de Rubén edificaron Hesbón, Eleale, Quiriataim,
-38 Nebo, Baal-meón y Sibma; y pusieron nombres a las ciudades que edificaron.
+38 Nebo, Baal-meón mudados los nombres y Sibma; y pusieron nombres a las ciudades que edificaron.
 39 Y l os hijos de Maquir hijo de Manasés fueron a Galaad y la tomaron y echaron al amorreo que estaba en ella.
 40 Y Moisés dio Galaad a Maquir hijo de Manasés, el cual habitó en ella.
 41 También Jair hijo de Manasés fue y tomó sus aldeas y les puso por nombre Havot-jair.
@@ -5137,6 +5138,7 @@ Deuteronomio 3
 6 Y l as destruimos, como hicimos a Sehón rey de Hesbón matando en toda ciudad a hombres, mujeres y niños.
 7 Y tomamos para nosotros todo el ganado, y los despojos de las ciudades.
 8 También tomamos en aquel tiempo la tierra desde el arroyo de Arnón hasta el monte de Hermón, de manos de los dos reyes amorreos que estaban a este lado del Jordán.
+9 Los sidonios llaman a Hermón, Sirión; y los amorreos, Senir.
 10 Todas las ciudades de la llanura y todo Galaad, y todo Basán hasta Salca y Edrei, ciudades del reino de Og en Basán.
 11 Porque únicamente Og rey de Basán había quedado del resto de los gigantes. Su cama una cama de hierro ¿no está en Rabá de los hijos de Amón? La longitud de ella es de nueve codos, y su anchura de cuatro codos según el codo de un hombre. Rubén, Gad y la media tribu de Manasés se establecen al oriente del Jordán
 12 Y esta tierra que heredamos en aquel tiempo, desde Aroer, que está junto al arroyo de Arnón, y la mitad del monte de Galaad con sus ciudades, la di a los rubenitas y a los gaditas;
@@ -5320,7 +5322,7 @@ Deuteronomio 9
 2 un pueblo grande y alto hijos de los anaceos de los cuales tienes tú conocimiento, y has oído decir ¿Quién se sostendrá delante de los hijos de Anac?
 3 Entiende, pues, hoy, que es Jehová tu Dios el que pasa delante de ti como fuego consumidor que los destruirá y humillará delante de ti y tú los echarás, y los destruirás en seguida, como Jehová te ha dicho.
 4 No pienses en tu corazón cuando Jehová tu Dios los haya echado de delante de ti, diciendo: Por mi justicia me ha traído Jehová a poseer esta tierra pues por la impiedad de estas naciones Jehová las arroja de delante de ti.
-5 No por tu justicia, ni por la rectitud de tu corazón entras a poseer la tierra de ellos, sino por la impiedad de estas naciones Jehová tu Dios las arroja de delante de ti y para confirmar la palabra que Jehová juró a tus padres Abraham, Isaac y Jacob. La rebelión de Israel en Horeb
+5 No por tu justicia, ni por la rectitud de tu corazón entras a poseer la tierra de ellos, sino por la impiedad de estas naciones Jehová tu Dios las arroja de delante de ti y para confirmar la palabra que Jehová juró a tus padres Abraham, Isaac y Jacob. La rebelión de Israel en Horeb Ex.—.
 6 Por tanto, sabe que no es por tu justicia que Jehová tu Dios te da esta buena tierra para tomarla; porque pueblo duro de cerviz eres tú.
 7 Acuérdate, no olvides que has provocado la ira de Jehová tu Dios en el desierto; desde el día que saliste de la tierra de Egipto, hasta que entrasteis en este lugar, habéis sido rebeldes a Jehová.
 8 En Horeb provocasteis a ira a Jehová, y se enojó Jehová contra vosotros para destruiros.
@@ -5954,7 +5956,7 @@ Deuteronomio 32
 12 Jehová solo le guió, Y con él no hubo dios extraño.
 13 Lo hizo subir sobre las alturas de la tierra Y comió los frutos del campo E hizo que chupase miel de la peña, Y aceite del duro pedernal;
 14 Mantequilla de vacas y leche de ovejas, Con grosura de corderos, Y carneros de Basán; también machos cabríos, Con lo mejor del trigo Y de la sangre de la uva bebiste vino.
-15 Pero engordó Jesurún y tiró coces Entonces abandonó al Dios que lo hizo Y menospreció la Roca de su salvación.
+15 Pero engordó Jesurún y tiró coces Engordaste, te cubriste de grasa Entonces abandonó al Dios que lo hizo Y menospreció la Roca de su salvación.
 16 Le despertaron a celos con los dioses ajenos Lo provocaron a ira con abominaciones.
 17 Sacrificaron a los demonios, y no a Dios; A dioses que no habían conocido A nuevos dioses venidos de cerca, Que no habían temido vuestros padres.
 18 De la Roca que te creó te olvidaste; Te has olvidado de Dios tu creador.
@@ -6425,7 +6427,7 @@ Josué 15
 22 Cina, Dimona, Adada,
 23 Cedes, Hazor, Itnán,
 24 Zif, Telem, Bealot,
-25 Hazor-hadata, Queriot, Hezrón
+25 Hazor-hadata, Queriot, Hezrón que es Hazor,
 26 Amam, Sema, Molada,
 27 Hazar-gada, Hesmón, Bet-pelet,
 28 Hazar-sual, Beerseba, Bizotia,
@@ -6449,18 +6451,18 @@ Josué 15
 46 Desde Ecrón hasta el mar todas las que están cerca de Asdod con sus aldeas.
 47 Asdod con sus villas y sus aldeas Gaza con sus villas y sus aldeas hasta el río de Egipto, y el Mar Grande con sus costas.
 48 Y en las montañas, Samir, Jatir, Soco,
-49 Dana, Quiriat-sana
+49 Dana, Quiriat-sana que es Debir;
 50 Anab, Estemoa, Anim,
 51 Gosén, Holón y Gilo; once ciudades con sus aldeas.
 52 Arab, Duma, Esán,
 53 Janum, Bet-tapúa, Afeca,
-54 Humta, Quiriat-arba y Sior nueve ciudades con sus aldeas.
+54 Humta, Quiriat-arba la cual es Hebrón y Sior nueve ciudades con sus aldeas.
 55 Maón, Carmel, Zif, Juta,
 56 Jezreel, Jocdeam, Zanoa,
 57 Caín, Gabaa y Timna; diez ciudades con sus aldeas.
 58 Halhul, Bet-sur, Gedor,
 59 Maarat, Bet-anot y Eltecón; seis ciudades con sus aldeas.
-60 Quiriat-baal y Rabá; dos ciudades con sus aldeas.
+60 Quiriat-baal que es Quiriat-jearim y Rabá; dos ciudades con sus aldeas.
 61 En el desierto, Bet-arabá, Midín, Secaca,
 62 Nibsán, la Ciudad de la Sal y En-gadi; seis ciudades con sus aldeas.
 63 Mas a los jebuseos que habitaban en Jerusalén los hijos de Judá no pudieron arrojarlos; y ha quedado el jebuseo en Jerusalén con los hijos de Judá hasta hoy.
@@ -6507,8 +6509,8 @@ Josué 18
 10 Y Josué les echó suertes delante de Jehová en Silo y allí repartió Josué la tierra a los hijos de Israel por sus porciones.
 11 Y s e sacó la suerte de la tribu de los hijos de Benjamín conforme a sus familias; y el territorio adjudicado a ella quedó entre los hijos de Judá y los hijos de José.
 12 Fue el límite de ellos al lado del norte desde el Jordán y sube hacia el lado de Jericó al norte; sube después al monte hacia el occidente, y viene a salir al desierto de Bet-avén.
-13 De allí pasa en dirección de Luz al lado sur de Luz y desciende de Atarot-adar al monte que está al sur de Bet-horón la de abajo.
-14 Y tuerce hacia el oeste por el lado sur del monte que está delante de Bet - horón al sur; y viene a salir a Quiriat -baal ciudad de los hijos de Judá. Éste es el lado del occidente.
+13 De allí pasa en dirección de Luz al lado sur de Luz que es Bet -el, y desciende de Atarot-adar al monte que está al sur de Bet-horón la de abajo.
+14 Y tuerce hacia el oeste por el lado sur del monte que está delante de Bet - horón al sur; y viene a salir a Quiriat -baal que es Quiriat-jearim, ciudad de los hijos de Judá. Éste es el lado del occidente.
 15 El lado del sur es desde el extremo de Quiriat -jearim, y sale al occidente, a la fuente de las aguas de Neftoa;
 16 y desciende este límite al extremo del monte que está delante del valle del hijo de Hinom que está al norte en el valle de Refaim desciende luego al valle de Hinom al lado sur del jebuseo y de allí desciende a la fuente de Rogel.
 17 Luego se inclina hacia el norte y sale a En -semes, y de allí a Gelilot que está delante de la subida de Adumín, y desciende a la piedra de Bohán hijo de Rubén,
@@ -6522,7 +6524,7 @@ Josué 18
 25 Gabaón, Ramá, Beerot,
 26 Mizpa, Cafira, Mozah,
 27 Requem, Irpeel, Tarala,
-28 Zela, Elef, Jebús Gabaa y Quiriat; catorce ciudades con sus aldeas Ésta es la heredad de los hijos de Benjamín conforme a sus familias.
+28 Zela, Elef, Jebús que es Jerusalén Gabaa y Quiriat; catorce ciudades con sus aldeas Ésta es la heredad de los hijos de Benjamín conforme a sus familias.
 Josué 19
 1 La segunda suerte tocó a Simeón para la tribu de los hijos de Simeón conforme a sus familias; y su heredad fue en medio de la heredad de los hijos de Judá.
 2 Y tuvieron en su heredad a Beerseba, Seba, Molada,
@@ -6582,7 +6584,7 @@ Josué 20
 4 Y el que se acogiere a alguna de aquellas ciudades se presentará a la puerta de la ciudad y expondrá sus razones en oídos de los ancianos de aquella ciudad; y ellos le recibirán consigo dentro de la ciudad y le darán lugar para que habite con ellos.
 5 Si el vengador de la sangre le siguiere no entregarán en su mano al homicida, por cuanto hirió a su prójimo por accidente y no tuvo con él ninguna enemistad antes.
 6 Y quedará en aquella ciudad hasta que comparezca en juicio delante de la congregación, y hasta la muerte del que fuere sumo sacerdote en aquel tiempo; entonces el homicida podrá volver a su ciudad y a su casa y a la ciudad de donde huyó.
-7 Entonces señalaron a Cedes en Galilea en el monte de Neftalí Siquem en el monte de Efraín, y Quiriat-arba en el monte de Judá.
+7 Entonces señalaron a Cedes en Galilea en el monte de Neftalí Siquem en el monte de Efraín, y Quiriat-arba que es Hebrón en el monte de Judá.
 8 Y a l otro lado del Jordán al oriente de Jericó señalaron a Beser en el desierto, en la llanura de la tribu de Rubén Ramot en Galaad de la tribu de Gad, y Golán en Basán de la tribu de Manasés.
 9 Éstas fueron las ciudades señaladas para todos los hijos de Israel y para el extranjero que morase entre ellos, para que se acogiese a ellas cualquiera que hiriese a alguno por accidente a fin de que no muriese por mano del vengador de la sangre, hasta que compareciese delante de la congregación.
 Josué 21
@@ -6958,7 +6960,7 @@ Jueces 8
 21 Entonces dijeron Zeba y Zalmuna: Levántate tú, y mátanos; porque como es el varón, tal es su valentía. Y Gedeón se levantó, y mató a Zeba y a Zalmuna; y tomó los adornos de lunetas que sus camellos traían al cuello.
 22 Y los israelitas dijeron a Gedeón Sé nuestro señor, tú, y tu hijo, y tu nieto; pues que nos has librado de mano de Madián.
 23 Mas Gedeón respondió No seré señor sobre vosotros ni mi hijo os señoreará: Jehová señoreará sobre vosotros.
-24 Y l es dijo Gedeón Quiero haceros una petición que cada uno me dé los zarcillos de su botín
+24 Y l es dijo Gedeón Quiero haceros una petición que cada uno me dé los zarcillos de su botín pues traían zarcillos de oro, porque eran ismaelitas.
 25 Ellos respondieron: De buena gana te los daremos Y tendiendo un manto echó allí cada uno los zarcillos de su botín.
 26 Y fue el peso de los zarcillos de oro que él pidió, mil setecientos siclos de oro, sin las planchas y joyeles y vestidos de púrpura que traían los reyes de Madián, y sin los collares que traían sus camellos al cuello.
 27 Y Gedeón hizo de ellos un efod, el cual hizo guardar en su ciudad de Ofra; y todo Israel se prostituyó tras de ese efod en aquel lugar y fue tropezadero a Gedeón y a su casa.
@@ -7659,7 +7661,7 @@ Rut 4
 24 Entonces alzó el cocinero una espaldilla con lo que estaba sobre ella y la puso delante de Saúl Y Samuel dijo: He aquí lo que estaba reservado ponlo delante de ti y come, porque para esta ocasión se te guardó cuando dije: Yo he convidado al pueblo. Y Saúl comió aquel día con Samuel.
 25 Y cuando hubieron descendido del lugar alto a la ciudad él habló con Saúl en el terrado.
 26 Al otro día madrugaron y al despuntar el alba Samuel llamó a Saúl que estaba en el terrado, y dijo: Levántate, para que te despida. Luego se levantó Saúl, y salieron ambos, él y Samuel.
-27 Y d escendiendo ellos al extremo de la ciudad dijo Samuel a Saúl Di al criado que se adelante mas espera tú un poco para que te declare la palabra de Dios.
+27 Y d escendiendo ellos al extremo de la ciudad dijo Samuel a Saúl Di al criado que se adelante y se adelantó el criado mas espera tú un poco para que te declare la palabra de Dios.
 1 Samuel 10
 1 Tomando entonces Samuel una redoma de aceite la derramó sobre su cabeza, y lo besó y le dijo ¿No te ha ungido Jehová por príncipe sobre su pueblo Israel?
 2 Hoy, después que te hayas apartado de mí hallarás dos hombres junto al sepulcro de Raquel, en el territorio de Benjamín, en Selsa, los cuales te dirán: Las asnas que habías ido a buscar se han hallado tu padre ha dejado ya de inquietarse por las asnas y está afligido por vosotros diciendo: ¿Qué haré acerca de mi hijo?
@@ -8438,6 +8440,7 @@ Rut 4
 9 Y temiendo David a Jehová aquel día dijo: ¿Cómo ha de venir a mí el arca de Jehová?
 10 De modo que David no quiso traer para sí el arca de Jehová a la ciudad de David; y la hizo llevar David a casa de Obed-edom geteo.
 11 Y e stuvo el arca de Jehová en casa de Obed -edom geteo tres meses y bendijo Jehová a Obed-edom y a toda su casa. David trae el arca a Jerusalén
+1 Cr.—.
 12 Fue dado aviso al rey David diciendo: Jehová ha bendecido la casa de Obed-edom y todo lo que tiene, a causa del arca de Dios. Entonces David fue, y llevó con alegría el arca de Dios de casa de Obed -edom a la ci udad de David.
 13 Y c uando los que llevaban el arca de Dios habían andado seis pasos él sacrificó un buey y un carnero engordado.
 14 Y D avid danzaba con toda su fuerza delante de Jehová y estaba David vestido con un efod de lino.
@@ -9251,6 +9254,7 @@ Rut 4
 20 Tenían también los capiteles de las dos columnas doscientas granadas en dos hileras alrededor en cada capitel encima de su globo el cual estaba rodeado por la red.
 21 Estas columnas erigió en el pórtico del templo y cuando hubo alzado la columna del lado derecho, le puso por nombre Jaquín y alzando la columna del lado izquierdo, llamó su nombre Boaz.
 22 Y puso en las cabezas de las columnas tallado en forma de lirios y así se acabó la obra de las columnas. Mobiliario del templo
+2 Cr.—.
 23 Hizo fundir asimismo un mar de diez codos de un lado al otro perfectamente redondo; su altura era de cinco codos y lo ceñía alrededor un cordón de treinta codos.
 24 Y rodeaban aquel mar por debajo de su borde alrededor unas bolas como calabazas, diez en cada codo que ceñían el mar alrededor en dos filas, las cuales habían sido fundidas cuando el mar fue fundido.
 25 Y d escansaba sobre doce bueyes tres miraban al norte tres miraban al occidente, tres miraban al sur y tres miraban al oriente sobre éstos se apoyaba el mar, y las ancas de ellos estaban hacia la parte de adentro.
@@ -9292,6 +9296,7 @@ Rut 4
 9 En el arca ninguna cosa había sino las dos tablas de piedra que allí había puesto Moisés en Horeb donde Jehová hizo pacto con los hijos de Israel cuando salieron de la tierra de Egipto.
 10 Y c uando los sacerdotes salieron del santuario la nube llenó la casa de Jehová.
 11 Y l os sacerdotes no pudieron permanecer para ministrar por causa de la nube; porque la gloria de Jehová había llenado la casa de Jehová. Dedicación del templo
+2 Cr.—.
 12 Entonces dijo Salomón: Jehová ha dicho que él habitaría en la oscuridad.
 13 Yo he edificado casa por morada para ti sitio en que tú habites para siempre.
 14 Y volviendo el rey su rostro, bendijo a toda la congregación de Israel; y toda la congregación de Israel estaba de pie.
@@ -9321,11 +9326,12 @@ Rut 4
 38 toda oración y toda súplica que hiciere cualquier hombre o todo tu pueblo Israel, cuando cualquiera sintiere la plaga en su corazón y extendiere sus manos a esta casa,
 39 tú oirás en los cielos, en el lugar de tu morada y perdonarás, y actuarás, y darás a cada uno conforme a sus caminos cuyo corazón tú conoces (porque sólo tú conoces el corazón de todos los hijos de los hombres);
 40 para que te teman todos los días que vivan sobre la faz de la tierra que tú diste a nuestros padres.
-41 Asimismo el extranjero, que no es de tu pueblo Israel, que viniere de lejanas tierras a causa de tu nombre y viniere a orar a esta casa,
+41 Asimismo el extranjero, que no es de tu pueblo Israel, que viniere de lejanas tierras a causa de tu nombre
+42 pues oirán de tu gran nombre, de tu mano fuerte y de tu brazo extendido, y viniere a orar a esta casa,
 43 tú oirás en los cielos en el lugar de tu morada y harás conforme a todo aquello por lo cual el extranjero hubiere clamado a ti para que todos los pueblos de la tierra conozcan tu nombre y te teman como tu pueblo Israel, y entiendan que tu nombre es invocado sobre esta casa que yo edifiqué.
 44 Si tu pueblo saliere en batalla contra sus enemigos por el camino que tú les mandes, y oraren a Jehová con el rostro hacia la ciudad que tú elegiste y hacia la casa que yo edifiqué a tu nombre,
 45 tú oirás en los cielos su oración y su súplica, y les harás justicia.
-46 Si pecaren contra ti y estuvieres airado contra ellos, y los entregares delante del enemigo, para que los cautive y lleve a tierra enemiga, sea lejos o cerca,
+46 Si pecaren contra ti porque no hay hombre que no peque y estuvieres airado contra ellos, y los entregares delante del enemigo, para que los cautive y lleve a tierra enemiga, sea lejos o cerca,
 47 y ellos volvieren en sí en la tierra donde fueren cautivos si se convirtieren, y oraren a ti en la tierra de los que los cautivaron y dijeren: Pecamos, hemos hecho lo malo, hemos cometido impiedad;
 48 y si se convirtieren a ti de todo su corazón y de toda su alma, en la tierra de sus enemigos que los hubieren llevado cautivos y oraren a ti con el rostro hacia su tierra que tú diste a sus padres, y hacia la ciudad que tú elegiste y la casa que yo he edificado a tu nombre,
 49 tú oirás en los cielos, en el lugar de tu morada, su oración y su súplica, y les harás justicia.
@@ -9450,6 +9456,7 @@ Rut 4
 42 Los días que Salomón reinó en Jerusalén sobre todo Israel fueron cuarenta años.
 43 Y durmió Salomón con sus padres, y fue sepultado en la ciudad de su padre David; y reinó en su lugar Roboam su hijo.
 1 Reyes 12
+2 Cr.—.
 1 Roboam fue a Siquem porque todo Israel había venido a Siquem para hacerle rey.
 2 Y aconteció que cuando lo oyó Jeroboam hijo de Nabat que aún estaba en Egipto, adonde había huido de delante del rey Salomón, y habitaba en Egipto,
 3 enviaron a llamarle. Vino, pues, Jeroboam, y toda la congregación de Israel, y hablaron a Roboam, diciendo:
@@ -9826,7 +9833,7 @@ Rut 4
 35 Pero la batalla había arreciado aquel día, y el rey estuvo en su carro delante de los sirios, y a la tarde murió y la sangre de la herida corría por el fondo del carro.
 36 Y a la puesta del sol salió un pregón por el campamento diciendo: ¡Cada uno a su ciudad, y cada cual a su tierra!
 37 Murió, pues, el rey, y fue traído a Samaria; y sepultaron al rey en Samaria.
-38 Y l avaron el carro en el estanque de Samaria y los perros lamieron su sangre conforme a la palabra que Jehová había hablado.
+38 Y l avaron el carro en el estanque de Samaria y los perros lamieron su sangre y también las rameras se lavaban allí conforme a la palabra que Jehová había hablado.
 39 El resto de los hechos de Acab, y todo lo que hizo y la casa de marfil que construyó, y todas las ciudades que edificó ¿no está escrito en el libro de las crónicas de los reyes de Israel?
 40 Y durmió Acab con sus padres, y reinó en su lugar Ocozías su hijo. Reinado de Josafat
 41 Josafat hijo de Asa comenzó a reinar sobre Judá en el cuarto año de Acab rey de Israel.
@@ -10149,6 +10156,7 @@ Rut 4
 35 Y durmió Jehú con sus padres y lo sepultaron en Samaria y reinó en su lugar Joacaz su hijo.
 36 El tiempo que reinó Jehú sobre Israel en Samaria fue de veintiocho años.
 2 Reyes 11
+2 Cr.—.
 1 Cuando Atalía madre de Ocozías vio que su hijo era muerto se levantó y destruyó toda la descendencia real.
 2 Pero Josaba hija del rey Joram hermana de Ocozías tomó a Joás hijo de Ocozías y lo sacó furtivamente de entre los hijos del rey a quienes estaban matando, y lo ocultó de Atalía, a él y a su ama, en la cámara de dormir, y en esta forma no lo mataron.
 3 Y estuvo con ella escondido en la casa de Jehová seis años; y Atalía fue reina sobre el país.
@@ -10370,7 +10378,7 @@ Rut 4
 17 Después el rey de Asiria envió contra el rey Ezequías al Tartán al Rabsaris y al Rabsaces, con un gran ejército, desde Laquis contra Jerusalén, y subieron y vinieron a Jerusalén Y habiendo subido vinieron y acamparon junto al acueducto del estanque de arriba, en el camino de la heredad del Lavador.
 18 Llamaron luego al rey, y salió a ellos Eliaquim hijo de Hilcías mayordomo, y Sebna escriba, y Joa hijo de Asaf, canciller.
 19 Y l es dijo el Rabsaces Decid ahora a Ezequías Así dice el gran rey de Asiria: ¿Qué confianza es esta en que te apoyas?
-20 Dices Consejo tengo y fuerzas para la guerra Mas ¿en qué confías, que te has rebelado contra mí?
+20 Dices pero son palabras vacías Consejo tengo y fuerzas para la guerra Mas ¿en qué confías, que te has rebelado contra mí?
 21 He aquí que confías en este báculo de caña cascada en Egipto, en el cual si alguno se apoyare, se le entrará por la mano y la traspasará. Tal es Faraón rey de Egipto para todos los que en él confían.
 22 Y si me decís: Nosotros confiamos en Jehová nuestro Dios, ¿no es éste aquel cuyos lugares altos y altares ha quitado Ezequías y ha dicho a Judá y a Jerusalén: Delante de este altar adoraréis en Jerusalén?
 23 Ahora, pues, yo te ruego que des rehenes a mi señor el rey de Asiria, y yo te daré dos mil caballos, si tú puedes dar jinetes para ellos.
@@ -11509,7 +11517,7 @@ Rut 4
 2 Y levantándose el rey David puesto en pie dijo Oídme, hermanos míos, y pueblo mío. Yo tenía el propósito de edificar una casa en la cual reposara el arca del pacto de Jehová y para el estrado de los pies de nuestro Dios y había ya preparado todo para edificar.
 3 Mas Dios me dijo: Tú no edificarás casa a mi nombre, porque eres hombre de guerra, y has derramado mucha sangre.
 4 Pero Jehová el Dios de Israel me eligió de toda la casa de mi padre, para que perpetuamente fuese rey sobre Israel porque a Judá escogió por caudillo y de la casa de Judá a la familia de mi padre y de entre los hijos de mi padre se agradó de mí para ponerme por rey sobre todo Israel.
-5 Y de entre todos mis hijos eligió a mi hijo Salomón para que se siente en el trono del reino de Jehová sobre Israel.
+5 Y de entre todos mis hijos porque Jehová me ha dado muchos hijos eligió a mi hijo Salomón para que se siente en el trono del reino de Jehová sobre Israel.
 6 Y me ha dicho: Salomón tu hijo, él edificará mi casa y mis atrios porque a éste he escogido por hijo, y yo le seré a él por padre.
 7 Asimismo yo confirmaré su reino para siempre, si él se esforzare a poner por obra mis mandamientos y mis decretos, como en este día.
 8 Ahora, pues, ante los ojos de todo Israel, congregación de Jehová, y en oídos de nuestro Dios guardad e inquirid todos los preceptos de Jehová vuestro Dios, para que poseáis la buena tierra, y la dejéis en herencia a vuestros hijos después de vosotros perpetuamente.
@@ -11686,7 +11694,7 @@ Rut 4
 33 tú oirás desde los cielos desde el lugar de tu morada y harás conforme a todas las cosas por las cuales hubiere clamado a ti el extranjero para que todos los pueblos de la tierra conozcan tu nombre y te teman así como tu pueblo Israel, y sepan que tu nombre es invocado sobre esta casa que yo he edificado.
 34 Si tu pueblo saliere a la guerra contra sus enemigos por el camino que tú les enviares, y oraren a ti h acia esta ciudad que tú elegiste hacia la casa que he edificado a tu nombre,
 35 tú oirás desde los cielos su oración y su ruego, y ampararás su causa.
-36 Si pecaren contra ti y te enojares contra ellos, y los entregares delante de sus enemigos para que los que los tomaren los lleven cautivos a tierra de enemigos, lejos o cerca,
+36 Si pecaren contra ti pues no hay hombre que no peque y te enojares contra ellos, y los entregares delante de sus enemigos para que los que los tomaren los lleven cautivos a tierra de enemigos, lejos o cerca,
 37 y e llos volvieren en sí en la tierra donde fueren llevados cautivos si se convirtieren, y oraren a ti en la tierra de su cautividad, y dijeren: Pecamos, hemos hecho inicuamente, impíamente hemos hecho;
 38 si se convirtieren a ti de todo su corazón y de toda su alma en la tierra de su cautividad, donde los hubieren llevado cautivos y oraren hacia la tierra que tú diste a sus padres, hacia la ciudad que tú elegiste y hacia la casa que he edificado a tu nombre;
 39 tú oirás desde los cielos, desde el lugar de tu morada, su oración y su ruego, y ampararás su causa, y perdonarás a tu pueblo que pecó contra ti.
@@ -12039,7 +12047,7 @@ Rut 4
 8 Y haciendo juicio Jehú contra la casa de Acab, halló a los príncipes de Judá, y a los hijos de los hermanos de Ocozías, que servían a Ocozías, y los mató.
 9 Y buscando a Ocozías, el cual se había escondido en Samaria, lo hallaron y lo trajeron a Jehú, y le mataron; y le dieron sepultura, porque dijeron: Es hijo de Josafat, quien de todo su corazón buscó a Jehová Y la casa de Ocozías no tenía fuerzas para poder retener el reino. Atalía usurpa el trono
 10 Entonces Atalía madre de Ocozías viendo que su hijo era muerto se levantó y exterminó toda la descendencia real de la casa de Judá.
-11 Pero Josabet, hija del rey, tomó a Joás hijo de Ocozías y escondiéndolo de entre los demás hijos del rey, a los cuales mataban, le guardó a él y a su ama en uno de los aposentos Así lo escondió Josabet hija del rey Joram mujer del sacerdote Joiada de delante de Atalía, y no lo mataron.
+11 Pero Josabet, hija del rey, tomó a Joás hijo de Ocozías y escondiéndolo de entre los demás hijos del rey, a los cuales mataban, le guardó a él y a su ama en uno de los aposentos Así lo escondió Josabet hija del rey Joram mujer del sacerdote Joiada porque ella era hermana de Ocozías de delante de Atalía, y no lo mataron.
 12 Y estuvo con ellos escondido en la casa de Dios seis años. Entre tanto, Atalía reinaba en el país.
 2 Crónicas 23
 1 En el séptimo año se animó Joiada y tomó consigo en alianza a los jefes de centenas Azarías hijo de Jeroham Ismael hijo de Johanán Azarías hijo de Obed, Maasías hijo de Adaía, y Elisafat hijo de Zicri,
@@ -12337,6 +12345,7 @@ Rut 4
 5 Quemó además los huesos de los sacerdotes sobre sus altares y limpió a Judá y a Jerusalén.
 6 Lo mismo hizo en las ciudades de Manasés, Efraín, Simeón y hasta Neftalí, y en los lugares asolados alrededor.
 7 Y cuando hubo derribado los altares y las imágenes de Asera y quebrado y desmenuzado las esculturas, y destruido todos los ídolos por toda la tierra de Israel, volvió a Jerusalén. Hallazgo del libro de la ley
+2 R.—.
 8 A los dieciocho años de su reinado después de haber limpiado la tierra y la casa, envió a Safán hijo de Azalía, a Maasías gobernador de la ciudad, y a Joa hijo de Joacaz, canciller, para que reparasen la casa de Jehová su Dios.
 9 Vinieron éstos al sumo sacerdote Hilcías y dieron el dinero que había sido traído a la casa de Jehová que los levitas que guardaban la puerta habían recogido de mano de Manasés y de Efraín y de todo el remanente de Israel de todo Judá y Benjamín, y de los habitantes de Jerusalén.
 10 Y lo entregaron en mano de los que hacían la obra que eran mayordomos en la casa de Jehová los cuales lo daban a los que hacían la obra y trabajaban en la casa de Jehová, para reparar y restaurar el templo.
@@ -12396,6 +12405,7 @@ Rut 4
 2 De veintitrés años era Joacaz cuando comenzó a reinar, y tres meses reinó en Jerusalén.
 3 Y el rey de Egipto lo quitó de Jerusalén y condenó la tierra a pagar cien talentos de plata y uno de oro.
 4 Y estableció el rey de Egipto a Eliaquim hermano de Joacaz por rey sobre Judá y Jerusalén y le mudó el nombre en Joacim y a Joacaz su hermano tomó Necao, y lo llevó a Egipto. Reinado de Joacim
+2 R.—.
 5 Cuando comenzó a reinar Joacim era de veinticinco años, y reinó once años en Jerusalén; e hizo lo malo ante los ojos de Jehová su Dios.
 6 Y s ubió contra él Nabucodonosor rey de Babilonia y lo llevó a Babilonia atado con cadenas.
 7 También llevó Nabucodonosor a Babilonia de los utensilios de la casa de Jehová, y los puso en su templo en Babilonia.
@@ -12418,7 +12428,7 @@ Rut 4
 Esdras 1
 1 En el primer año de Ciro rey de Persia para que se cumpliese la palabra de Jehová por boca de Jeremías despertó Jehová el espíritu de Ciro rey de Persia, el cual hizo pregonar de palabra y también por escrito por todo su reino, diciendo:
 2 Así ha dicho Ciro rey de Persia Jehová el Dios de los cielos me ha dado todos los reinos de la tierra y me ha mandado que le edifique casa en Jerusalén, que está en Judá.
-3 Quien haya entre vosotros de su pueblo sea Dios con él y suba a Jerusalén que está en Judá, y edifique la casa a Jehová Dios de Israel la cual está en Jerusalén.
+3 Quien haya entre vosotros de su pueblo sea Dios con él y suba a Jerusalén que está en Judá, y edifique la casa a Jehová Dios de Israel él es el Dios la cual está en Jerusalén.
 4 Y a todo el que haya quedado en cualquier lugar donde more ayúdenle los hombres de su lugar con plata oro, bienes y ganados además de ofrendas voluntarias para la casa de Dios, la cual está en Jerusalén. El regreso a Jerusalén
 5 Entonces se levantaron los jefes de las casas paternas de Judá y de Benjamín, y los sacerdotes y levitas todos aquellos cuyo espíritu despertó Dios para subir a edificar la casa de Jehová, la cual está en Jerusalén.
 6 Y todos los que estaban en sus alrededores les ayudaron con plata y oro con bienes y ganado y con cosas preciosas, además de todo lo que se ofreció voluntariamente.
@@ -12683,7 +12693,7 @@ Esdras 10
 20 De los hijos de Imer: Hanani y Zebadías.
 21 De los hijos de Harim: Maasías, Elías, Semaías, Jehiel y Uzías.
 22 De los hijos de Pasur: Elioenai, Maasías, Ismael, Natanael, Jozabad y Elasa.
-23 De los hijos de los levitas Jozabad, Simei, Kelaía Petaías, Judá y Eliezer.
+23 De los hijos de los levitas Jozabad, Simei, Kelaía éste es Kelita Petaías, Judá y Eliezer.
 24 De los cantores: Eliasib; y de los porteros: Salum, Telem y Uri.
 25 Asimismo de Israel De los hijos de Paros Ramía, Jezías, Malquías, Mijamín, Eleazar, Malquías y Benaía.
 26 De los hijos de Elam: Matanías, Zacarías, Jehiel, Abdi, Jeremot y Elías.
@@ -12723,7 +12733,7 @@ Nehemías 2
 3 Y d ije al rey Para siempre viva el rey ¿Cómo no estará triste mi rostro cuando la ciudad casa de los sepulcros de mis padres está desierta, y sus puertas consumidas por el fuego?
 4 Me dijo el rey: ¿Qué cosa pides? Entonces oré al Dios de los cielos,
 5 y dije al rey Si le place al rey y tu siervo ha hallado gracia delante de ti envíame a Judá, a la ciudad de los sepulcros de mis padres, y la reedificaré.
-6 Entonces el rey me dijo ¿Cuánto durará tu viaje, y cuándo volverás? Y agradó al rey enviarme, después que yo le señalé tiempo.
+6 Entonces el rey me dijo y la reina estaba sentada junto a él ¿Cuánto durará tu viaje, y cuándo volverás? Y agradó al rey enviarme, después que yo le señalé tiempo.
 7 Además dije al rey Si le place al rey que se me den cartas para los gobernadores al otro lado del río para que me franqueen el paso hasta que llegue a Judá;
 8 y carta para Asaf guarda del bosque del rey para que me dé madera para enmaderar las puertas del palacio de la casa, y para el muro de la ciudad, y la casa en que yo estaré. Y me lo concedió el rey, según la benéfica mano de mi Dios sobre mí.
 9 Vine luego a los gobernadores del otro lado del río, y les di las cartas del rey. Y el rey envió conmigo capitanes del ejército y gente de a caballo.
@@ -12816,7 +12826,7 @@ Nehemías 5
 18 Y lo que se preparaba para cada día era un buey y seis ovejas escogidas también eran preparadas para mí aves y cada diez días vino en toda abundancia; y con todo esto nunca requerí el pan del gobernador porque la servidumbre de este pueblo era grave.
 19 Acuérdate de mí para bien, Dios mío, y de todo lo que hice por este pueblo.
 Nehemías 6
-1 Cuando oyeron Sanbalat y Tobías y Gesem el árabe y los demás de nuestros enemigos, que yo había edificado el muro y que no quedaba en él portillo
+1 Cuando oyeron Sanbalat y Tobías y Gesem el árabe y los demás de nuestros enemigos, que yo había edificado el muro y que no quedaba en él portillo aunque hasta aquel tiempo no había puesto las hojas en las puertas,
 2 Sanbalat y Gesem enviaron a decirme Ven y reunámonos en alguna de las aldeas en el campo de Ono. Mas ellos habían pensado hacerme mal.
 3 Y l es envié mensajeros diciendo: Yo hago una gran obra y no puedo ir porque cesaría la obra, dejándola yo para ir a vosotros.
 4 Y enviaron a mí con el mismo asunto hasta cuatro veces y yo les respondí de la misma manera.
@@ -12837,7 +12847,7 @@ Nehemías 6
 19 También contaban delante de mí las buenas obras de él y a él le referían mis palabras. Y enviaba Tobías cartas para atemorizarme.
 Nehemías 7
 1 Luego que el muro fue edificado, y colocadas las puertas, y fueron señalados porteros y cantores y levitas,
-2 mandé a mi hermano Hanani, y a Hananías, jefe de la fortaleza de Jerusalén
+2 mandé a mi hermano Hanani, y a Hananías, jefe de la fortaleza de Jerusalén porque éste era varón de verdad y temeroso de Dios, más que muchos;
 3 y les dije: No se abran las puertas de Jerusalén hasta que caliente el sol y aunque haya gente allí, cerrad las puertas y atrancadlas Y señalé guardas de los moradores de Jerusalén cada cual en su turno y cada uno delante de su casa.
 4 Porque la ciudad era espaciosa y grande, pero poco pueblo dentro de ella y no había casas reedificadas. Los que volvieron con Zorobabel
 5 Entonces puso Dios en mi corazón que reuniese a los nobles y oficiales y al pueblo, para que fuesen empadronados según sus genealogías. Y hallé el libro de la genealogía de los que habían subido antes, y encontré en él escrito así:
@@ -14080,7 +14090,9 @@ Job 31
 27 Y mi corazón se engañó en secreto, Y mi boca besó mi mano;
 28 Esto también sería maldad juzgada; Porque habría negado al Dios soberano.
 29 Si me alegré en el quebrantamiento del que me aborrecía Y me regocijé cuando le halló el mal
+30 Ni aun entregué al pecado mi lengua, Pidiendo maldición para su alma;
 31 Si mis siervos no decían: ¿Quién no se ha saciado de su carne?
+32 El forastero no pasaba fuera la noche; Mis puertas abría al caminante;
 33 Si encubrí como hombre mis transgresiones, Escondiendo en mi seno mi iniquidad,
 34 Porque tuve temor de la gran multitud, Y el menosprecio de las familias me atemorizó, Y callé, y no salí de mi puerta;
 35 ¡Quién me diera quien me oyese He aquí mi confianza es que el Omnipotente testificará por mí, Aunque mi adversario me forme proceso.
@@ -15128,6 +15140,7 @@ Job 42
 5 ¿Por qué he de temer en los días de adversidad Cuando la iniquidad de mis opresores me rodeare?
 6 Los que confían en sus bienes Y de la muchedumbre de sus riquezas se jactan,
 7 Ninguno de ellos podrá en manera alguna redimir al hermano Ni dar a Dios su rescate
+8 Porque la redención de su vida es de gran precio, Y no se logrará jamás,
 9 Para que viva en adelante para siempre, Y nunca vea corrupción.
 10 Pues verá que aun los sabios mueren Que perecen del mismo modo que el insensato y el necio, Y dejan a otros sus riquezas.
 11 Su íntimo pensamiento es que sus casas serán eternas Y sus habitaciones para generación y generación; Dan sus nombres a sus tierras.
@@ -21814,7 +21827,7 @@ Ezequiel 27
 36 Los mercaderes en los pueblos silbarán contra ti vendrás a ser espanto y para siempre dejarás de ser.
 Ezequiel 28
 1 Vino a mí palabra de Jehová, diciendo:
-2 Hijo de hombre di al príncipe de Tiro Así ha dicho Jehová el Señor Por cuanto se enalteció tu corazón, y dijiste: Yo soy un dios en el trono de Dios estoy sentado en medio de los mares y has puesto tu corazón como corazón de Dios;
+2 Hijo de hombre di al príncipe de Tiro Así ha dicho Jehová el Señor Por cuanto se enalteció tu corazón, y dijiste: Yo soy un dios en el trono de Dios estoy sentado en medio de los mares siendo tú hombre y no Dios y has puesto tu corazón como corazón de Dios;
 3 he aquí que tú eres más sabio que Daniel; no hay secreto que te sea oculto.
 4 Con tu sabiduría y con tu prudencia has acumulado riquezas y has adquirido oro y plata en tus tesoros.
 5 Con la grandeza de tu sabiduría en tus contrataciones has multiplicado tus riquezas; y a causa de tus riquezas se ha enaltecido tu corazón.
@@ -21973,7 +21986,7 @@ Ezequiel 33
 30 Y t ú, hijo de hombre los hijos de tu pueblo se mofan de ti junto a las paredes y a las puertas de las casas y habla el uno con el otro cada uno con su hermano, diciendo: Venid ahora, y oíd qué palabra viene de Jehová.
 31 Y vendrán a ti como viene el pueblo y estarán delante de ti como pueblo mío, y oirán tus palabras, y no las pondrán por obra; antes hacen halagos con sus bocas, y el corazón de ellos anda en pos de su avaricia.
 32 Y he aquí que tú eres a ellos como cantor de amores hermoso de voz y que canta bien; y oirán tus palabras, pero no las pondrán por obra.
-33 Pero cuando ello viniere sabrán que hubo profeta entre ellos.
+33 Pero cuando ello viniere y viene ya, sabrán que hubo profeta entre ellos.
 Ezequiel 34
 1 Vino a mí palabra de Jehová, diciendo:
 2 Hijo de hombre profetiza contra los pastores de Israel profetiza, y di a los pastores: Así ha dicho Jehová el Señor ¡Ay de los pastores de Israel que se apacientan a sí mismos! ¿No apacientan los pastores a los rebaños?
@@ -23229,7 +23242,7 @@ Abdías 1
 2 He aquí, pequeño te he hecho entre las naciones estás abatido en gran manera.
 3 La soberbia de tu corazón te ha engañado, tú que moras en las hendiduras de las peñas en tu altísima morada que dices en tu corazón ¿Quién me derribará a tierra?
 4 Si te remontares como águila y aunque entre las estrellas pusieres tu nido de ahí te derribaré, dice Jehová.
-5 Si ladrones vinieran a ti, o robadores de noche ¿no hurtarían lo que les bastase? Si entraran a ti vendimiadores, ¿no dejarían algún rebusco?
+5 Si ladrones vinieran a ti, o robadores de noche ¡cómo has sido destruido ¿no hurtarían lo que les bastase? Si entraran a ti vendimiadores, ¿no dejarían algún rebusco?
 6 ¡Cómo fueron escudriñadas las cosas de Esaú Sus tesoros escondidos fueron buscados.
 7 Todos tus aliados te han engañado hasta los confines te hicieron llegar los que estaban en paz contigo prevalecieron contra ti los que comían tu pan pusieron lazo debajo de ti; no hay en ello entendimiento.
 8 ¿No haré que perezcan en aquel día dice Jehová, los sabios de Edom y la prudencia del monte de Esaú?
@@ -23675,7 +23688,7 @@ Zacarías 4
 Zacarías 5
 1 De nuevo alcé mis ojos y miré, y he aquí un rollo que volaba.
 2 Y me dijo: ¿Qué ves? Y respondí: Veo un rollo que vuela, de veinte codos de largo, y diez codos de ancho.
-3 Entonces me dijo: Ésta es la maldición que sale sobre la faz de toda la tierra; porque todo aquel que hurta será destruido y todo aquel que jura falsamente será destruido.
+3 Entonces me dijo: Ésta es la maldición que sale sobre la faz de toda la tierra; porque todo aquel que hurta como está de un lado del rollo será destruido y todo aquel que jura falsamente como está del otro lado del rollo será destruido.
 4 Yo la he hecho salir dice Jehová de los ejércitos y vendrá a la casa del ladrón, y a la casa del que jura falsamente en mi nombre y permanecerá en medio de su casa y la consumirá, con sus maderas y sus piedras. La mujer en el efa
 5 Y salió aquel ángel que hablaba conmigo y me dijo Alza ahora tus ojos y mira qué es esto que sale.
 6 Y dije: ¿Qué es? Y él dijo Éste es un efa que sale Además dijo: Ésta es la iniquidad de ellos en toda la tierra.
@@ -23893,7 +23906,7 @@ Malaquías 4
 3 Hollaréis a los malos los cuales serán ceniza bajo las plantas de vuestros pies, en el día en que yo actúe, ha dicho Jehová de los ejércitos.
 4 Acordaos de la ley de Moisés mi siervo al cual encargué en Horeb ordenanzas y leyes para todo Israel.
 5 He aquí, yo os envío el profeta Elías, antes que venga el día de Jehová grande y terrible.
-6 Él hará volver el corazón de los padres hacia los hijos y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición. S. Mateo S. Mateo 1 Genealogía de Jesucristo
+6 Él hará volver el corazón de los padres hacia los hijos y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición. Reina Valera - 1 S. Mateo S. Mateo 1 Genealogía de Jesucristo
 1 Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham.
 2 Abraham engendró a Isaac, Isaac a Jacob, y Jacob a Judá y a sus hermanos.
 3 Judá engendró de Tamar a Fares y a Zara, Fares a Esrom, y Esrom a Aram.
@@ -24054,7 +24067,7 @@ Malaquías 4
 20 sino haceos tesoros en el cielo donde ni la polilla ni el orín corrompen y donde ladrones no minan ni hurtan.
 21 Porque donde esté vuestro tesoro, allí estará también vuestro corazón. La lámpara del cuerpo
 22 La lámpara del cuerpo es el ojo así que, si tu ojo es bueno todo tu cuerpo estará lleno de luz;
-23 pero si tu ojo es maligno todo tu cuerpo estará en tinieblas Así que, si la luz que en ti hay es tinieblas, ¿cuántas no serán las mismas tinieblas? Dios y las riquezas
+23 pero si tu ojo es maligno todo tu cuerpo estará en tinieblas Así que, si la luz que en ti hay es tinieblas, ¿cuántas no serán las mismas tinieblas? Dios y las riquezas Lc.
 24 Ninguno puede servir a dos señores porque o aborrecerá al uno y amará al otro, o estimará al uno y menospreciará al otro No podéis servir a Dios y a las riquezas. El afán y la ansiedad
 25 Por tanto os digo No os afanéis por vuestra vida qué habéis de comer o qué habéis de beber ni por vuestro cuerpo qué habéis de vestir ¿No es la vida más que el alimento, y el cuerpo más que el vestido?
 26 Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta ¿No valéis vosotros mucho más que ellas?
@@ -24077,7 +24090,7 @@ Malaquías 4
 9 ¿Qué hombre hay de vosotros, que si su hijo le pide pan, le dará una piedra?
 10 ¿O si le pide un pescado, le dará una serpiente?
 11 Pues si vosotros siendo malos, sabéis dar buenas dádivas a vuestros hijos ¿cuánto más vuestro Padre que está en los cielos dará buenas cosas a los que le pidan?
-12 Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas. La puerta estrecha
+12 Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas. La puerta estrecha Lc.
 13 Entrad por la puerta estrecha porque ancha es la puerta y espacioso el camino que lleva a la perdición, y muchos son los que entran por ella;
 14 porque estrecha es la puerta y angosto el camino que lleva a la vida y pocos son los que la hallan. Por sus frutos los conoceréis
 15 Guardaos de los falsos profetas que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces.
@@ -24134,7 +24147,7 @@ Malaquías 4
 3 Entonces algunos de los escribas decían dentro de sí: Éste blasfema.
 4 Y conociendo Jesús los pensamientos de ellos dijo: ¿Por qué pensáis mal en vuestros corazones?
 5 Porque, ¿qué es más fácil decir: Los pecados te son perdonados, o decir Levántate y anda?
-6 Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados Levántate, toma tu cama y vete a tu casa.
+6 Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados dice entonces al paralítico Levántate, toma tu cama y vete a tu casa.
 7 Entonces él se levantó y se fue a su casa.
 8 Y l a gente al verlo se maravilló y glorificó a Dios que había dado tal potestad a los hombres. Llamamiento de Mateo
 9 Pasando Jesús de allí, vio a un hombre llamado Mateo, que estaba sentado al banco de los tributos públicos, y le dijo: Sígueme. Y se levantó y le siguió.
@@ -24205,7 +24218,7 @@ Malaquías 4
 36 y los enemigos del hombre serán los de su casa.
 37 El que ama a padre o madre más que a mí no es digno de mí; el que ama a hijo o hija más que a mí, no es digno de mí;
 38 y el que no toma su cruz y sigue en pos de mí, no es digno de mí.
-39 El que halla su vida, la perderá; y el que pierde su vida por causa de mí la hallará. Recompensas
+39 El que halla su vida, la perderá; y el que pierde su vida por causa de mí la hallará. Recompensas Mr.
 40 El que a vosotros recibe, a mí me recibe; y el que me recibe a mí recibe al que me envió.
 41 El que recibe a un profeta por cuanto es profeta recompensa de profeta recibirá; y el que recibe a un justo por cuanto es justo recompensa de justo recibirá.
 42 Y c ualquiera que dé a uno de estos pequeñitos un vaso de agua fría solamente, por cuanto es discípulo de cierto os digo que no perderá su recompensa. S. Mateo 11 Los mensajeros de Juan el Bautista
@@ -24721,7 +24734,7 @@ Malaquías 4
 12 y por haberse multiplicado la maldad, el amor de muchos se enfriará.
 13 Mas el que persevere hasta el fin, éste será salvo.
 14 Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin.
-15 Por tanto, cuando veáis en el lugar santo la abominación desoladora de que habló el profeta
+15 Por tanto, cuando veáis en el lugar santo la abominación desoladora de que habló el profeta Daniel el que lee, entienda,
 16 entonces los que estén en Judea, huyan a los montes.
 17 El que esté en la azotea, no descienda para tomar algo de su casa;
 18 y el que esté en el campo, no vuelva atrás para tomar su capa.
@@ -25019,7 +25032,7 @@ Malaquías 4
 7 ¿Por qué habla éste así Blasfemias dice. ¿Quién puede perdonar pecados sino sólo Dios?
 8 Y conociendo luego Jesús en su espíritu que cavilaban de esta manera dentro de sí mismos, les dijo: ¿Por qué caviláis así en vuestros corazones?
 9 ¿Qué es más fácil decir al paralítico Tus pecados te son perdonados o decirle: Levántate, toma tu lecho y anda?
-10 Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados
+10 Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados dijo al paralítico:
 11 A ti te digo: Levántate, toma tu lecho, y vete a tu casa.
 12 Entonces él se levantó en seguida y tomando su lecho, salió delante de todos, de manera que todos se asombraron y glorificaron a Dios diciendo: Nunca hemos visto tal cosa. Llamamiento de Leví
 13 Después volvió a salir al mar; y toda la gente venía a él, y les enseñaba.
@@ -25223,7 +25236,7 @@ Malaquías 4
 8 Porque dejando el mandamiento de Dios os aferráis a la tradición de los hombres: los lavamientos de los jarros y de los vasos de beber y hacéis otras muchas cosas semejantes.
 9 Les decía también Bien invalidáis el mandamiento de Dios para guardar vuestra tradición.
 10 Porque Moisés dijo Honra a tu padre y a tu madre y: El que maldiga al padre o a la madre, muera irremisiblemente.
-11 Pero vosotros decís Basta que diga un hombre al padre o a la madre Es Corbán todo aquello con que pudiera ayudarte,
+11 Pero vosotros decís Basta que diga un hombre al padre o a la madre Es Corbán que quiere decir mi ofrenda a Dios todo aquello con que pudiera ayudarte,
 12 y no le dejáis hacer más por su padre o por su madre,
 13 invalidando la palabra de Dios con vuestra tradición que habéis transmitido. Y muchas cosas hacéis semejantes a éstas.
 14 Y llamando a sí a toda la multitud, les dijo: Oídme todos, y entended:
@@ -25480,7 +25493,7 @@ Malaquías 4
 11 Pero cuando os trajeren para entregaros, no os preocupéis por lo que habéis de decir, ni lo penséis, sino lo que os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el Espíritu Santo.
 12 Y e l hermano entregará a la muerte al hermano y el padre al hijo y se levantarán los hijos contra los padres, y los matarán.
 13 Y seréis aborrecidos de todos por causa de mi nombre; mas el que persevere hasta el fin, éste será salvo.
-14 Pero cuando veáis la abominación desoladora de que habló el profeta Daniel, puesta donde no debe estar entonces los que estén en Judea huyan a los montes.
+14 Pero cuando veáis la abominación desoladora de que habló el profeta Daniel, puesta donde no debe estar el que lee entienda, entonces los que estén en Judea huyan a los montes.
 15 El que esté en la azotea, no descienda a la casa, ni entre para tomar algo de su casa;
 16 y el que esté en el campo, no vuelva atrás a tomar su capa.
 17 Mas ¡ay de las que estén encintas, y de las que críen en aquellos días!
@@ -25757,7 +25770,7 @@ Malaquías 4
 32 Luz para revelación a los gentiles, Y gloria de tu pueblo Israel.
 33 Y José y su madre estaban maravillados de todo lo que se decía de él.
 34 Y los bendijo Simeón y dijo a su madre María: He aquí, éste está puesto para caída y para levantamiento de muchos en Israel y para señal que será contradicha
-35 para que sean revelados los pensamientos de muchos corazones.
+35 y una espada traspasará tu misma alma para que sean revelados los pensamientos de muchos corazones.
 36 Estaba también allí Ana, profetisa, hija de Fanuel de la tribu de Aser de edad muy avanzada pues había vivido con su marido siete años desde su virginidad,
 37 y e ra viuda hacía ochenta y cuatro años y no se apartaba del templo sirviendo de noche y de día con ayunos y oraciones.
 38 Ésta, presentándose en la misma hora daba gracias a Dios y hablaba del niño a todos los que esperaban la redención en Jerusalén. El regreso a Nazaret
@@ -25880,7 +25893,7 @@ Malaquías 4
 21 Entonces los escribas y los fariseos comenzaron a cavilar diciendo: ¿Quién es éste que habla blasfemias? ¿Quién puede perdonar pecados sino sólo Dios?
 22 Jesús entonces conociendo los pensamientos de ellos respondiendo les dijo: ¿Qué caviláis en vuestros corazones?
 23 ¿Qué es más fácil, decir: Tus pecados te son perdonados, o decir: Levántate y anda?
-24 Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados A ti te digo: Levántate, toma tu lecho, y vete a tu casa.
+24 Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar pecados dijo al paralítico: A ti te digo: Levántate, toma tu lecho, y vete a tu casa.
 25 Al instante, levantándose en presencia de ellos y tomando el lecho en que estaba acostado, se fue a su casa, glorificando a Dios.
 26 Y todos, sobrecogidos de asombro glorificaban a Dios y llenos de temor decían: Hoy hemos visto maravillas. Llamamiento de Leví
 27 Después de estas cosas salió y vio a un publicano llamado Leví sentado al banco de los tributos públicos, y le dijo: Sígueme.
@@ -26286,7 +26299,7 @@ Malaquías 4
 16 Y a esta hija de Abraham, que Satanás había atado dieciocho años, ¿no se le debía desatar de esta ligadura en el día de reposo?
 17 Al decir él estas cosas se avergonzaban todos sus adversarios pero todo el pueblo se regocijaba por todas las cosas gloriosas hechas por él. Parábola de la semilla de mostaza
 18 Y dijo: ¿A qué es semejante el reino de Dios, y con qué lo compararé?
-19 Es semejante al grano de mostaza que un hombre tomó y sembró en su huerto; y creció, y se hizo árbol grande y las aves del cielo anidaron en sus ramas. Parábola de la levadura
+19 Es semejante al grano de mostaza que un hombre tomó y sembró en su huerto; y creció, y se hizo árbol grande y las aves del cielo anidaron en sus ramas. Parábola de la levadura Mt.
 20 Y volvió a decir: ¿A qué compararé el reino de Dios?
 21 Es semejante a la levadura, que una mujer tomó y escondió en tres medidas de harina, hasta que todo hubo fermentado. La puerta estrecha
 22 Pasaba Jesús por ciudades y aldeas enseñando, y encaminándose a Jerusalén.
@@ -26335,7 +26348,7 @@ Malaquías 4
 30 diciendo: Este hombre comenzó a edificar, y no pudo acabar.
 31 ¿O qué rey, al marchar a la guerra contra otro rey no se sienta primero y considera si puede hacer frente con diez mil al que viene contra él con veinte mil?
 32 Y si no puede, cuando el otro está todavía lejos, le envía una embajada y le pide condiciones de paz.
-33 Así, pues, cualquiera de vosotros que no renuncia a todo lo que posee no puede ser mi discípulo. Cuando la sal pierde su sabor
+33 Así, pues, cualquiera de vosotros que no renuncia a todo lo que posee no puede ser mi discípulo. Cuando la sal pierde su sabor Mt.; Mr.
 34 Buena es la sal; mas si la sal se hiciere insípida, ¿con qué se sazonará?
 35 Ni para la tierra ni para el muladar es útil la arrojan fuera El que tiene oídos para oír, oiga. S. Lucas 15 Parábola de la oveja perdida
 1 Se acercaban a Jesús todos los publicanos y pecadores para oírle,
@@ -26831,11 +26844,11 @@ Malaquías 4
 35 El siguiente día otra vez estaba Juan, y dos de sus discípulos.
 36 Y mirando a Jesús que andaba por allí, dijo: He aquí el Cordero de Dios.
 37 Le oyeron hablar los dos discípulos, y siguieron a Jesús.
-38 Y volviéndose Jesús, y viendo que le seguían les dijo: ¿Qué buscáis? Ellos le dijeron: Rabí ¿dónde moras?
+38 Y volviéndose Jesús, y viendo que le seguían les dijo: ¿Qué buscáis? Ellos le dijeron: Rabí que traducido es, Maestro, ¿dónde moras?
 39 Les dijo: Venid y ved. Fueron, y vieron donde moraba, y se quedaron con él aquel día; porque era como la hora décima.
 40 Andrés, hermano de Simón Pedro era uno de los dos que habían oído a Juan, y habían seguido a Jesús.
-41 Éste halló primero a su hermano Simón y le dijo: Hemos hallado al Mesías
-42 Y le trajo a Jesús. Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás; tú serás llamado Cefas Jesús llama a Felipe y a Natanael
+41 Éste halló primero a su hermano Simón y le dijo: Hemos hallado al Mesías que traducido es, el Cristo.
+42 Y le trajo a Jesús. Y mirándole Jesús, dijo: Tú eres Simón, hijo de Jonás; tú serás llamado Cefas que quiere decir, Pedro Jesús llama a Felipe y a Natanael
 43 El siguiente día quiso Jesús ir a Galilea, y halló a Felipe, y le dijo: Sígueme.
 44 Y Felipe era de Betsaida, la ciudad de Andrés y Pedro.
 45 Felipe halló a Natanael y le dijo: Hemos hallado a aquél de quien escribió Moisés en la ley, así como los profetas: a Jesús, el hijo de José, de Nazaret.
@@ -26907,6 +26920,7 @@ Malaquías 4
 35 El Padre ama al Hijo, y todas las cosas ha entregado en su mano.
 36 El que cree en el Hijo tiene vida eterna pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él. S.Juan 4 Jesús y la mujer samaritana
 1 Cuando, pues, el Señor entendió que los fariseos habían oído decir Jesús hace y bautiza más discípulos que Juan
+2 aunque Jesús no bautizaba, sino sus discípulos,
 3 salió de Judea, y se fue otra vez a Galilea.
 4 Y le era necesario pasar por Samaria.
 5 Vino, pues, a una ciudad de Samaria llamada Sicar, junto a la heredad que Jacob dio a su hijo José.
@@ -27195,7 +27209,7 @@ Malaquías 4
 4 Me es necesario hacer las obras del que me envió entre tanto que el día dura; la noche viene, cuando nadie puede trabajar.
 5 Entre tanto que estoy en el mundo, luz soy del mundo.
 6 Dicho esto, escupió en tierra, e hizo lodo con la saliva, y untó con el lodo los ojos del ciego,
-7 y le dijo: Ve a lavarte en el estanque de Siloé Fue entonces, y se lavó, y regresó viendo.
+7 y le dijo: Ve a lavarte en el estanque de Siloé que traducido es, Enviado. Fue entonces, y se lavó, y regresó viendo.
 8 Entonces los vecinos y los que antes le habían visto que era ciego decían: ¿No es éste el que se sentaba y mendigaba?
 9 Unos decían: Él es; y otros: A él se parece. Él decía: Yo soy.
 10 Y le dijeron: ¿Cómo te fueron abiertos los ojos?
@@ -27438,7 +27452,7 @@ Malaquías 4
 19 Todavía un poco, y el mundo no me verá más pero vosotros me veréis porque yo vivo, vosotros también viviréis.
 20 En aquel día vosotros conoceréis que yo estoy en mi Padre y vosotros en mí, y yo en vosotros.
 21 El que tiene mis mandamientos y los guarda ése es el que me ama y el que me ama, será amado por mi Padre, y yo le amaré, y me manifestaré a él.
-22 Le dijo Judas Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?
+22 Le dijo Judas no el Iscariote Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?
 23 Respondió Jesús y le dijo: El que me ama, mi palabra guardará; y mi Padre le amará, y vendremos a él, y haremos morada con él.
 24 El que no me ama, no guarda mis palabras; y la palabra que habéis oído no es mía, sino del Padre que me envió.
 25 Os he dicho estas cosas estando con vosotros.
@@ -27810,7 +27824,7 @@ Hechos 4
 33 Y c on gran poder los apóstoles daban testimonio de la resurrección del Señor Jesús, y abundante gracia era sobre todos ellos.
 34 Así que no había entre ellos ningún necesitado porque todos los que poseían heredades o casas, las vendían, y traían el precio de lo vendido,
 35 y lo ponían a los pies de los apóstoles y se repartía a cada uno según su necesidad.
-36 Entonces José a quien los apóstoles pusieron por sobrenombre Bernabé levita, natural de Chipre,
+36 Entonces José a quien los apóstoles pusieron por sobrenombre Bernabé que traducido es, Hijo de consolación, levita, natural de Chipre,
 37 como tenía una heredad la vendió y trajo el precio y lo puso a los pies de los apóstoles.
 Hechos 5
 1 Pero cierto hombre llamado Ananías con Safira su mujer vendió una heredad,
@@ -28131,7 +28145,7 @@ Hechos 13
 5 Y llegados a Salamina, anunciaban la palabra de Dios en las sinagogas de los judíos. Tenían también a Juan de ayudante.
 6 Y habiendo atravesado toda la isla hasta Pafos hallaron a cierto mago, falso profeta, judío, llamado Barjesús,
 7 que estaba con el procónsul Sergio Paulo varón prudente. Éste, llamando a Bernabé y a Saulo, deseaba oír la palabra de Dios.
-8 Pero les resistía Elimas, el mago procurando apartar de la fe al procónsul.
+8 Pero les resistía Elimas, el mago pues así se traduce su nombre, procurando apartar de la fe al procónsul.
 9 Entonces Saulo, que también es Pablo, lleno del Espíritu Santo, fijando en él los ojos,
 10 dijo: ¡Oh, lleno de todo engaño y de toda maldad hijo del diablo, enemigo de toda justicia! ¿No cesarás de trastornar los caminos rectos del Señor?
 11 Ahora, pues, he aquí la mano del Señor está contra ti y serás ciego y no verás el sol por algún tiempo. E inmediatamente cayeron sobre él oscuridad y tinieblas; y andando alrededor, buscaba quien le condujese de la mano.
@@ -28720,7 +28734,7 @@ Romanos 1
 10 rogando que de alguna manera tenga al fin por la voluntad de Dios un próspero viaje para ir a vosotros.
 11 Porque deseo veros para comunicaros algún don espiritual a fin de que seáis confirmados;
 12 esto es para ser mutuamente confortados por la fe que nos es común a vosotros y a mí.
-13 Pero no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir a vosotros para tener también entre vosotros algún fruto, como entre los demás gentiles.
+13 Pero no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir a vosotros pero hasta ahora he sido estorbado para tener también entre vosotros algún fruto, como entre los demás gentiles.
 14 A griegos y a no griegos, a sabios y a no sabios soy deudor.
 15 Así que, en cuanto a mí pronto estoy a anunciaros el evangelio también a vosotros que estáis en Roma. El poder del evangelio
 16 Porque no me avergüenzo del evangelio porque es poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego.
@@ -28775,7 +28789,7 @@ Romanos 3
 2 Mucho, en todas maneras. Primero, ciertamente, que les ha sido confiada la palabra de Dios.
 3 ¿Pues qué, si algunos de ellos han sido incrédulos ¿Su incredulidad habrá hecho nula la fidelidad de Dios?
 4 De ninguna manera; antes bien sea Dios veraz y todo hombre mentiroso como está escrito: Para que seas justificado en tus palabras Y venzas cuando fueres juzgado.
-5 Y si nuestra injusticia hace resaltar la justicia de Dios ¿qué diremos? ¿Será injusto Dios que da castigo?
+5 Y si nuestra injusticia hace resaltar la justicia de Dios ¿qué diremos? ¿Será injusto Dios que da castigo? Hablo como hombre.
 6 En ninguna manera; de otro modo, ¿cómo juzgaría Dios al mundo?
 7 Pero si por mi mentira la verdad de Dios abundó para su gloria ¿por qué aún soy juzgado como pecador?
 8 ¿Y por qué no decir (como se nos calumnia y como algunos cuya condenación es justa afirman que nosotros decimos) Hagamos males para que vengan bienes? No hay justo
@@ -28819,9 +28833,9 @@ Romanos 4
 14 Porque si los que son de la ley son los herederos vana resulta la fe y anulada la promesa.
 15 Pues la ley produce ira; pero donde no hay ley, tampoco hay transgresión.
 16 Por tanto, es por fe para que sea por gracia a fin de que la promesa sea firme para toda su descendencia no solamente para la que es de la ley, sino también para la que es de la fe de Abraham el cual es padre de todos nosotros
-17 delante de Dios, a quien creyó el cual da vida a los muertos y llama las cosas que no son, como si fuesen.
+17 como está escrito Te he puesto por padre de muchas gentes delante de Dios, a quien creyó el cual da vida a los muertos y llama las cosas que no son, como si fuesen.
 18 Él creyó en esperanza contra esperanza para llegar a ser padre de muchas gentes, conforme a lo que se le había dicho: Así será tu descendencia.
-19 Y no se debilitó en la fe al considerar su cuerpo, que estaba ya como muerto o la esterilidad de la matriz de Sara.
+19 Y no se debilitó en la fe al considerar su cuerpo, que estaba ya como muerto siendo de casi cien años o la esterilidad de la matriz de Sara.
 20 Tampoco dudó por incredulidad de la promesa de Dios sino que se fortaleció en fe, dando gloria a Dios,
 21 plenamente convencido de que era también poderoso para hacer todo lo que había prometido;
 22 por lo cual también su fe le fue contada por justicia.
@@ -28875,7 +28889,7 @@ Romanos 6
 22 Mas ahora que habéis sido libertados del pecado y hechos siervos de Dios tenéis por vuestro fruto la santificación, y como fin, la vida eterna.
 23 Porque la paga del pecado es muerte mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.
 Romanos 7
-1 ¿Acaso ignoráis, hermanos que la ley se enseñorea del hombre entre tanto que éste vive?
+1 ¿Acaso ignoráis, hermanos pues hablo con los que conocen la ley que la ley se enseñorea del hombre entre tanto que éste vive?
 2 Porque la mujer casada está sujeta por la ley al marido mientras éste vive pero si el marido muere, ella queda libre de la ley del marido.
 3 Así que, si en vida del marido se uniere a otro varón será llamada adúltera; pero si su marido muriere, es libre de esa ley, de tal manera que si se uniere a otro marido, no será adúltera.
 4 Así también vosotros, hermanos míos, habéis muerto a la ley mediante el cuerpo de Cristo, para que seáis de otro, del que resucitó de los muertos, a fin de que llevemos fruto para Dios.
@@ -28980,7 +28994,7 @@ Romanos 10
 3 Porque ignorando la justicia de Dios, y procurando establecer la suya propia, no se han sujetado a la justicia de Dios;
 4 porque el fin de la ley es Cristo, para justicia a todo aquel que cree.
 5 Porque de la justicia que es por la ley Moisés escribe así El hombre que haga estas cosas, vivirá por ellas.
-6 Pero la justicia que es por la fe dice así No digas en tu corazón ¿Quién subirá al cielo?
+6 Pero la justicia que es por la fe dice así No digas en tu corazón ¿Quién subirá al cielo? esto es, para traer abajo a Cristo;
 7 o, ¿quién descenderá al abismo (esto es, para hacer subir a Cristo de entre los muertos).
 8 Mas ¿qué dice? Cerca de ti está la palabra, en tu boca y en tu corazón Ésta es la palabra de fe que predicamos:
 9 que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo.
@@ -29332,7 +29346,7 @@ Romanos 16
 2 Y si alguno se imagina que sabe algo, aún no sabe nada como debe saberlo.
 3 Pero si alguno ama a Dios, es conocido por él.
 4 Acerca, pues, de las viandas que se sacrifican a los ídolos sabemos que un ídolo nada es en el mundo, y que no hay más que un Dios.
-5 Pues aunque haya algunos que se llamen dioses, sea en el cielo, o en la tierra
+5 Pues aunque haya algunos que se llamen dioses, sea en el cielo, o en la tierra como hay muchos dioses y muchos señores,
 6 para nosotros, sin embargo, sólo hay un Dios el Padre, del cual proceden todas las cosas y nosotros somos para él y un Señor Jesucristo, por medio del cual son todas las cosas, y nosotros por medio de él.
 7 Pero no en todos hay este conocimiento porque algunos, habituados hasta aquí a los ídolos comen como sacrificado a ídolos y su conciencia siendo débil, se contamina.
 8 Si bien la vianda no nos hace más aceptos ante Dios pues ni porque comamos, seremos más, ni porque no comamos, seremos menos.
@@ -29361,7 +29375,7 @@ Romanos 16
 17 Por lo cual, si lo hago de buena voluntad recompensa tendré; pero si de mala voluntad, la comisión me ha sido encomendada.
 18 ¿Cuál, pues, es mi galardón Que predicando el evangelio presente gratuitamente el evangelio de Cristo para no abusar de mi derecho en el evangelio.
 19 Por lo cual, siendo libre de todos, me he hecho siervo de todos para ganar a mayor número.
-20 Me he hecho a los judíos como judío para ganar a los judíos a los que están sujetos a la ley como sujeto a la ley para ganar a los que están sujetos a la ley;
+20 Me he hecho a los judíos como judío para ganar a los judíos a los que están sujetos a la ley aunque yo no esté sujeto a la ley como sujeto a la ley para ganar a los que están sujetos a la ley;
 21 a los que están sin ley como si yo estuviera sin ley (no estando yo sin ley de Dios, sino bajo la ley de Cristo), para ganar a los que están sin ley.
 22 Me he hecho débil a los débiles para ganar a los débiles a todos me he hecho de todo, para que de todos modos salve a algunos.
 23 Y esto hago por causa del evangelio, para hacerme copartícipe de él.
@@ -29639,7 +29653,7 @@ Romanos 16
 2 Porque si yo os contristo ¿quién será luego el que me alegre sino aquel a quien yo contristé?
 3 Y esto mismo os escribí, para que cuando llegue no tenga tristeza de parte de aquellos de quienes me debiera gozar confiando en vosotros todos que mi gozo es el de todos vosotros.
 4 Porque por la mucha tribulación y angustia del corazón os escribí con muchas lágrimas, no para que fueseis contristados sino para que supieseis cuán grande es el amor que os tengo. Pablo perdona al ofensor
-5 Pero si alguno me ha causado tristeza no me la ha causado sólo a mí sino en cierto modo a todos vosotros.
+5 Pero si alguno me ha causado tristeza no me la ha causado sólo a mí sino en cierto modo por no exagerar a todos vosotros.
 6 Le basta a tal persona esta reprensión hecha por muchos;
 7 así que, al contrario, vosotros más bien debéis perdonarle y consolarle para que no sea consumido de demasiada tristeza.
 8 Por lo cual os ruego que confirméis el amor para con él.
@@ -29697,6 +29711,7 @@ Romanos 16
 4 Porque asimismo los que estamos en este tabernáculo gemimos con angustia; porque no quisiéramos ser desnudados sino revestidos, para que lo mortal sea absorbido por la vida.
 5 Mas el que nos hizo para esto mismo es Dios, quien nos ha dado las arras del Espíritu.
 6 Así que vivimos confiados siempre y sabiendo que entre tanto que estamos en el cuerpo, estamos ausentes del Señor
+7 porque por fe andamos, no por vista;
 8 pero confiamos, y más quisiéramos estar ausentes del cuerpo y presentes al Señor.
 9 Por tanto procuramos también, o ausentes o presentes, serle agradables.
 10 Porque es necesario que todos nosotros comparezcamos ante el tribunal de Cristo, para que cada uno reciba según lo que haya hecho mientras estaba en el cuerpo, sea bueno o sea malo. El ministerio de la reconciliación
@@ -29724,7 +29739,7 @@ Romanos 16
 10 como entristecidos, mas siempre gozosos; como pobres, mas enriqueciendo a muchos; como no teniendo nada, mas poseyéndolo todo.
 11 Nuestra boca se ha abierto a vosotros oh corintios; nuestro corazón se ha ensanchado.
 12 No estáis estrechos en nosotros pero sí sois estrechos en vuestro propio corazón.
-13 Pues, para corresponder del mismo modo ensanchaos también vosotros. Somos templo del Dios viviente
+13 Pues, para corresponder del mismo modo como a hijos hablo ensanchaos también vosotros. Somos templo del Dios viviente
 14 No os unáis en yugo desigual con los incrédulos porque ¿qué compañerismo tiene la justicia con la injusticia ¿Y qué comunión la luz con las tinieblas?
 15 ¿Y qué concordia Cristo con Belial ¿O qué parte el creyente con el incrédulo?
 16 ¿Y qué acuerdo hay entre el templo de Dios y los ídolos Porque vosotros sois el templo del Dios viviente como Dios dijo Habitaré y andaré entre ellos, Y seré su Dios, Y ellos serán mi pueblo.
@@ -29828,9 +29843,9 @@ Romanos 16
 18 Puesto que muchos se glorían según la carne, también yo me gloriaré;
 19 porque de buena gana toleráis a los necios, siendo vosotros cuerdos.
 20 Pues toleráis si alguno os esclaviza si alguno os devora si alguno toma lo vuestro, si alguno se enaltece, si alguno os da de bofetadas.
-21 Para vergüenza mía lo digo para eso fuimos demasiado débiles Pero en lo que otro tenga osadía también yo tengo osadía.
+21 Para vergüenza mía lo digo para eso fuimos demasiado débiles Pero en lo que otro tenga osadía hablo con locura, también yo tengo osadía.
 22 ¿Son hebreos? Yo también. ¿Son israelitas? Yo también. ¿Son descendientes de Abraham? También yo.
-23 ¿Son ministros de Cristo Yo más en trabajos más abundante; en azotes sin número en cárceles más; en peligros de muerte muchas veces.
+23 ¿Son ministros de Cristo Como si estuviera loco hablo Yo más en trabajos más abundante; en azotes sin número en cárceles más; en peligros de muerte muchas veces.
 24 De los judíos cinco veces he recibido cuarenta azotes menos uno.
 25 Tres veces he sido azotado con varas una vez apedreado tres veces he padecido naufragio; una noche y un día he estado como náufrago en alta mar;
 26 en caminos muchas veces; en peligros de ríos, peligros de ladrones, peligros de los de mi nación, peligros de los gentiles, peligros en la ciudad, peligros en el desierto, peligros en el mar, peligros entre falsos hermanos;
@@ -29938,7 +29953,7 @@ Gálatas 3
 10 Porque todos los que dependen de las obras de la ley están bajo maldición, pues escrito está: Maldito todo aquel que no permaneciere en todas las cosas escritas en el libro de la ley, para hacerlas.
 11 Y que por la ley ninguno se justifica para con Dios es evidente, porque: El justo por la fe vivirá;
 12 y la ley no es de fe, sino que dice: El que hiciere estas cosas vivirá por ellas.
-13 Cristo nos redimió de la maldición de la ley hecho por nosotros maldición
+13 Cristo nos redimió de la maldición de la ley hecho por nosotros maldición porque está escrito: Maldito todo el que es colgado en un madero
 14 para que en Cristo Jesús la bendición de Abraham alcanzase a los gentiles, a fin de que por la fe recibiésemos la promesa del Espíritu.
 15 Hermanos, hablo en términos humanos Un pacto, aunque sea de hombre una vez ratificado, nadie lo invalida, ni le añade.
 16 Ahora bien, a Abraham fueron hechas las promesas y a su simiente No dice: Y a las simientes, como si hablase de muchos, sino como de uno: Y a tu simiente, la cual es Cristo.
@@ -30062,7 +30077,7 @@ Efesios 2
 2 en los cuales anduvisteis en otro tiempo siguiendo la corriente de este mundo, conforme al príncipe de la potestad del aire el espíritu que ahora opera en los hijos de desobediencia,
 3 entre los cuales también todos nosotros vivimos en otro tiempo en los deseos de nuestra carne haciendo la voluntad de la carne y de los pensamientos y éramos por naturaleza hijos de ira, lo mismo que los demás.
 4 Pero Dios, que es rico en misericordia, por su gran amor con que nos amó,
-5 aun estando nosotros muertos en pecados nos dio vida juntamente con Cristo
+5 aun estando nosotros muertos en pecados nos dio vida juntamente con Cristo por gracia sois salvos,
 6 y juntamente con él nos resucitó y asimismo nos hizo sentar en los lugares celestiales con Cristo Jesús,
 7 para mostrar en los siglos venideros las abundantes riquezas de su gracia en su bondad para con nosotros en Cristo Jesús.
 8 Porque por gracia sois salvos por medio de la fe y esto no de vosotros, pues es don de Dios;
@@ -30144,6 +30159,7 @@ Efesios 5
 6 Nadie os engañe con palabras vanas porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia.
 7 No seáis, pues, partícipes con ellos.
 8 Porque en otro tiempo erais tinieblas, mas ahora sois luz en el Señor andad como hijos de luz
+9 porque el fruto del Espíritu es en toda bondad, justicia y verdad,
 10 comprobando lo que es agradable al Señor.
 11 Y n o participéis en las obras infructuosas de las tinieblas sino más bien reprendedlas;
 12 porque vergonzoso es aun hablar de lo que ellos hacen en secreto.
@@ -30353,7 +30369,7 @@ Colosenses 2
 19 y no asiéndose de la Cabeza, en virtud de quien todo el cuerpo, nutriéndose y uniéndose por las coyunturas y ligamentos, crece con el crecimiento que da Dios.
 20 Pues si habéis muerto con Cristo en cuanto a los rudimentos del mundo ¿por qué, como si vivieseis en el mundo, os sometéis a preceptos
 21 tales como: No manejes, ni gustes, ni aun toques
-22 cosas que todas se destruyen con el uso?
+22 en conformidad a mandamientos y doctrinas de hombres cosas que todas se destruyen con el uso?
 23 Tales cosas tienen a la verdad cierta reputación de sabiduría en culto voluntario, en humildad y en duro trato del cuerpo; pero no tienen valor alguno contra los apetitos de la carne.
 Colosenses 3
 1 Si, pues, habéis resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado a la diestra de Dios.
@@ -30951,7 +30967,7 @@ Hebreos 7
 16 no constituido conforme a la ley del mandamiento acerca de la descendencia, sino según el poder de una vida indestructible.
 17 Pues se da testimonio de él: Tú eres sacerdote para siempre, Según el orden de Melquisedec.
 18 Queda, pues, abrogado el mandamiento anterior a causa de su debilidad e ineficacia
-19 y de la introducción de una mejor esperanza, por la cual nos acercamos a Dios.
+19 pues nada perfeccionó la ley y de la introducción de una mejor esperanza, por la cual nos acercamos a Dios.
 20 Y esto no fue hecho sin juramento;
 21 porque los otros ciertamente sin juramento fueron hechos sacerdotes pero éste, con el juramento del que le dijo Juró el Señor, y no se arrepentirá Tú eres sacerdote para siempre, Según el orden de Melquisedec.
 22 Por tanto, Jesús es hecho fiador de un mejor pacto.
@@ -31012,7 +31028,7 @@ Hebreos 10
 5 Por lo cual, entrando en el mundo dice: Sacrificio y ofrenda no quisiste; Mas me preparaste cuerpo.
 6 Holocaustos y expiaciones por el pecado no te agradaron.
 7 Entonces dije: He aquí que vengo, oh Dios, para hacer tu voluntad, Como en el rollo del libro está escrito de mí.
-8 Diciendo primero Sacrificio y ofrenda y holocaustos y expiaciones por el pecado no quisiste, ni te agradaron
+8 Diciendo primero Sacrificio y ofrenda y holocaustos y expiaciones por el pecado no quisiste, ni te agradaron las cuales cosas se ofrecen según la ley,
 9 y diciendo luego: He aquí que vengo, oh Dios, para hacer tu voluntad; quita lo primero, para establecer esto último.
 10 En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para siempre.
 11 Y c iertamente todo sacerdote está día tras día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados;
@@ -31624,7 +31640,7 @@ Apocalipsis 2
 6 Pero tienes esto que aborreces las obras de los nicolaítas las cuales yo también aborrezco.
 7 El que tiene oído, oiga lo que el Espíritu dice a las iglesias Al que venciere, le daré a comer del árbol de la vida el cual está en medio del paraíso de Dios. El mensaje a Esmirna
 8 Y escribe al ángel de la iglesia en Esmirna El primero y el postrero el que estuvo muerto y vivió, dice esto:
-9 Yo conozco tus obras, y tu tribulación, y tu pobreza y la blasfemia de los que se dicen ser judíos y no lo son sino sinagoga de Satanás.
+9 Yo conozco tus obras, y tu tribulación, y tu pobreza pero tú eres rico y la blasfemia de los que se dicen ser judíos y no lo son sino sinagoga de Satanás.
 10 No temas en nada lo que vas a padecer. He aquí, el diablo echará a algunos de vosotros en la cárcel para que seáis probados y tendréis tribulación por diez días. Sé fiel hasta la muerte, y yo te daré la corona de la vida.
 11 El que tiene oído, oiga lo que el Espíritu dice a las iglesias El que venciere, no sufrirá daño de la segunda muerte. El mensaje a Pérgamo
 12 Y escribe al ángel de la iglesia en Pérgamo: El que tiene la espada aguda de dos filos dice esto:

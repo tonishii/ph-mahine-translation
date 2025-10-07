@@ -13,6 +13,7 @@ from clean_utils.clean_ilocano import clean_ilocano
 from clean_utils.clean_cebuano import clean_cebuano
 from clean_utils.clean_espanol import clean_espanol
 from clean_utils.clean_english import clean_english
+from clean_utils.clean_chavacano import clean_chavacano
 from to_by_sentence import to_sentence
 
 codes = {
@@ -42,7 +43,7 @@ def clean_file(path, dir_name):
     text = re.sub(pattern, "\n", text)
 
     # Normalize spacing
-    if dir_name not in ["cebuano", "ilocano", "espanol"]:
+    if dir_name not in ["cebuano", "ilocano", "espanol", "tagalog", "chavacano"]:
       pattern = r"\s+"
       text = re.sub(pattern, " ", text)
 
@@ -53,12 +54,9 @@ def clean_file(path, dir_name):
     books = []
 
     if dir_name == "cebuano":
-      # Removes everything until first chapter
-      text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
       text, books = clean_cebuano(text)
 
     if dir_name == "ilocano":
-      text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
       text, books = clean_ilocano(text)
 
     if dir_name == "espanol":
@@ -71,8 +69,6 @@ def clean_file(path, dir_name):
       text, books = clean_kapampangan(text)
 
     if dir_name == "tausug":
-      pattern = r"^(.*?)(?=Matiyu\s+1\s)"
-      text = re.sub(pattern, "", text)
       text, books = clean_tausug(text)
 
     if dir_name == "yami":
@@ -89,8 +85,7 @@ def clean_file(path, dir_name):
       text = re.sub(pattern, "", text)
 
     if dir_name == "chavacano":
-      pattern = r"^(.*?)(?=Mateo 1:1 1 Mateo 2:1)"
-      text = re.sub(pattern, "", text)
+      text, books = clean_chavacano(text)
 
     if dir_name == "hiligaynon":
       text, books = clean_hiligaynon(text)
