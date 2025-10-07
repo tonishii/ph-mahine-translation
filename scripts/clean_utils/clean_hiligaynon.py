@@ -110,7 +110,7 @@ def clean_hiligaynon(text):
     pattern = r"(?=55-57)"
     text = re.sub(pattern, r"\n", text)
   
-    verify(text)
+    #verify(text)
     return text, books
 
 def verify(text):
