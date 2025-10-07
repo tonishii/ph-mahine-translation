@@ -2,21 +2,23 @@ import re
 from collections import defaultdict
 
 books = [
-  "Genesis", "Exodo", "Levitico", "Numero", "Deuteronomio", "Josue",
-  "Uk-ukom", "Ruth", "1 Samuel", "2 Samuel", "1 Ar-ari", "2 Ar-ari",
-  "1 Cronicas", "2 Cronicas", "Ezra", "Nehemias", "Ester", "Job",
-  "Dagiti Salmo", "Dagiti Proverbio", "Eclesiastes", "Kanta ni Solomon",
-  "Isaias", "Jeremias", "Dungdung-aw", "Ezekiel", "Daniel", "Oseas",
-  "Joel", "Amos", "Obadias", "Jonas", "Mikias", "Nahum", "Habakuk",
-  "Sofonias", "Haggeo", "Zacarias", "Malakias", "San Mateo", "San Marcos",
-  "San Lucas", "San Juan", "Dagiti Aramid", "Taga-Roma", "1 Taga-Corinto",
-  "2 Taga-Corinto", "Taga-Galacia", "Taga-Efeso", "Taga-Filipos",
-  "Taga-Colosas", "1 Taga-Tesalonica", "2 Taga-Tesalonica", "1 Timoteo",
-  "2 Timoteo", "Tito", "Filemon", "Hebreo", "Santiago", "1 Pedro",
-  "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "San Judas", "Paltiing"
+  "Génesis", "Éxodo", "Levítico", "Números", "Deuteronomio", "Josué",
+  "Jueces", "Rut", "1 Samuel", "2 Samuel", "1 Reyes", "2 Reyes",
+  "1 Crónicas", "2 Crónicas", "Esdras", "Nehemías", "Ester", "Job",
+  "Salmos", "Proverbios", "Eclesiastés", "Cantares", "Isaías", "Jeremías",
+  "Lamentaciones", "Ezequiel", "Daniel", "Oseas", "Joel", "Amós",
+  "Abdías", "Jonás", "Miqueas", "Nahum", "Habacuc", "Sofonías",
+  "Ageo", "Zacarías", "Malaquías", "San Mateo", "San Marcos",
+  "San Lucas", "San Juan", "Hechos", "Romanos", "1 Corintios",
+  "2 Corintios", "Gálatas", "Efesios", "Filipenses", "Colosenses",
+  "1 Tesalonicenses", "2 Tesalonicenses", "1 Timoteo", "2 Timoteo",
+  "Tito", "Filemón", "Hebreos", "Santiago", "1 Pedro", "2 Pedro",
+  "1 Juan", "2 Juan", "3 Juan", "Judas", "Apocalipsis"
 ]
 
-def clean_ilocano(text):
+def clean_espanol(text):
+  text = re.sub(r"(?s)^.*?\bGénesis\s*1\b", "Génesis 1", text, count=1)
+
   pattern = r"\s*(?=\n)"
   text = re.sub(pattern, "", text)
 
@@ -37,11 +39,11 @@ def clean_ilocano(text):
   text = re.sub(pattern, "", text)
 
   # Remove the footer and page number
-  pattern = r"\d*\nTi Baro a Naimbag a Damag Biblia\n© 1996, Philippine Bible Society.\n"
+  pattern = r"\d*\nEl texto bíblico ha sido tomado de la versión Reina-Valera © 1960;\n© Sociedades Bíblicas Unidas\n© Sociedades Bíblicas en América Latina.\n"
   text = re.sub(pattern, "", text)
 
   # Removes special cases
-  pattern = r"(Ilocano.*All Bible\s*|(20[1-9]|2[1-9]\d|[3-9]\d{2,}))"
+  pattern = r"(Español.*All Bible\s*|(20[1-9]|2[1-9]\d|[3-9]\d{2,}))"
   text = re.sub(pattern, "", text)
 
   # Puts everything that doesnt start with a number in the previous line
@@ -88,7 +90,7 @@ def clean_ilocano(text):
   pattern = r"\n\d\n"
   text = re.sub(pattern, "\n", text)
 
-  # verify(text)
+  verify(text)
   return text
 
 def verify(text: str):

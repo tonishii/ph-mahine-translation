@@ -7,6 +7,7 @@ from clean_waray import clean_waray
 from clean_yami import clean_yami
 from clean_ilocano import clean_ilocano
 from clean_cebuano import clean_cebuano
+from clean_espanol import clean_espanol
 
 def clean_file(path, dir_name):
   with open(path + "/bible.txt", "r", encoding="utf-8") as f:
@@ -21,7 +22,7 @@ def clean_file(path, dir_name):
     text = re.sub(pattern, "", text)
 
     # Normalize spacing
-    if dir_name not in ["cebuano", "ilocano"]:
+    if dir_name not in ["cebuano", "ilocano", "espanol"]:
       pattern = r"\s+"
       text = re.sub(pattern, " ", text)
 
@@ -33,6 +34,9 @@ def clean_file(path, dir_name):
     if dir_name == "ilocano":
       text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
       text = clean_ilocano(text)
+
+    if dir_name == "espanol":
+      text = clean_espanol(text)
 
     if dir_name == "tagalog":
       text = clean_tagalog(text)
