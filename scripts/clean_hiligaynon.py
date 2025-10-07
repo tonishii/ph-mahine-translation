@@ -20,6 +20,9 @@ def clean_hiligaynon(text):
     
     books = old_testament_books + new_testament_books
     
+    pattern = r"^(.*?)(?=Genesis\s+1\s)"
+    text = re.sub(pattern, "", text)
+    
     pattern = r"\d+\s+Ang Pulong Sang Dios \(Hiligaynon Contemporary Bible\) © 1996, 2006, 2011 by Biblica, Inc\.®\.\s+"
     #pattern = r"\d+\n+Ang Pulong Sang Dios\n\(Hiligaynon Contemporary Bible\)\n© 1996, 2006, 2011 by Biblica, Inc\.®.\s+"
     text = re.sub(pattern, "", text)
@@ -70,9 +73,15 @@ def clean_hiligaynon(text):
     
     pattern = r"Esclarecimento(.*)+"
     text = re.sub(pattern, "", text)
+    
+    pattern = r"(\d+\s+[A-Za-z]+\s+)\d+\n(\d+)\s*\n+"
+    text = re.sub(pattern, r"\1\2\n", text)
+    
+    pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
+    text = re.sub(pattern, "\n", text)
   
     #verify(text)
-    return text
+    return text, books
 
 def verify(text):
   old_testament_books = [

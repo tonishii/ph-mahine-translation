@@ -1,2 +1,4 @@
 pypdf
 cryptography
+regex
+openpyxl
