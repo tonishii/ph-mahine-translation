@@ -1,15 +1,15 @@
-import re
+import re, pandas as pd, os
 from collections import defaultdict
 
 books = [
   "Génesis", "Éxodo", "Levítico", "Números", "Deuteronomio", "Josué",
   "Jueces", "Rut", "1 Samuel", "2 Samuel", "1 Reyes", "2 Reyes",
   "1 Crónicas", "2 Crónicas", "Esdras", "Nehemías", "Ester", "Job",
-  "Salmos", "Proverbios", "Eclesiastés", "Cantares", "Isaías", "Jeremías",
+  "Salmo", "Proverbios", "Eclesiastés", "Cantares", "Isaías", "Jeremías",
   "Lamentaciones", "Ezequiel", "Daniel", "Oseas", "Joel", "Amós",
-  "Abdías", "Jonás", "Miqueas", "Nahum", "Habacuc", "Sofonías",
-  "Ageo", "Zacarías", "Malaquías", "San Mateo", "San Marcos",
-  "San Lucas", "San Juan", "Hechos", "Romanos", "1 Corintios",
+  "Abdías", "Jonás", "Miqueas", "Nahúm", "Habacuc", "Sofonías",
+  "Hageo", "Zacarías", "Malaquías", "S. Mateo", "S. Marcos",
+  "S. Lucas", "S.Juan", "Hechos", "Romanos", "1 Corintios",
   "2 Corintios", "Gálatas", "Efesios", "Filipenses", "Colosenses",
   "1 Tesalonicenses", "2 Tesalonicenses", "1 Timoteo", "2 Timoteo",
   "Tito", "Filemón", "Hebreos", "Santiago", "1 Pedro", "2 Pedro",
@@ -47,7 +47,7 @@ def clean_espanol(text):
   text = re.sub(pattern, "", text)
 
   # Removes special cases
-  pattern = r"(Español.*All Bible\s*|(20[1-9]|2[1-9]\d|[3-9]\d{2,}))"
+  pattern = r"(Español.*All Bible\s*|(20[1-9]|2[1-9]\d|[3-9]\d{2,})|Reina Valera\s*-\s*\d)"
   text = re.sub(pattern, "", text)
 
   # Puts everything that doesnt start with a number in the previous line

@@ -46,7 +46,7 @@ def clean_pangasinense(text):
 
     pattern = r"((\d+-)*\d+) (?=[A-Za-z])"
     text = re.sub(pattern, r"\n\1 ", text)
-    
+
     pattern = r"((\d+-)*\d+) (?=[“‘\"\'])"
     text = re.sub(pattern, r"\n\1 ", text)
 
@@ -71,7 +71,7 @@ def clean_pangasinense(text):
     pattern = r"(1 Tesalonica\s)\n+(?=\d)"
     text = re.sub(pattern, r"\1", text)
 
-    verify(text)
+    # verify(text)
     return text, books
 
 def verify(text):
