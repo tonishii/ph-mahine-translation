@@ -19,6 +19,8 @@ books = [
 
 def clean_cebuano(text):
   text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
+  
+  book_pattern = "|".join(books)
 
   pattern = r"\s*(?=\n)"
   text = re.sub(pattern, "", text)
@@ -52,11 +54,11 @@ def clean_cebuano(text):
   text = re.sub(pattern, " ", text)
 
   # Normalize spacing behind book
-  pattern = rf"\s+(?=({"|".join(books)})\s+\d+)"
+  pattern = rf"\s+(?=({book_pattern})\s+\d+)"
   text = re.sub(pattern, "\n", text)
 
   # Remove the titles
-  pattern = rf"\s+({"|".join(books)})\n"
+  pattern = rf"\s+({book_pattern})\n"
   text = re.sub(pattern, "\n", text)
 
   # Normalize spacing
@@ -78,11 +80,11 @@ def clean_cebuano(text):
   text = re.sub(pattern, "", text)
 
   # Remove unnecessary titles
-  pattern = rf"({"|".join(books)})(?=\n)"
+  pattern = rf"({book_pattern})(?=\n)"
   text = re.sub(pattern, "", text)
 
   # Remove everything from the book title to the first verse number
-  pattern = rf"({"|".join(books)})\s(\d+)(.*?)(?=\n\d+\s*)"
+  pattern = rf"({book_pattern})\s(\d+)(.*?)(?=\n\d+\s*)"
   text = re.sub(pattern, r"\1 \2\n", text)
 
   pattern = r"\s*(?=\n)"
@@ -90,12 +92,16 @@ def clean_cebuano(text):
 
   pattern = r"\n\d\n"
   text = re.sub(pattern, "\n", text)
+  
+  pattern = r"[^.]\n(?=100)"
+  text = re.sub(pattern, " ", text)
 
   # verify(text)
   return text, books
 
 def verify(text: str):
-  pattern = rf"({"|".join(books)})\s(\d+)"
+  book_pattern = "|".join(books)
+  pattern = rf"({book_pattern})\s(\d+)"
   chapter_counts = [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52, 5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5, 3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]
 
   chapter_counts_dict = { book: count for (book, count) in zip(books, chapter_counts)}
