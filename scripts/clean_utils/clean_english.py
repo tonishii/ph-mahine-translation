@@ -9,7 +9,7 @@ def clean_english(text):
         "Ezra", "Nehemiah", "Esther", "Job", "Psalms",
         "Proverbs", "Ecclesiastes", "Song of Songs", "Isaiah",
         "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea",
-        "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum",
+        "Joel", "Amos", "Abadiah", "Jonah", "Micah", "Nahum",
         "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
     ]
 
