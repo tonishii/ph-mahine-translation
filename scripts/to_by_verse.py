@@ -37,7 +37,7 @@ def to_excel(text, name):
       verses.append({
         "Book": current_book.strip(),
         "Chapter": int(current_chapter),
-        "Verse #": str(p1.strip()),
+        "Verse": str(p1.strip()),
         "Text": p2.strip()
       })
 
@@ -45,10 +45,10 @@ def to_excel(text, name):
     df = pd.DataFrame(verses)
     excel_path = os.path.join("data/by_verse", f"{codes.get(name)}.xlsx")
     df.to_excel(excel_path, index=False)
-    print(f"{excel_path}")
+    print(f"{excel_path} ✓")
 
   else:
-    print("Error no excel")
+    print("Error: No excel.")
 
 def main():
   dir_path = "data/raw"
