@@ -86,6 +86,15 @@ def clean_waray(text):
   
   pattern = r"\n\d+\s+\n"
   text = re.sub(pattern, "\n", text)
+  
+  pattern = r"\s(?=2-8|9-13|14-27)"
+  text = re.sub(pattern, "\n", text)
+  
+  pattern = r"(?=(4|7)\sMga\sSakop)"
+  text = re.sub(pattern, "\n", text)
+  
+  pattern = r"(?=(2-7\sKapadian)|(8\sMga\sLevita))"
+  text = re.sub(pattern, "\n", text)
 
   #verify(text)
   return text, books

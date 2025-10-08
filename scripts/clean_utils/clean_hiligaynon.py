@@ -119,6 +119,9 @@ def clean_hiligaynon(text):
     pattern = r"\n(.*)(?=26-38)"
     text = re.sub(pattern, r"\1\n", text)
     
+    pattern = r"\n(.*)(?=39-42)"
+    text = re.sub(pattern, r"\1\n", text)
+    
     pattern = r"\n(.*)(?=43-45)"
     text = re.sub(pattern, r"\1\n", text)
     
