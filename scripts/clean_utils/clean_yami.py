@@ -63,6 +63,10 @@ def clean_yami(text):
     pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
     text = re.sub(pattern, "\n", text)
 
+    # Normalizes spacing after a number
+    pattern = r"(?<=\d)(?=[^0-9-\s])"
+    text = re.sub(pattern, " ", text)
+
     #verify(text)
     return text, books
 
