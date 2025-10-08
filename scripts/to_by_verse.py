@@ -24,7 +24,7 @@ def to_excel(text, name):
   current_book, current_chapter = "N/A", "N/A"
 
   for line in lines:
-    match = re.match(r'^(.*?)\s+(\d+)$', line)
+    match = re.match(r"^(.{3,25})\s(\d+)$", line)
     if match:
       current_book, current_chapter = match.groups()
     else:
@@ -37,7 +37,7 @@ def to_excel(text, name):
       verses.append({
         "Book": current_book.strip(),
         "Chapter": int(current_chapter),
-        "Verse #": p1.strip(),
+        "Verse #": str(p1.strip()),
         "Text": p2.strip()
       })
 

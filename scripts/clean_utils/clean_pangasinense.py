@@ -1,13 +1,14 @@
 import re
 from collections import defaultdict
 
-def clean_pangasinese(text):
-    new_testament_books = [
-        "Mateo", "Marcos", "Lucas", "Juan", "Gawgawa",
-        "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
-        "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
-        "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Puyan"
-    ]
+new_testament_books = [
+    "Mateo", "Marcos", "Lucas", "Juan", "Gawgawa",
+    "Roma", "1 Corinto", "2 Corinto", "Galacia", "Efeso", "Filipos", "Colosas",
+    "2 Tesalonica", "1 Timoteo", "2 Timoteo", "Tito", "Filemon",
+    "Hebreo", "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "Puyan"
+]
+
+def clean_pangasinense(text):
 
     books = new_testament_books
 
@@ -60,10 +61,10 @@ def clean_pangasinese(text):
 
     pattern = r"[A-Za-z]+\n(?=[A-Za-z]+\s+\d+)"
     text = re.sub(pattern, "\n", text)
-    
+
     pattern = r"1 Tesalonica\s\n+(?=1)"
     text = re.sub(pattern, "", text)
-    
+
     pattern = r"(1 Tesalonica\s)\n+(?=\d)"
     text = re.sub(pattern, r"\1", text)
 

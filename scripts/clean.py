@@ -2,7 +2,7 @@ import re, os, sys
 from clean_utils.clean_kapampangan import clean_kapampangan
 from clean_utils.clean_tagalog import clean_tagalog
 from clean_utils.clean_hiligaynon import clean_hiligaynon
-from clean_utils.clean_pangasinese import clean_pangasinese
+from clean_utils.clean_pangasinense import clean_pangasinense
 from clean_utils.clean_waray import clean_waray
 from clean_utils.clean_tuwali import clean_tuwali
 from clean_utils.clean_bicolano import clean_bicolano
@@ -78,7 +78,7 @@ def clean_file(path, dir_name):
       text, books = clean_yami(text)
 
     if dir_name == "pangasinan":
-      text, books = clean_pangasinese(text)
+      text, books = clean_pangasinense(text)
 
     if dir_name == "waray":
       text, books = clean_waray(text)
