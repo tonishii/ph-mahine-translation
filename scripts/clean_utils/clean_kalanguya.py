@@ -4,7 +4,7 @@ from collections import defaultdict
 books = [
     "Nahum", "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua",
     "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles",
-    "2 Chronicles", "Ezra", "Nehemiah", "Esther", "Job", "Psalms", "Proverbs",
+    "2 Chronicles", "Ezra", "Nehemiah", "Esther", "Job", "Psalm", "Proverbs",
     "Ecclesiastes", "Song of Songs", "Isaiah", "Jeremiah", "Lamentations", "Ezekiel",
     "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Habakkuk",
     "Sephaniah", "Haggai", "Sekariah", "Malachi", "Mathew", "Mark", "Luke", "John",

@@ -59,6 +59,10 @@ def clean_bicolano(text):
     pattern = r'\n\n+'
     text = re.sub(pattern, "\n", text)
 
+    # Normalize name Ecclesiastes
+    pattern = r'(Ecclesiastes) o an Parahulit (\d+)'
+    text = re.sub(pattern, r"\1 \2", text)
+    
     # Remove the very first newline
     text = re.sub(r'^\s*\n+', '', text)
 
