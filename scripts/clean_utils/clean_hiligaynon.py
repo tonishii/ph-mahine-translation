@@ -62,6 +62,9 @@ def clean_hiligaynon(text):
     pattern = r"((\d+-)*\d+)(?=[“])"
     text = re.sub(pattern, r"\n\1 ", text)
     
+    pattern = r"((\d+-)*\d+)(?=[“‘\"\[\'])"
+    text = re.sub(pattern, r"\n\1 ", text)
+    
     pattern = r" \s(?=\d+\s\w+)"
     text = re.sub(pattern, "\n", text)
     

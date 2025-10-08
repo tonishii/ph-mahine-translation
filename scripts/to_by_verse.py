@@ -59,7 +59,7 @@ def main():
 
       if not os.path.exists(f"data/processed/{codes.get(dir_name)}.txt"):
         filename = f"{codes.get(dir_name)}.txt"
-        print(f"File not found: {os.path.join("data/processed/",filename)}")
+        # print(f"File not found: {os.path.join("data/processed/",filename)}")
         continue
 
       with open(f"data/processed/{codes.get(dir_name)}.txt", "r", encoding="utf-8") as f:
@@ -71,7 +71,7 @@ def main():
     for argv in sys.argv[1:]:
       if not os.path.exists(f"data/processed/{codes.get(argv)}.txt"):
         filename = f"{codes.get(argv)}.txt"
-        print(f"File not found: {os.path.join("data/processed/",filename)}")
+        # print(f"File not found: {os.path.join("data/processed/",filename)}")
         continue
 
       with open(f"data/processed/{codes.get(argv)}.txt", "r", encoding="utf-8") as f:

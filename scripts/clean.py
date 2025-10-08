@@ -1,6 +1,6 @@
 import re, os, sys
-from clean_utils.clean_kapampangan import clean_kapampangan
-from clean_utils.clean_tagalog import clean_tagalog
+# from clean_utils.clean_kapampangan import clean_kapampangan
+# from clean_utils.clean_tagalog import clean_tagalog
 from clean_utils.clean_hiligaynon import clean_hiligaynon
 from clean_utils.clean_pangasinense import clean_pangasinense
 from clean_utils.clean_waray import clean_waray
@@ -9,11 +9,11 @@ from clean_utils.clean_bicolano import clean_bicolano
 from clean_utils.clean_kalanguya import clean_kalanguya
 from clean_utils.clean_tausug import clean_tausug
 from clean_utils.clean_yami import clean_yami
-from clean_utils.clean_ilocano import clean_ilocano
-from clean_utils.clean_cebuano import clean_cebuano
-from clean_utils.clean_espanol import clean_espanol
+# from clean_utils.clean_ilocano import clean_ilocano
+# from clean_utils.clean_cebuano import clean_cebuano
+# from clean_utils.clean_espanol import clean_espanol
 from clean_utils.clean_english import clean_english
-from clean_utils.clean_chavacano import clean_chavacano
+# from clean_utils.clean_chavacano import clean_chavacano
 from to_by_sentence import to_sentence
 
 codes = {
@@ -56,20 +56,20 @@ def clean_file(path, dir_name):
 
     books = []
 
-    if dir_name == "cebuano":
-      text, books = clean_cebuano(text)
+    # if dir_name == "cebuano":
+    #   text, books = clean_cebuano(text)
 
-    if dir_name == "ilocano":
-      text, books = clean_ilocano(text)
+    # if dir_name == "ilocano":
+    #   text, books = clean_ilocano(text)
 
-    if dir_name == "espanol":
-      text, books = clean_espanol(text)
+    # if dir_name == "espanol":
+    #   text, books = clean_espanol(text)
 
-    if dir_name == "tagalog":
-      text, books = clean_tagalog(text)
+    # if dir_name == "tagalog":
+    #   text, books = clean_tagalog(text)
 
-    if dir_name == "kapampangan":
-      text, books = clean_kapampangan(text)
+    # if dir_name == "kapampangan":
+    #   text, books = clean_kapampangan(text)
 
     if dir_name == "tausug":
       text, books = clean_tausug(text)
@@ -77,7 +77,7 @@ def clean_file(path, dir_name):
     if dir_name == "yami":
       text, books = clean_yami(text)
 
-    if dir_name == "pangasinan":
+    if dir_name == "pangasinense":
       text, books = clean_pangasinense(text)
 
     if dir_name == "waray":
@@ -87,8 +87,8 @@ def clean_file(path, dir_name):
       pattern = r"^(.*?)(?=Maksod\s+1\s)"
       text = re.sub(pattern, "", text)
 
-    if dir_name == "chavacano":
-      text, books = clean_chavacano(text)
+    # if dir_name == "chavacano":
+    #   text, books = clean_chavacano(text)
 
     if dir_name == "hiligaynon":
       text, books = clean_hiligaynon(text)
