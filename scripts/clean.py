@@ -103,7 +103,7 @@ def clean_file(path, dir_name):
       text, books = clean_english(text)
 
     if dir_name == "tuwali":
-      text = clean_tuwali(text)
+      text, books = clean_tuwali(text)
 
     with open(f"data/processed/{codes.get(dir_name)}.txt", "w", encoding="utf-8") as f:
       f.write(text)

@@ -64,5 +64,7 @@ def clean_kalanguya(text):
     # Clean up excess newlines
     text = re.sub(r'\n\n+', '\n', text)
     text = re.sub(r'^\s*\n+', '', text)
+    
+    text = re.sub(r'Deuteronomy\s+1[\s\S]*', '', text)
 
     return text, books
