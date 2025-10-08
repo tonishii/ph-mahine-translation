@@ -6,6 +6,7 @@ pairs = [
   ("CBK", "SPA"),
   ("TGL", "PAM"),
   ("BCL", "KAK"),
+  ("CEB", "ENG"),
 ]
 
 codes = {
