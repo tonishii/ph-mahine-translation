@@ -61,6 +61,4 @@ def clean_tuwali(text):
     # Remove leading newlines
     text = re.sub(r'^\s*\n+', '', text)
     
-    text = re.sub(r'Deuteronomy\s+1[\s\S]*', '', text)
-
     return text, books
