@@ -87,6 +87,8 @@ def process_corpora(lang1, lang2):
       elif next_lang1._3 != next_lang2._3:
         # if it encounters both lang_iter having range
         if match1 and match2: 
+          # this should try to find ranges that are similar tbh
+          print(match1, match2)
           low1, high1 = match1.groups()
           low2, high2 = match2.groups()
           if int(low1) == int(low2) and int(high1) == int(high2):
