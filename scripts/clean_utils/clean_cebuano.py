@@ -95,50 +95,99 @@ def clean_cebuano(text):
   
   pattern = r"[^.]\n(?=100)"
   text = re.sub(pattern, " ", text)
+  
+  pattern = r"\s\n(?=50\ska)"
+  text = re.sub(pattern, " ", text)
+  
+  pattern = r"(?<=as)\n(?=50\s)"
+  text = re.sub(pattern, " ", text)
 
   # verify(text)
+  text = fix_verse(text)
+  verify(text)
   return text, books
 
-def verify(text: str):
+def fix_verse(text):
   book_pattern = "|".join(books)
-  pattern = rf"({book_pattern})\s(\d+)"
-  chapter_counts = [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52, 5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5, 3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]
-
-  chapter_counts_dict = { book: count for (book, count) in zip(books, chapter_counts)}
-
-  chapters = re.findall(pattern, text)
-
-  book_chapters = defaultdict(list)
-  for book, chap in chapters:
-    book_chapters[book].append(int(chap))
-
-  for book, chaps in book_chapters.items():
-    if chaps != sorted(chaps):
-      print(f"Chapters out of order in {book}: {chaps}")
-    else:
-      if chapter_counts_dict[book] == len(chaps):
-        print(f"{book} chapters ({len(chaps)}) in order ✓")
-      else:
-        print(f"{book} chapters ({len(chaps)} should be {chapter_counts_dict[book]}) NOT in order x: {chaps}")
-
   lines = text.splitlines()
-  curr_count = 0
   curr_book = ""
-  verse_nums = {}
-
+  curr_chapter = None
+  last_verse = 0
+  book_chapters = defaultdict(list)
+  
   for line in lines:
     line = line.strip()
     if not line:
       continue
-    parts = line.split(maxsplit=1)
-
-    if parts[0] in books and parts[0] != curr_book:
-      verse_nums[curr_book] = curr_count
-      curr_count = 0
-      curr_book = parts[0]
-
-    if parts[0].isdigit():
-      curr_count += 1
-
-  verse_nums[curr_book] = curr_count
-  print("Verse counts:", verse_nums)
+      
+    match = re.match(rf"({book_pattern})\s(\d+)", line)
+    
+    if match:
+      curr_book, chap_str = match.groups()
+      curr_chapter = int(chap_str)
+      last_verse = 0
+      book_chapters[curr_book].append(curr_chapter)
+      continue
+    
+    if re.match(r"^\d+(-(\d+))*\s", line):
+      verse_num = int(re.match(r"^(\d+)", line).group(1))
+      match = re.match(r"^(\d+)-(\d+)", line)
+      if match:
+        verse_num, _= match.groups()
+        verse_num = int(verse_num)
+      #future_verse = int (re.match)
+      if verse_num < last_verse:
+        pattern = rf"\n({last_verse}\s(.*))\n({verse_num}(.*))"
+        text = re.sub(pattern, r" \1 \n\3", text)
+      last_verse = verse_num
+    
+  return text
+    
+def verify(text: str):
+  book_pattern = "|".join(books)
+  chapter_counts = [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52, 5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5, 3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]
+  
+  chapter_counts_dict = { book: count for (book, count) in zip(books, chapter_counts)}
+  lines = text.splitlines()
+  curr_book = ""
+  curr_chapter = None
+  last_verse = 0
+  book_chapters = defaultdict(list)
+  
+  issues = []
+  
+  for line in lines:
+      line = line.strip()
+      if not line:
+          continue
+        
+      match = re.match(rf"({book_pattern})\s+(\d+)", line)
+      
+      if match:
+          curr_book, chap_str = match.groups()
+          curr_chapter = int(chap_str)
+          last_verse = 0
+          book_chapters[curr_book].append(curr_chapter)
+          continue
+        
+      if re.match(r"^\d+\s", line):
+          verse_num = int(re.match(r"^(\d+)", line).group(1))
+          if verse_num < last_verse:
+              issues.append(f"Verse out of order in {curr_book} {curr_chapter}: {last_verse} → {verse_num}")
+          elif verse_num == last_verse:
+              issues.append(f"Duplicate verse in {curr_book} {curr_chapter}: {verse_num}")
+          last_verse = verse_num
+          
+  for book, chaps in book_chapters.items():
+      expected = chapter_counts_dict.get(book, None)
+      if expected and len(set(chaps)) == expected:
+          print(f"{book} chapters ({len(chaps)}) in order ✓")
+      else:
+          print(f"{book} chapters ({len(set(chaps))} should be {expected}) NOT in order x")
+          
+  if issues:
+      print("\n--- Chronology Issues ---")
+      for i in issues:
+          print(i)
+  else:
+      print("\nAll verses are in chronological order ✓")

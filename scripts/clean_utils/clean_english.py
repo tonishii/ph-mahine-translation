@@ -87,6 +87,9 @@ def clean_english(text):
     pattern = r"The Acts\n"
     text = re.sub(pattern, "\n", text)
     
+    pattern = r"(2 Kings) 2\n1(.*)\n(?=1)"
+    text = re.sub(pattern, r"\1 1\n", text)
+    
     #verify(text)
     return text, books
 
