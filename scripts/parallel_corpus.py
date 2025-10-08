@@ -55,7 +55,11 @@ def process_corpora(lang1, lang2):
 
   books1, books2 = lang1_df["Book"].unique(), lang2_df["Book"].unique()
   book_map = {book1: book2 for book1, book2 in zip(books1, books2)}
-  book_map_lang1_to_eng = {local: eng for local, eng in zip(books1, new_testament_books)}
+  book_map_lang1_to_eng = {}
+  if lang1 in ["TAO", "PAG", "CBK", "TSG"] and lang2 in ["TAO", "PAG", "CBK", "TSG"]:
+    book_map_lang1_to_eng = {local: eng for local, eng in zip(books1, new_testament_books)}
+  else: 
+    book_map_lang1_to_eng = {local: eng for local, eng in zip(books1, old_testament_books + new_testament_books)}
   book_map_lang2_to_eng = {local: eng for local, eng in zip(books2, new_testament_books)}
 
   lang1_iter, lang2_iter = lang1_df.itertuples(), lang2_df.itertuples()
@@ -64,6 +68,9 @@ def process_corpora(lang1, lang2):
   try:
     while True:
       next_lang1, next_lang2 = next(lang1_iter), next(lang2_iter)
+      
+      match1 = re.match(r"(\d+)-(\d+)", str(next_lang1._3))
+      match2 = re.match(r"(\d+)-(\d+)", str(next_lang2._3))
 
       # print(next_lang1, next_lang2)
       if book_map.get(next_lang1.Book) == next_lang2.Book and next_lang1.Chapter == next_lang2.Chapter and next_lang1._3 == next_lang2._3:
@@ -76,75 +83,144 @@ def process_corpora(lang1, lang2):
         ])
 
       elif next_lang1._3 != next_lang2._3:
-        match = re.match(r"(\d+)-(\d+)", str(next_lang1._3))
-        if match:
-          low, high = match.groups()
-          text = []
+        if match1 and match2: 
+          low1, high1 = match1.groups()
+          low2, high2 = match2.groups()
+          if int(low1) == int(low2) and int(high1) == int(high2):
+            parallel_rows.append([
+              book_map_lang1_to_eng.get(next_lang1.Book),
+              next_lang1.Chapter,
+              low1+"-"+high1,
+              next_lang1.Text,
+              next_lang2.Text
+            ])
+          # gave up tbh
+          # else:
+          #   low = min(int(low1), int(low2))
+          #   high = max(int(high1), int(high2))
+            
+          #   if low == int(low1):
+          #     text = [next_lang2.Text]
+          #     next_tuple = None
+          #     for _ in range(low - int(low2)):
+          #       next_tuple = next(lang2_iter)
+          #       text.append(next_tuple.Text)
+          #   else:
+              
+          #   parallel_rows.append([
+          #     book_map_lang1_to_eng.get(next_lang1.Book),
+          #     next_lang1.Chapter,
+          #     low1+"-"+high1,
+          #     next_lang1.Text,
+          #     next_lang2.Text
+          #   ])
+        elif match1:
+          low, high = match1.groups()
+          text = [next_lang2.Text]
+          text1 = [next_lang1.Text]
           next_tuple = None
-          for _ in range(int(high) - int(low) + 1):
-            next_tuple = next(lang1_iter)
+          verses_collected = int(high) - int(low)
+          
+          while verses_collected > 0:
+            next_tuple = next(lang2_iter)
+            next_verse = str(next_tuple._3)
+            next_tuple1 = next(lang1_iter)
+
+            range_match = re.match(r"(\d+)-(\d+)", next_verse)
+            if range_match:
+              sub_low, sub_high = range_match.groups()
+              sub_range_len = int(sub_high) - int(sub_low) + 1
+              verses_collected -= sub_range_len
+            else:
+              sub_range_len = 1
+              verses_collected -= 1
+
             text.append(next_tuple.Text)
+            text1.append(next_tuple1.Text)
 
           if not next_tuple:
             return []
 
+          true_range = f"{min(sub_low,low)}-{max(sub_high,high)}"
           parallel_rows.append([
             book_map_lang1_to_eng.get(next_lang1.Book),
             next_lang1.Chapter,
-            low+"-"+high,
-            " ".join(text),
-            next_lang2.Text
+            true_range,
+            " ".join(text1),
+            " ".join(text)
           ])
+        elif match2:
+          low, high = match2.groups()
+          sub_low, sub_high = match2.groups()
+          text = [next_lang1.Text]
+          text1 = [next_lang2.Text]
+          next_tuple = None
+          verses_collected = int(high) - int(low)
 
+          while verses_collected > 0:
+            next_tuple = next(lang1_iter)
+            next_verse = str(next_tuple._3)
+            next_tuple1 = next(lang2_iter)
+
+            range_match = re.match(r"(\d+)-(\d+)", next_verse)
+            if range_match:
+              sub_low, sub_high = range_match.groups()
+              sub_range_len = int(sub_high) - int(sub_low) + 1
+              verses_collected -= sub_range_len
+            else:
+              sub_range_len = 1
+              verses_collected -= 1
+
+            text.append(next_tuple.Text)
+            text1.append(next_tuple1.Text)
+
+          if not next_tuple:
+            return []
+          
+          true_range = f"{min(sub_low,low)}-{max(sub_high,high)}"
+          parallel_rows.append([
+            book_map_lang1_to_eng.get(next_lang1.Book),
+            next_lang1.Chapter,
+            true_range,
+            " ".join(text),
+            " ".join(text1)
+          ])
         else:
-          match = re.match(r"(\d+)-(\d+)", str(next_lang2._3))
-          if match:
-            low, high = match.groups()
-            text = []
-            next_tuple = None
-            for _ in range(int(high) - int(low) + 1):
-              next_tuple = next(lang1_iter)
-              text.append(next_tuple.Text)
-
-            if not next_tuple:
-              return []
-
+          lang1_verse_no, lang2_verse_no = int(next_lang1._3), int(next_lang2._3) # type: ignore
+          while lang1_verse_no > lang2_verse_no:
             parallel_rows.append([
               book_map_lang1_to_eng.get(next_lang1.Book),
               next_lang1.Chapter,
-              low+"-"+high,
-              " ".join(text),
+              lang2_verse_no,
+              f"<no verse{lang2_verse_no}>",
               next_lang2.Text
             ])
-          else:
+            next_lang2 = next(lang2_iter)
+            #print(next_lang1, next_lang2)
+            while re.match(r"(\d+)-(\d+)", str(next_lang2._3)):
+              next_lang2 = next(lang2_iter)
             lang1_verse_no, lang2_verse_no = int(next_lang1._3), int(next_lang2._3) # type: ignore
-            while lang1_verse_no > lang2_verse_no:
-              parallel_rows.append([
-                book_map_lang1_to_eng.get(next_lang1.Book),
-                next_lang1.Chapter,
-                lang2_verse_no,
-                f"<no verse{lang2_verse_no}>",
-                next_lang2.Text
-              ])
-
-              next_lang1, next_lang2 = next(lang1_iter), next(lang2_iter)
-              print(next_lang1, next_lang2)
-              lang1_verse_no, lang2_verse_no = int(next_lang1._3), int(next_lang2._3) # type: ignore
-
-            while lang2_verse_no > lang1_verse_no:
-              parallel_rows.append([
-                book_map_lang1_to_eng.get(next_lang1.Book),
-                next_lang1.Chapter,
-                f"<no verse{lang1_verse_no}>",
-                lang1_verse_no,
-                next_lang1.Text
-              ])
-
-              next_lang1, next_lang2 = next(lang1_iter), next(lang2_iter)
-              print(next_lang1, next_lang2)
-              lang1_verse_no, lang2_verse_no = int(next_lang1._3), int(next_lang2._3) # type: ignore
-
-            # print(next_lang1, next_lang2)
+          while lang2_verse_no > lang1_verse_no:
+            parallel_rows.append([
+              book_map_lang1_to_eng.get(next_lang1.Book),
+              next_lang1.Chapter,
+              lang1_verse_no,
+              next_lang1.Text,
+              f"<no verse{lang1_verse_no}>"
+            ])
+            next_lang1 = next(lang1_iter)
+            while re.match(r"(\d+)-(\d+)", str(next_lang1._3)):
+              next_lang1 = next(lang1_iter)
+            lang1_verse_no, lang2_verse_no = int(next_lang1._3), int(next_lang2._3) # type: ignore
+          
+          parallel_rows.append([
+             book_map_lang1_to_eng.get(next_lang1.Book),
+             next_lang1.Chapter,
+             lang2_verse_no,
+             next_lang1.Text,
+             next_lang2.Text
+          ])
+          # print(next_lang1, next_lang2)
   except StopIteration:
     print("Error")
 

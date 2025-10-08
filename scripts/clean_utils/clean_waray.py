@@ -56,6 +56,9 @@ def clean_waray(text):
 
   pattern = r"((\d+-)*\d+)(?=[A-Za-z])"
   text = re.sub(pattern, r"\n\1 ", text)
+  
+  pattern = r"((\d+-)*\d+)(?=[“‘\"\[\'])"
+  text = re.sub(pattern, r"\n\1 ", text)
 
   pattern = r"^\d,(.*?)(?=\n)"
   text = re.sub(pattern, "", text, flags=re.MULTILINE)
