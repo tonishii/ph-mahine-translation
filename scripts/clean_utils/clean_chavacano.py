@@ -8,6 +8,8 @@ books = [
   "Santiago", "1 Pedro", "2 Pedro", "1 Juan", "2 Juan", "3 Juan", "Judas", "El Revelacion",
 ]
 
+book_pattern = "|".join(books)
+
 def clean_chavacano(text):
   # Remove parentheses but keep the contents
   pattern = r"\((.*?)\)"
@@ -17,11 +19,11 @@ def clean_chavacano(text):
   text = re.sub(pattern, "", text)
 
   # Remove everything from the book title to the first verse number
-  pattern = rf"({"|".join(books)})\s(\d+)(.*?)(?=\d+\s[a-zA-Z])"
+  pattern = rf"({book_pattern})\s(\d+)(.*?)(?=\d+\s[a-zA-Z])"
   text = re.sub(pattern, r"\1 \2\n", text, flags=re.S)
 
   # Remove the titles
-  pattern = rf"\n({"|".join(books)})\n"
+  pattern = rf"\n({book_pattern})\n"
   text = re.sub(pattern, "\n", text)
 
   # Separates by verse number
@@ -48,7 +50,7 @@ def clean_chavacano(text):
   return text, books
 
 def verify(text: str):
-  pattern = rf"({"|".join(books)})\s(\d+)"
+  pattern = rf"({book_pattern})\s(\d+)"
   chapter_counts = [28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5, 3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]
 
   chapter_counts_dict = { book: count for (book, count) in zip(books, chapter_counts)}

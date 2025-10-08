@@ -283,8 +283,7 @@ Genesis 11
 7 Busa manganaog kita ug libogon ta ang ilang pinulongan aron dili sila magkasinabtanay.”
 8 Busa gipatibulaag sila sa Ginoo sa tibuok kalibotan ug mihunong sila pagtukod sa siyudad.
 9 Babel ang ngalan sa siyudad kay didto gilibog man sa Ginoo ang pinulongan sa tanang tawo ug gikan didto gipatibulaag niya sila sa tibuok kalibotan. Ang mga Kaliwat ni Sem
-10 Mao kini ang mga kaliwat ni Sem Duha ka tuig human sa lunop, sa dihang
-100 na ka tuig si Sem, nakaliwat siyag lalaki nga si Arfacsad.
+10 Mao kini ang mga kaliwat ni Sem Duha ka tuig human sa lunop, sa dihan 100 na ka tuig si Sem, nakaliwat siyag lalaki nga si Arfacsad.
 11 Unya nakaabot pa siya ug laing ka tuig ug nakaliwat pa siyag ubang mga anak.
 12 Sa 35 na ang panuigon ni Arfacsad, nakaliwat siyag lalaki nga si Shela.
 13 Unya nakaabot pa siya ug laing ka tuig ug may lain pa siyang mga anak.
@@ -968,8 +967,7 @@ Genesis 32
 11 Busa luwasa intawon ako gikan sa mga kamot sa akong igsoon nga si Esau Nahadlok ako nga siya mipaingon nganhi aron pamatyon kaming tanan lakip ang mga babaye ug kabataan.
 12 Hinumdomi ang imong saad n ga walay daotang mahitabo kanako ug nga hatagan mo akog daghang kaliwat nga dili maihap sama kadaghan sa balas sa baybayon.”
 13 Human siya magpalabay sa gabii niadtong dapita nagpili siyag gasa alang sa iyang igsoon nga si Esau.
-14-15 Kini ang iyang gigasa: 200 ka baye ug 20 ka laking kanding, 200 ka baye ug 20 ka laking karnero, 30 ka gatasan nga kamelyo lakip ang mga anak nila,
-40 ka baye nga baka ug 10 ka toro ug 20 ka baye ug 10 ka laking asno.
+14-15 Kini ang iyang gigasa: 200 ka baye ug 20 ka laking kanding, 200 ka baye ug 20 ka laking karnero, 30 ka gatasan nga kamelyo lakip ang mga anak nila, 40 ka baye nga baka ug 10 ka toro ug 20 ka baye ug 10 ka laking asno. 
 16 Matag panon gipadumala niya sa usa ka sulugoon ug giingnan niya, “Una kamo kanako ug kinahanglan nga dili magkadug-ol ang matag panon.”
 17 Gimandoan niya ang unang sulugoon “Kon mangutana kaninyo ang akong igsoon nga si Esau kon kinsa ang inyong agalon asa kamo paingon ug kinsay tag-iya niining kahayopan,
 18 ingna siya, ‘Kini iya ni Jacob nga imong sulugoon Iya kining igasa kanimo ug nagsunod siya kanamo.’”
@@ -1571,8 +1569,7 @@ Genesis 50
 19 Apan miingon si Jose kanila, “Ayaw kamo kahadlok kay dili ako Dios.
 20 Ang daotan ninyong laraw batok kanako gihimo sa Dios nga kaayohan aron maluwas ang kinabuhi sa daghang tawo sama sa nahitabo karon.
 21 Busa ayaw kamo kahadlok Atimanon ko kamo ug ang inyong kabataan” Niining paagiha gipasaligan niya sila sa mga pulong nga nakahupay sa ilang kasingkasing. Ang Pagkamatay ni Jose
-22 Nagpuyo si Jose didto sa Ehipto uban sa banay sa iyang amahan. Miabot ug
-110 ang iyang edad.
+22 Nagpuyo si Jose didto sa Ehipto uban sa banay sa iyang amahan. Miabot ug 110 ang iyang edad. 
 23 Nakakita pa siya sa mga anak ug sa mga apo ni Efraim Sa dihang natawo ang mga anak ni Makir anak ni Manases gidawat sila ni Jose ingon nga sakop sa iyang banay.
 24 Miingon si Jose sa iyang mga igsoon “Hapit na ako mamatay apan dili kamo pasagdan sa Dios ug dad -on kamo niya ngadto sa yuta nga gisaad niya kang Abraham, kang Isaac ug kang Jacob.”
 25 Unya gipapanumpa ni Jose ang mga anak ni Jacob nga kon kaluy -an sila sa Dios, dad-on nila ang iyang mga bukog inigbiya nila sa Ehipto.
@@ -2376,8 +2373,7 @@ Exodo 28
 13 Paghimo usab ug duha ka engaste nga bulawan
 14 ug duha ka kadena nga lunsayng bulawan nga gilubid sama sa pisi ug ipakabit kini sa engaste nga bulawan. Ang Tabon sa Dughan
 15 “Paghimog tabon sa dughan nga gamiton alang sa pagtino sa kabubut-on sa Dios. Ayoha kini pagborda sama sa kapa Himoa kini gikan sa panapton nga dalag, asul, tapol ug pula nga delana ug pino nga lino.
-16 Himoa kining kwadrado ug pil-ag doble, 22 ka sentimetros ang gitas -on ug
-22 ka sentimetros usab ang gilapdon.
+16 Himoa kining kwadrado ug pil-ag doble, 22 ka sentimetros ang gitas -on ug 22 ka sentimetros usab ang gilapdon. 
 17 Ipatapot niini ang upat ka laray sa mga mahalong bato Sa unang laray: sardio, topasyo ug karbungko.
 18 Sa ikaduhang laray: esmeralda, safiro ug dyamante.
 19 Sa ikatulong laray: hacinto, agata ug amatista.
@@ -2705,8 +2701,7 @@ Exodo 37
 22 Ang mga biyoos ug ang mga sanga unay sa butanganag suga Hinimo kini gikan sa usa lamang ka sinalsal nga lunsayng bulawan.
 23 Naghimo siyag pito ka suga nga ibutang sa butanganan ug mga kimpit ug mga sangga nga lunsayng bulawan.
 24 Mga 34 ka kilo nga lunsa yng bulawan ang nagamit aron paghimo sa butanganag suga ug sa tanang kahimanan niini. Ang Paghimo sa Sunoganan sa Insenso
-25 Naghimo siyag halaran nga acasia aron sunogan sa insenso Kwadrado kini:
-44 ka sentimetros ang gitas-on ingon man ang gilapdon ug 88 ka sentimetros ang gihabugon Ang mga sungaysungay niini sa upat ka eskina unay sa kinatibuk-an niini.
+25 Naghimo siyag halaran nga acasia aron sunogan sa insenso Kwadrado kini: 44 ka sentimetros ang gitas-on ingon man ang gilapdon ug 88 ka sentimetros ang gihabugon Ang mga sungaysungay niini sa upat ka eskina unay sa kinatibuk-an niini. 
 26 Gihapinan niyag lunsayng bulawan ang ibabaw niini ang upat ka kilid ingon man ang sungaysungay niini ug giribitihan niyag bulawan ang m ga ngilit.
 27 Unya naghimo siyag duha ka argulyang bulawan nga balhoganan sa mga yayongan ubos sa ngilit sa duha ka kilid.
 28 Naghimo usab siyag yayongan nga kahoyng acasia ug gihapinan niya kinig bulawan. Ang Paghimo sa Lana nga Igdidihog ug sa Insenso
@@ -2755,9 +2750,7 @@ Exodo 39
 9 Gihimo nila kini nga kwadrado ug gipilo ug may gitas-on ug gilapdon nga 22 ka sentimetros.
 10 Gibutangan nila kinig upat ka laray nga mga mahalong bato: ang unang laray, sardio, topasyo ug karbungko;
 11 ang ikaduhang laray, esmeralda, safiro ug dyamante;
-12 ang ikatulong laray, hacinto, agata ug amatista;
-13 ug ang ikaupat nga laray berilo, kornalina ug haspe. Gipatapot nila kini sa bulawan nga engaste.
-14 Ang matag usa sa 12 ka mahalong bato gikulitan sa ngalan sa matag usa sa
+12 ang ikatulong laray, hacinto, agata ug amatista; 13 ug ang ikaupat nga laray berilo, kornalina ug haspe. Gipatapot nila kini sa bulawan nga engaste. 14 Ang matag usa sa 12 ka mahalong bato gikulitan sa ngalan sa matag usa sa  
 12 ka banay ni Israel.
 15 Naghimo usab silag mga kadena nga lunsayng bulawan nga gilubid sama sa pisi alang sa tabon sa dughan.
 16 Naghimo usab silag duha ka engaste ug argulyang bulawan ug gipakabit nila ang duha ka argulya sa itaas nga bahin sa tabon sa dughan.
@@ -3783,8 +3776,7 @@ Numeros 3
 Numeros 4
 1 Ang Ginoo miingon kang Moises ug kang Aaron,
 2 “Ipha ang mga anak ni Kohat nga kaliwat ni Levi sumala sa ilang tagsatagsa ka panimalay.
-3 Ang ilakip pag-ihap mao kadtong nagpanuigon gikan as 30 ka tuig ngadto as
-50 ka tuig nga makahimo sa pag-alagad didto sa Tolda nga Tagboanan.
+3 Ang ilakip pag-ihap mao kadtong nagpanuigon gikan as 30 ka tuig ngadto as 50 ka tuig nga makahimo sa pag-alagad didto sa Tolda nga Tagboanan.
 4 Ang buluhaton sa mga anak ni Kohat mao ang pag -atiman sa labing balaang mga butang.
 5 “Kon molakaw na ang mga Israelita mosulod si Aaron ug ang iyang mga anak sa Tol da nga Tagboanan ug tangtangon nila ang tabil niini ug itabon kini sa Sudlanan sa Kasabotan.
 6 Unya tabonan nila kinig tabon nga hinimo gikan sa panit sa kanding. Human niini, tabonan pa gayod nila kini ug panapton nga asul ug unya itaod ang mga yayongan.
@@ -4004,8 +3996,7 @@ Numeros 11
 22 May igo bang mga karnero ug mga baka alang kanila? Kon madakop ang tanang isda sa dagat paigo na ba kini kanila?”
 23 Ug ang Ginoo miingon kang Moises “Dili ba diay kini mahimo nako? Makita mo karon kon matuman ba o dili ang akong giingon.”
 24 Busa migawas si Moises ug gisuginlan niya ang katawhan sa gisulti sa Ginoo ug nagtigom siyag 70 ka pangulo sa katawhan ug gipahimutang niya sila libot sa Tolda.
-25 Unya mikunsad ang Ginoo diha sa panganod ug misulti kaniya ug gikuha sa Ginoo ang ubang bahin sa espiritu nga diha kang Moises ug gihatag kini sa
-70 ka pangulo sa Israel Sa diha na kanila ang espiritu, nagsulti sila sama sa propeta apan sa hamubo lamang nga panahon.
+25 Unya mikunsad ang Ginoo diha sa panganod ug misulti kaniya ug gikuha sa Ginoo ang ubang bahin sa espiritu nga diha kang Moises ug gihatag kini sa 70 ka pangulo sa Israel Sa diha na kanila ang espiritu, nagsulti sila sama sa propeta apan sa hamubo lamang nga panahon. 
 26 Duha sa 70 ka pangulo nagpabilin didto sa kampo: ang usa si Eldad ug ang usa si Medad ug mikunsad usab kanila ang espiritu Apil sila niadtong gipanglista apan wala sil a makaadto sa Tolda busa nagsulti sila sama sa propeta didto sa kampo.
 27 Unya usa ka batan -on midagan ngadto kang Moises ug miingon “Si Eldad ug si Medad nagsulti sama sa propeta didto sa kampo.”
 28 Ug si Josue nga anak ni Nun alagad ni Moises ug usa sa iyang mga sinaligan miingon, “Sir, santaa sila.”
@@ -4224,8 +4215,7 @@ Numeros 18
 13 Maimo ang unang bunga sa tanan nga anaa sa ilang yuta nga ilang dad -on ngadto sa Ginoo Ang tanan nga hinlo nga sakop sa imong panimalay makakaon niini.
 14 “Ang tanang hinalad nga butang sa Israel maimo usab.
 15 “Maimo ang tanang panganay sa tawo ug kahayopan nga ilang ihalad sa Ginoo. Apan kinahanglan nga imong lukaton ang panganay sa tawo ingon man ang panganay sa mananap nga hugaw.
-16 Ang bata lukaton samtang nagpanuigon pa ug usa ka bulan sa kantidad nga
-57 ka gramos nga plata sumala sa opisyal nga sukdanan nga gigamit sa Dapit nga Balaan.
+16 Ang bata lukaton samtang nagpanuigon pa ug usa ka bulan sa kantidad nga 57 ka gramos nga plata sumala sa opisyal nga sukdanan nga gigamit sa Dapit nga Balaan. 
 17 Apan ayaw paglukata ang panganay sa baka sa karnero sa kanding kay balaan kini. Iwisik sa halaran ang dugo niini ug sunoga ang mga tambok aron mohatag kinig kahumot alang sa Ginoo.
 18 Apan imo ang unod niini sama sa dughan nga gibayaw ug imo usab ang tuo nga paa.
 19 Ihatag ko kanimo ug sa imong mga anak ingon nga walay kataposan nga gasa ang tanang balaang halad nga ihalad sa mga Israelita ngadto sa Ginoo. Usa kini ka kasabotan nga dili mausab hangtod sa hangtod alang kaninyo ug sa inyong kaliwat.”
@@ -4663,8 +4653,7 @@ Numeros 31
 49 ug miingon, “Giihap namo ang among mga sundalo ug walay bisag usa nga nakulang kanamo.
 50 Ug ania gidala namo ingon nga halad sa Ginoo ang tanan nga among nakaplagan nga mga butang nga hinimog bulawan: mga pulseras mga singsing, mga ariyos ug mga kuwintas aron ihalad alang sa among mga sala.”
 51 Ug gidawat kini ni Moises ug ni Eleazar.
-52 Ang gibug -aton niining mga butang nga bulawan nga gihalad sa mga komandante ug mga pangulo sa kasundalohan ngadto sa Ginoo mikabat ug
-190 ka kilo.
+52 Ang gibug -aton niining mga butang nga bulawan nga gihalad sa mga komandante ug mga pangulo sa kasundalohan ngadto sa Ginoo mikabat ug 190 ka kilo. 
 53 Gitipigan sa tagsatagsa ka sundalo nga dili pangulo ang mga butang nga ilang nakuha.
 54 Ug gidala ni Moises ug ni Eleazar ang mga bulawan ngadto sa Tolda aron panalipdan sa Ginoo ang katawhan sa Israel.
 Numeros 32
@@ -5806,8 +5795,7 @@ Deuteronomio 34
 4 Miingon kaniya ang Ginoo, “Mao kini ang yuta nga gisaad ko kang Abraham, kang Isaac ug kang Jacob nga akong ihatag sa ilang mga kaliwat Gipakita ko kini kanimo apan dili ka makaadto didto.”
 5 Busa namatay didto sa Moab si Moises nga alagad sa Ginoo, sumala gayod sa giingon sa Ginoo ug
 6 gilubong niya si Moises didto sa usa ka walog sa Moab atbang sa lungsod sa Betpeor. Apan hangtod karon walay nasayod sa tukmang dapit diin siya ilubong.
-7 Sa pagkamatay ni Moises
-120 na ang iyang edad. Abtik ug lig-on pa siya ug maayo pag mata.
+7 Sa pagkamatay ni Moises 120 na ang iyang edad. Abtik ug lig-on pa siya ug maayo pag mata. 
 8 Nagbangotan ang mga Israelita alang kaniya didto sa kapatagan sa Moab sulod sa usa ka bulan.
 9 Si Josue, ang anak ni Nun, napuno sa espiritu sa kaalam kay gitapion man ni Moises ang iyang kamot ngadto kang Josue Busa mituman ang mga Israelita kang Jos ue ug gibuhat nila ang mga mando nga gihatag sa Ginookanila pinaagi kang Moises.
 10 Sukad masukad walay propeta sa Israel nga sama kang Moises nga suod kaayo sa Ginoo.
@@ -6914,8 +6902,7 @@ Mga Maghuhukom 14
 9 Mikuha siyag dugos ug gikaon niya kini samtang naglakaw siya. Miadto siya sa iyang amahan ug inahan ug gihatagan niya sila niini Nangaon sila apan wala sultihi ni Samson nga kinuha niya ang dugos gikan sa patayng lawas sa liyon.
 10 Miadto ang iya ng amahan sa balay sa babaye ug nagkombira didto si Samson. Mao kini ang batasan sa mga batan-ong lalaki.
 11 Sa pagkakita sa mga Filistihanon kaniya nagdala silage 30 ka mga batan - ong lalaki aron sa pagpakig-uban kaniya.
-12-13 Si Samson miingon kanila, “Tigmoan ko kamo. Makigpusta ako kaninyog
-30 ka pirasong lino ug 30 ka maayong bisti nga dili kamo makatagna niini sa dili pa matapos ang pito ka adlawng kombira” Unya miingon sila “Sultihi kami sa imong tigmo.”
+12-13 Si Samson miingon kanila, “Tigmoan ko kamo. Makigpusta ako kaninyog 30 ka pirasong lino ug 30 ka maayong bisti nga dili kamo makatagna niini sa dili pa matapos ang pito ka adlawng kombira” Unya miingon sila “Sultihi kami sa imong tigmo.” 
 14 Miingon si Samson "Gikan sa manunukob migula ang makaon; gikan sa kusgan migula ang matam-is.” Milabay ang tulo ka adlaw ug wala pa gihapon sila makatagna sa kahulogan sa tigmo.
 15 Sa ikaupat nga adlaw giingnan nila ang asawa ni Samson “Lansisi ang imong bana sa pagtug -an kanamo sa kahulogan sa tigm o. Kay kon dili sunogon namo ang balay sa imong amahan ug iapil ka namo pagsunog.Gidapit ba ninyo kami aron panapion?”
 16 Busa ang asawa ni Samson miadto kaniya nga naghilak ug miingon “Wala mo diay ako higugmaa! Nasilag ka kanako! Gitigmoan mo ang akong mga katagilungsod ug wala mo ako tug -ani sa kahulogan niini” Si Samson miingon kaniya, “Wala gani nako tug-ani ang akong amahan ug inahan, ikaw na ba hinuon?”
@@ -7316,8 +7303,7 @@ Ruth 4
 12 Nakaipsot gikan sa panggubatan ang usa ka tawo sa banay ni Benjamin ug sa maong adlaw sa iyang paglayas miabot siya sa Silo Gigisi niya ang iyang bisti ug gibutangag yuta ang iyang ulo aron sa pagpakita sa iyang kaguol.
 13 Sa pag-abot niya, si Eli naglingkod daplin sa dalan ug naglantaw sa unahan kay nabalaka man siya pag -ayo sa Sudlanan sa Kasabotan Ug sa dihang miabot ang tawo didto sa siyudad ug gikabalita niya ang nahitabo nagminatay ang tanan sa kahadlok.
 14 Sa pagkabati ni Eli sa kagahob siya miingon “Unsay hinungdan niini?” Unya ang tawo midali pag-adto kang Eli aron pagsugilon kaniya.
-15 Si Eli nagpanuigon nag
-98 ug halap na siya.
+15 Si Eli nagpanuigon nag 98 ug halap na siya. 
 16 Ug si Eli gisultihan sa tawo “Miikyas ako gikan sa panggubatan karong adlawa.” Ug si Eli nangutana, “Unsa may nahitabo, anak?”
 17 Mitubag ang tawo “Nabuntog ang mga Israelita sa mga Filistihanon ug nanglayas sila ug daghan ang nangamatay Ang imong duha ka anak si Hopni ug si Pineha s namata y usab ug nailog sa kaaway ang Sudlanan sa Kasabotan.”
 18 Sa paghisgot niya sa Sudlanan sa Kasabotan si Eli natikay -ang ug nabali ang iyang liog ug namatay kay tigulang na man siya ug bug -at ang iyang lawas. Nangulo siya sa Israel sulod sa 40 ka tuig. Namatay ang Asawa ni Pinehas
@@ -7895,8 +7881,7 @@ Ruth 4
 10 Unya gitubag ni Nabal ang mga sinugo ni David “Kinsa man kini si David? Kinsa man kining anak ni Jesse? Kar ong panahona daghang mga sulugoon ang milayas gikan sa ilang mga agalon.
 11 Nganong ihatag ko man ang akong pan ug ang akong tubig ug ang akong karne nga gitagana ko sa akong mga manunupi sa mga karnero ug ipakaon kini sa mga tawo nga wala ko gani hisayri kon taga diin?”
 12 Busa namauli ang mga sinugo ni David ug gisuginlan nila si David niining tanan.
-13 Ug miingon si David sa iyang mga sakop “Andama ang inyong mga espada.” Busa ang tagsatagsa kanila nagkuha sa iyang espada ingon man si David. Mga ka tawo ang mikuyog kang David samtang nagpabilin ang
-200 ka tawo aron pagbantay sa ilang kasangkapan.
+13 Ug miingon si David sa iyang mga sakop “Andama ang inyong mga espada.” Busa ang tagsatagsa kanila nagkuha sa iyang espada ingon man si David. Mga ka tawo ang mikuyog kang David samtang nagpabilin ang 200 ka tawo aron pagbantay sa ilang kasangkapan. 
 14 Apan usa sa mga batan -on ang mibalita kang Abigail ang asawa ni Nabal “Si David nagsugog mga tawo gikan sa kamingawan aron pagpangomusta sa among agalon apan iya hinuon silang giinsulto.
 15 Maayo kaayo kanam o ang mga tawo ug wala kami pasipad -i ug walay nakulang kanamo samtang didto kami sa kaumahan sa panahon nga amo silang gikauban.
 16 Gipanalipdan kami nila sa adlaw ug sa gabii samtang nagbantay kami sa mga karnero.
@@ -8089,8 +8074,7 @@ Ruth 4
 7 Busa karon salig ug pagmaisog kamo kay patay na man si Saul ug gidihogan ako nga hari sa banay ni Juda.” Gihimong Hari sa Israel si Isboset
 8 Niining higayona, ang heneral sa kasundalohan ni Saul nga si Abner, anak ni Ner kauban ni Isboset nga anak ni Saul mikagiw latas sa Jordan ngadto sa Mahanaim.
 9 Gihimo niyang har i si Isb oset ibabaw sa Gilead sa Asur sa Jezreel sa Efraim, sa Benjamin ug sa tibuok Israel.
-10 Si Isboset nag-edad ug
-40 sa pagsugod niyag hari sa Israel ug naghari siyag duha ka tuig Apan si David maoy hari sa Juda.
+10 Si Isboset nag-edad ug 40 sa pagsugod niyag hari sa Israel ug naghari siyag duha ka tuig Apan si David maoy hari sa Juda. 
 11 Naghari si David didto sa Hebron ibabaw sa banay ni Juda sulod sa pito ka tuig ug tunga. Nagkasangka ang Israel ug ang Juda
 12 Unya gikan sa Mahanaim miadto si Abner ug ang mga sakop ni Isboset sa Gibeon.
 13 Gisugat sila ni Joab nga anak ni Seruia ug sa mga sakop ni David didto sa Linaw sa Gibeon ug nag-atbangay sila nga naglingkod daplin sa linaw.
@@ -8111,8 +8095,7 @@ Ruth 4
 28 Busa gipatingog ni Joab ang trumpeta ug mihunong ang tanang mga tawo ug wala na gukda ang Israel ug naundang na ang away.
 29 Tibuok g abii nga nagbaktas si Abner u g ang iyang mga tawo tadlas sa Walog sa Jordan Gilatas nila ang Suba sa Jordan ug tapos sa tibuok buntag nilang paglakaw, miabot sila sa Mahanaim.
 30 Mihunong si Joab sa iyang paglutos kang Abner ug miuli siya. Ug sa dihang natigom niya ang iyang mga tawo nakita nila nga 19 ka tawo sa mga sakop ni David ang namatay wala pay labot kang Asahel.
-31 Apan nakapatay ang mga tawo ni David ug sa mga tawo ni Abner.
-32 Unya gikuha nila si Asahel ug gilubong nila siya sa lubnganan sa iy ang amahan didto sa Betlehem. Tibuok gabii nga nagbaktas si Joab ug ang iyang mga sakop ug buntag na sa ilang pag-abot sa Hebron.
+31 Apan nakapatay ang mga tawo ni David ug sa mga tawo ni Abner. 32 Unya gikuha nila si Asahel ug gilubong nila siya sa lubnganan sa iy ang amahan didto sa Betlehem. Tibuok gabii nga nagbaktas si Joab ug ang iyang mga sakop ug buntag na sa ilang pag-abot sa Hebron. 
 2 Samuel 3
 1 Dugay ang gubat tali sa banay ni Saul ug sa banay ni David Nag-anam ug kalig-on si David samtang nag-anam ug kahuyang ang banay ni Saul. Ang mga Anak nga Lalaki ni David
 2 Natawo kang David ang mga anak nga lalaki didto sa Hebron: Si Amnon ang unang anak niya kang Ahinoam nga taga-Jezreel;
@@ -8127,8 +8110,7 @@ Ruth 4
 11 Ug wala makatubag si Isboset kang Abner kay nahadlok man siya kang Abner.
 12 Unya nagsugo si Abner ug mga tawo nga dto kang David kinsa niadton g panahona didto sa Hebron aron pagsulti kaniya “Kinsa man ang naghari sa yuta? Pakigsabot kanako ug tabangan ko ikaw aron maimo ang tibuok Israel.”
 13 Ug miingon si David “Maayo! Makigsabot ako kanimo apan aduna akoy pangayoon kanimo Ayaw pagpakigkita k anako gawas kon madala mo si Mical nga anak ni Saul.”
-14 Unya nagsugo si David ug mga tawo ngadto kang Isboset aron sultihan “Iuli kanako ang akong asawa nga si Mical nga a kong gibugayan ug yamis sa
-100 ka Filistihanon.”
+14 Unya nagsugo si David ug mga tawo ngadto kang Isboset aron sultihan “Iuli kanako ang akong asawa nga si Mical nga a kong gibugayan ug yamis s 100 ka Filistihanon.”
 15 Gikuha ni Isboset si Mical gikan sa iyang bana nga si Paltiel, anak ni Lais.
 16 Apan gikuyogan siya sa iyang bana nga naghilak hangtod miabot sila sa Bahurim. Unya miingon si Abner kang Paltiel, “Lakaw, pauli.”
 17 Sa pagpakigsabot ni Abner sa mga pangulo sa Israel giingnan niya sila “Dugay na kamong nagtinguha nga si David maghari kaninyo.
@@ -8164,14 +8146,12 @@ Ruth 4
 8 Gidala nila ngadto kang David ang ulo ni Isboset didto sa Hebron ug giingnan nila ang hari “Ania ang ulo ni I sboset nga anak ni Saul nga imong kaaway nga buot mopatay kanimo Ang Ginoo maoy nanimalos kang Saul ug sa iyang mga anak.”
 9 Apan gitubag ni David si Recab ug si Baana “Manumpa ako sa ngalan sa Ginoo nga maoy nagluwas kanako gikan sa tanang kalisdanan:
 10 angnagsugilon kanako nga patay na si Saul ug nagtuo nga maayo ang iyang gibalita kanako akong gipatay didto sa Ziklag isip ganti sa iyang gibalita kanako.
-11 Labaw pa niini ang akong buhaton sa mga tawong daotan nga sama kaninyo. Gipatay ninyo ang usa ka tawong matarong didto gayod sa iyang kaugalingong balay ug sa iyang higdaanan Karon patyon ko kamo tungod sa inyong gibuhat kaniya ug paphaon ko kamo gikan niining kalibotana.”
-12 Ug gisugo ni David ang mga sakop niyang batan-on sa pagpatay kang Recab ug kang Baana ug pa gputol sa ilang mga kamot ug tiil ug pagbitay kanila didto sa Linaw sa Hebron Unya gikuha usab nila ang ulo ni Isboset ug gisulod kini sa dapit nga gilubngan kang Abner didto sa Hebron.
+11 Labaw pa niini ang akong buhaton sa mga tawong daotan nga sama kaninyo. Gipatay ninyo ang usa ka tawong matarong didto gayod sa iyang kaugalingong balay ug sa iyang higdaanan Karon patyon ko kamo tungod sa inyong gibuhat kaniya ug paphaon ko kamo gikan niining kalibotana.” 12 Ug gisugo ni David ang mga sakop niyang batan-on sa pagpatay kang Recab ug kang Baana ug pa gputol sa ilang mga kamot ug tiil ug pagbitay kanila didto sa Linaw sa Hebron Unya gikuha usab nila ang ulo ni Isboset ug gisulod kini sa dapit nga gilubngan kang Abner didto sa Hebron. 
 2 Samuel 5
 1 Unya miadto kang David didto sa Hebron ang tanang banay sa Israel ug giingnan nila siya, “Kami imong mga kadugo.
 2 Sa nangaging mga panahon nga si Saul maoy among hari ikaw ang nangulo kanamo ug giingnan ka sa Ginoo, ‘Ikaw ang pangulo sa akong katawhan, ang mga Israelita, ug ikaw ang maghari kanila.’”
 3 Busa ang mga pangulo sa Israel miadto kang David didto sa Hebron ug nakigsabot siya kanila atubangan sa Ginoo ug gidihogan nila si David ingon nga hari sa Israel.
-4 Si David nagpanuigon ug 30 sa pagsugod niyag hari ug naghari siya sulod sa
-40 ka tuig.
+4 Si David nagpanuigon ug 30 sa pagsugod niyag hari ug naghari siya sulod sa 40 ka tuig. 
 5 Didto siya magpuyo sa Hebron samtang naghari siya sa Juda sulod sa pito ka tuig ug unom ka bulan Ug didto siya mipuyo sa Jerusalem sa iyang paghari sa Israel ug sa Juda sulod sa 33 ka tuig.
 6 Unya miadto si David ug ang iyang mga tawo ngadto sa Jerusalem aron pagbuntog sa mga Jebusihanon nga nagpuyo didto Kaniadto giingnan nila si David, “Dili ka makasulod dinhi kay abugon ka sa mga buta ug sa mga bakol.” Naghunahuna sila nga dili gayod si David makaadto.
 7 Apan nakuha ni David ang kota sa Sion nga karon ginganlan nag Siyudad ni David.
@@ -8264,8 +8244,7 @@ Ruth 4
 14 Ug gitukoran ni David ug mga kampo ang tibuok Edomea ug nahimong ulipon ni David ang tanang Edomihanon Gipadaog sa Ginoo si David bisag asa siya makig-away.
 15 Busa naghari si David sa tibuok Israel ug gihatagan niyag hustisya ug kaangayan ang tanan niyang mga tawo.
 16 Si Joab nga anak ni Seruia maoy pangulo sa iyang kasundalohan ug si Josafat nga anak ni Ahilud maoy tiglista.
-17 Si Sadok nga anak ni Ahitub ug si Ahimelec nga anak ni Abiatar maoy mga pari ug si Saraias maoy sekretaryo.
-18 Si Benaias nga anak ni Joyada maoy nagdumala sa mga sundalo nga tigpanalipod ni David ug ang mga anak ni David maoy mga pari.
+17 Si Sadok nga anak ni Ahitub ug si Ahimelec nga anak ni Abiatar maoy mga pari ug si Saraias maoy sekretaryo. 18 Si Benaias nga anak ni Joyada maoy nagdumala sa mga sundalo nga tigpanalipod ni David ug ang mga anak ni David maoy mga pari. 
 2 Samuel 9
 1 Miingon si David “May nahibilin pa bang anak ni Saul aron pakitaan ko siyag kaluoy tungod kang Jonatan?”
 2 May usa ka sulugoon sa banay ni Saul nga ginganlag Ziba. Gipatawag siya ni David ug giingnan, “Ikaw ba si Ziba?” Mitubag siya, “Oo, Kamahalan.”
@@ -8590,12 +8569,10 @@ Ruth 4
 29 Giingnan siya sa hari “Nganong maghisgot ka pa man mahitungod sa imong kaugalingon? Nakahukom na ako nga ikaw ug si Ziba maoy magbahin sa yuta.”
 30 Apan miingon si Mepiboset sa hari “Ihatag lang kang Siba ang ta nan kay igo na kanako nga ang hari nahiuli sa iyang balay nga walay kabilinggan.” Gikaluy-an ni David si Barsilai
 31 Niining higayona nahalugsong si Barsilai, ang taga-Gilead, gikan sa Rogelim aron mohatod sa hari tabok sa Jordan.
-32 Tigulang na kaayo si Barsilai,
-80 na ang edad ug siyay nag -atiman sa pagkaon sa hari samtang didto si David sa Mahanaim kay dato man siya kaayo.
+32 Tigulang na kaayo si Barsilai, 80 na ang edad ug siyay nag -atiman sa pagkaon sa hari samtang didto si David sa Mahanaim kay dato man siya kaayo. 
 33 Ug giingnan si Barsilai sa hari, “Kuyog kanako ug atimanon ko ikaw didto sa Jerusalem.”
 34 Apan mitubag si Barsilai “Pila na lang kaha ka tuig nga mabuhi pa ako busa dili na kinahanglan nga mokuyog ako kanimo sa Jerusalem.
-35 Karon
-80 na ang akong edad ug dili na ako makaila sa n indot ug dili nindot. Dili na ako makaila sa lami sa pagkaon ug ilimnon ug bungol na ako Busa ayaw na lang akog tagda kay makasamok lang ako kanimo.
+35 Karon 80 na ang akong edad ug dili na ako makaila sa n indot ug dili nindot. Dili na ako makaila sa lami sa pagkaon ug ilimnon ug bungol na ako Busa ayaw na lang akog tagda kay makasamok lang ako kanimo. 
 36 Ubanan ko lang ikaw hangtod sa tabok sa Jordan Dili kinahanglan nga gantihan mo pa ako.
 37 Hangyoon ko ikaw nga tugotan mo ako sa pagpauli aron adto ako mamatay sa akong siyudad nga duol sa gilubngan sa akong mga ginikanan Apan ania ang akong anak nga si Simham. Paubanon ko siya aron mag-alagad kanimo.”
 38 Ug miingon ang hari “Paubana kanako si Simham ug bu haton ko kaniya ang gihunahuna mong maayo Ang tanan nga gihangyo mo kanako buhaton ko alang kanimo.”
@@ -8956,8 +8933,7 @@ Ruth 4
 18 Busa giandam sa mga panday ni Solomon ug ni Hiram ug sa mga taga - Gebal ang mga kahoy ug mga bato alang sa Templo.
 1 Mga Hari 6
 1 Sulod sa ka tuig human mobiya sa Ehipto ang mga Israelita sa ikaupat nga tuig sa paghari ni Solomon sa Israel, sa bulan sa Sib nga maoy ikaduhang bulan, gisugdan ni Solomon ang pagtukod sa Templo.
-2 Ang Templo nga gitukod ni Hari Solomon alang sa Ginoo may gitas-on nga
-27 ka metros, may gilapdon nga siyam ka metros ug may gihabugon nga ka metros.
+2 Ang Templo nga gitukod ni Hari Solomon alang sa Ginoo may gitas-on nga 27 ka metros, may gilapdon nga siyam ka metros ug may gihabugon nga ka metros. 
 3 Ug ang agianan sa atubangan sa Templo may gitas -on ka metros sama sa gilapdon sa Templo ug siyam ka metros nga gilapdon.
 4 Ug gihimoan ni Solomon ug mga bintana nga may mg a rehas -rehas ang Templo.
 5 Naghimo siyag panalganan nga gipatapot sa bungbong sa tibuok Templo Naghimo usab siyag mga lawak libot sa Templo.
@@ -9025,12 +9001,10 @@ Ruth 4
 28 Ang mga tungtonganan may haklap nga kwadrado.
 29 Ug diha sa mga haklap may mga hulagway sa mga liyon, mga baka ug mga kerubin. Sa ubos ug sa ibabaw sa hulagway sa mga liyon ug sa mga baka may mga koronang gidayandayan.
 30 Ang matag tungtonganan may upat ka ligid ug mga ihe nga bronsi. Sa upat ka eskina niini may mga sangga nga tinunaw nga bronsi nga dinayandayanag mga korona sa isigkakilid.
-31 Ang baba sa tungtonganan sa planggana gipasibo sa korona nga mituybo ug
-45 ka sentimetros. Lingin ang baba niini nga may mga 18 ka sentimetros ang giladmon ug may mga kinulit sa palibot niini ug k wadrado ang iyang mga haklap.
+31 Ang baba sa tungtonganan sa planggana gipasibo sa korona nga mituybo ug 45 ka sentimetros. Lingin ang baba niini nga may mga 18 ka sentimetros ang giladmon ug may mga kinulit sa palibot niini ug k wadrado ang iyang mga haklap. 
 32 Ang upat ka ligid nahimutang ilalom sa mga haklap ug ang mga ihe sa mga ligid unay sa mga tungtonganan Ang gihabugon sa ligid mga 66 ka sentimetros.
 33 Sama sa ligid sa karwahi ang mga ligid niini. Ang mga ihe ug paldiyas niini mga rayos sa ligid ug ang mga pugong sa rayos pulos tinunaw nga bronsi.
-34 May upat ka tukon diha sa upat ka eskina sa matag tungtonganan. Ang mga tukon unay sa mga tungtonganan.
-35 Sa tumoy sa tungtonganan may lingin nga pugong nga may kahabugon nga
+34 May upat ka tukon diha sa upat ka eskina sa matag tungtonganan. Ang mga tukon unay sa mga tungtonganan. 35 Sa tumoy sa tungtonganan may lingin nga pugong nga may kahabugon nga 
 22 ka sentimetros ug sa tumoy usab sa tungtonganan anaa ang mga pugong ug mga dayandayan nga unay niini.
 36 Sa ibabaw sa mga pugong ug mga dayandayan gikulit niya ang mga kerubin, mga liyon ug mga palmera sumala sa luna sa tagsatagsa uban sa mga garnalda sa palibot.
 37 Ingon niini ang paghimo sa napulo ka tungtonganan Ang tanan niini gihulma sa usa ka hulmahan, usa ka sukod ug samang porma.
@@ -9344,9 +9318,7 @@ Ruth 4
 28 Nahitabo kini sa ikatulo nga tuig sa paghari ni Asa sa Juda ug s i Baasa maoy mipuli kang Nadab sa paghari sa Israel.
 29 Sa pagkahari na niya, gipatay niya ang tanang sakop sa banay ni Jeroboam sumala sa pulong sa Ginoo nga gisulti niya pinaagi sa iyang alagad nga si Ahias nga taga-Silo.
 30 Tungod sa mga sala ni Jeroboam nadala ang Israel sa pagpakasala ug nahagit ang kasuko sa Ginoo, ang Dios sa Israel.
-31 Ang tanang nabuhat ni Nadab nahisulat sa Kasaysayan sa mga Hari sa Israel.
-32 Kanunayng naggubat si Asa ug si Baasa nga hari sa Israel samtang naghari pa sila. Ang Paghari ni Baasa sa Israel
-33 Sa ikatulong tuig sa paghari ni Asa sa Juda si Baasa nga anak ni Ahias nagsugod sa paghari sa tibuok Israel didto sa Tirza ug naghari siya sulod sa
+31 Ang tanang nabuhat ni Nadab nahisulat sa Kasaysayan sa mga Hari sa Israel. 32 Kanunayng naggubat si Asa ug si Baasa nga hari sa Israel samtang naghari pa sila. Ang Paghari ni Baasa sa Israel 33 Sa ikatulong tuig sa paghari ni Asa sa Juda si Baasa nga anak ni Ahias nagsugod sa paghari sa tibuok Israel didto sa Tirza ug naghari siya sulod sa  
 24 ka tuig.
 34 Daotan ang iyang binuhatan sama sa iyang katigulangan nga si Jeroboam ug giangin niya ang Israel sa pagpakasala.
 1 Mga Hari 16
@@ -9478,8 +9450,7 @@ Ruth 4
 20 Gibiyaan niya ang mga baka ug migukod siya kang Elias ug miingon “Pahaloka una ako sa akong amahan ug sa akong inahan ug unya mosunod ako kanimo.” Ug si Elias miingon kang Eliseo “Lakaw kay wala ko ikaw did - i.”
 21 Ug mibalik siya ug gikuha niya ang mga baka ug giihaw ug giluto niya kini ug maoy iyang gisugnod ang mga yugo ug iyang gipakaon sa katawhan. Unya misunod siya kang Elias ingon nga katabang.
 1 Mga Hari 20
-1 Gitigom ni Benhadad, hari sa Siria, ang tibuok niyang kasundalohan uban sa
-32 ka hari dala ang mga kabayo ug mga karwahi ug gisulong ug gilibotan nila ang Samaria.
+1 Gitigom ni Benhadad, hari sa Siria, ang tibuok niyang kasundalohan uban sa 32 ka hari dala ang mga kabayo ug mga karwahi ug gisulong ug gilibotan nila ang Samaria. 
 2 Ug nagsugo siyag mga mensahero ngadto kang Ahab nga hari sa Israel ug giingnan niya siya, “Si Benhadad nag-ingon
 3 nga ang imong plata ug bulawan ako na ug ang labing maanyag mong mga asawa ug mga anak ako na usab.”
 4 Si Ahab mitubag, “Sumala sa giingon mo, agalon kong hari, imo ako ug ang tanan nga akoa.”
@@ -9621,8 +9592,7 @@ Ruth 4
 14 sama sa nahitabo sa duha ka kapitan ug sa ilang mga sakop.”
 15 Unya ang anghel sa Ginoo miingon kang Elias “Lugsong uban kaniya ug ayaw kahadlok kaniya.” Busa mikuyog si Elias sa kapitan
 16 ug giingnan niya ang hari, “Nag-ingon ang Ginoo, ‘Nagtuo ka ba nga walay Dios dinhi sa Israel mao nga nagpadala kag mga tawo aron sa pagpakisayod kang Baalsebub? Tungod niini dili ka na maayo sa imong sakit ug mamatay ka gayod.’”
-17 Busa namatay si Ahasias sumala sa giingon sa Ginoo pinaagi kang Elias. Ug tungod kay wala man siyay anak si Joram nga iyang igsoon maoy mipuli kaniya paghari. Nagsugod siya paghari sa Israel sa ikaduhang tuig sa paghari sa anak ni Josafat nga si Jehoram didto sa Juda.
-18 Ang tanang nabuhat ni Ahasias nahi sulat sa Kasaysayan sa mga Hari sa Israel.
+17 Busa namatay si Ahasias sumala sa giingon sa Ginoo pinaagi kang Elias. Ug tungod kay wala man siyay anak si Joram nga iyang igsoon maoy mipuli kaniya paghari. Nagsugod siya paghari sa Israel sa ikaduhang tuig sa paghari sa anak ni Josafat nga si Jehoram didto sa Juda. 18 Ang tanang nabuhat ni Ahasias nahi sulat sa Kasaysayan sa mga Hari sa Israel. 
 2 Mga Hari 2
 1 Sa dihang hapit na bayawon sa Ginoo si Elias ngadto sa langit pinaagi sa usa ka alimpulos, nagpanaw si Elias ug si Eliseo gikan sa Gilgal.
 2 Ug si Elias miingon kang Eliseo “Naghangyo ako kanimo sa paghulat dinhi kay paadtoon pa ako sa Ginoo ngadto sa Betel.” Apan si Eliseo miingon, “Kay buhi man ang Ginoo ug ikaw buhi usab gipanumpa ko nga dili gayod ako mobulag kanimo.” Busa nangadto sila sa Betel.
@@ -9650,8 +9620,7 @@ Ruth 4
 24 Milingi siya ug sa pagkakita niya kanila, gitunglo niya sila sa ngalan ni Yahweh. Ug duha ka bayeng oso ang mitungha gikan sa lasang ug mikuniskunis sa 42 kanila.
 25 Unya miadto siya sa Bukid sa Carmel ug unya mipauli siya sa Samaria.
 2 Mga Hari 3
-1 Sa ika-18 nga tuig sa paghari ni Josafat sa Juda si Joram nga anak ni Ahab nahimong hari sa Israel. Didto siya mipuyo sa Samaria ug naghari sa sulod sa
-12 ka tuig.
+1 Sa ika-18 nga tuig sa paghari ni Josafat sa Juda si Joram nga anak ni Ahab nahimong hari sa Israel. Didto siya mipuyo sa Samaria ug naghari sa sulod sa 12 ka tuig. 
 2 Gihimo niya a ng daotan sa atubangan sa Ginoo. Hinuon dili siya sama kadaotan sa iyang amahan ug inahan kay gikuha man niya ang sagrado kunohayng haligi ni Baal nga gihimo sa iyang amahan.
 3 Apan nagpadayon pa siya pagsunod sa daotang buhat ni Jeroboam nga anak ni Nebat ug gipangulohan niya ang Israel sa pagpakasala ug wala siya mobiya niini.
 4 Niadtong panahona si Mesa nga hari sa Moab namuhig daghang mga karnero. Matag tuig mohatag siya sa hari sa Israel ug ka nating karnero ug mga balhibo gikan sa ka laking karnero.
@@ -11100,10 +11069,7 @@ Ruth 4
 18 Si Izhar may usa ka anak nga si Salomit nga pangulo usab.
 19 Ang mga anak ni Hebron mao sila si Jerias ang kamagulangan, si Amarias, ang ikaduha, si Jahaziel ang ikatulo ug ang ikaupat mao si Jecmaam.
 20 Si Uziel may duha ka anak nga si Mica ang magulang, ug ang manghod mao si Jesia.
-21 Si Merari may duha ka anak nga si Mahli ug si Musi Si Mahli may duha usab ka anak nga si Eleazar ug si Kis.
-22 Si Eleazar namatay nga walay anak nga lalaki mga anak nga babaye lamang. Ang iyang mga anak nga babaye gipangasawa sa mga anak ni Kis.
-23 Si Musi may tulo ka anak: si Mahli, si Eder ug si Jeremot.
-24 Mao kini sila ang narehistro nga mga kaliwat ni Levi sumala sa ilang mga banay diin ang matag usa kanila mahisakop. Ang nagpanuigon lamang ug
+21 Si Merari may duha ka anak nga si Mahli ug si Musi Si Mahli may duha usab ka anak nga si Eleazar ug si Kis. 22 Si Eleazar namatay nga walay anak nga lalaki mga anak nga babaye lamang. Ang iyang mga anak nga babaye gipangasawa sa mga anak ni Kis. 23 Si Musi may tulo ka anak: si Mahli, si Eder ug si Jeremot. 24 Mao kini sila ang narehistro nga mga kaliwat ni Levi sumala sa ilang mga banay diin ang matag usa kanila mahisakop. Ang nagpanuigon lamang ug   
 20 ug pataas maoy gilista aron maoy paatimanon sa mga buluhaton didto sa Templo sa Ginoo.
 25 Miingon si David “Ang Ginoo, ang Dios sa Israel naghatag ug kalinaw sa iyang katawhan ug magpuyo siya sa Jerusalem hangtod sa hangtod.
 26 Busa dili na kinahanglan nga ang mga Levita maoy modala sa Tolda nga Tagboanan ug sa mga galamiton sulod niini.”
@@ -11120,8 +11086,7 @@ Ruth 4
 4 Tungod kay mas daghan man ang lalaking pangulo sa mga kaliwat ni Eleazar kay sa mga kaliwat ni Itamar, ang kaliwat ni Eleazar gibahin sa 16 ka grupo ug ang kaliwat ni Itamar sa walo ka grupo.
 5 Gibahin sila sa samang gidaghanon pinaagi sa ripa kay sila mga opisyal ma n sa Dapit nga Balaan ug sa Dios gikan sa banay ni Eleazar ug ni Itamar.
 6 Ang eskriba nga si Semaias anak ni Natanael nga usa ka Levita maoy naglista kanila diha sa atubangan sa hari sa mga pangulo sa pari nga si Sadok, sa anak ni Abiatar nga si Ahimel ec, sa mga pangulo sa mga banay sa mga pari ug sa mga Levita Nagripa ang mga pangulo sa banay ni Eleazar ug ni Itamar.
-7-18 Mao kini ang han -ay sa 24 ka pundok sa mga banay nga gitugyanan sa pagdumala sa ilang buluhaton: 1 ) si Jehoiarib; 2 ) si Jedaias; 3 ) si Harim; 4 ) si Seorim; 5 ) si Malquias; 6 ) si Mijamin; 7 ) si Hakkoz; 8 ) si Abias; 9 ) si Jesua; 10 ) si Sequenias; 11 ) si Eliasib; 12 ) si Jakim; 13 ) si Huppa; 14 ) si Isbaab; 15 ) si Bilga; 16 ) si Immer; 17 ) si Hezir; 18 ) si Hapises; 19 ) si Petahias; 20 ) si Jehezkel;
-21 ) si Jaquin; 22 ) si Gamul; 23 ) si Delaias; 24 ) si Maazias.
+7-18 Mao kini ang han -ay sa 24 ka pundok sa mga banay nga gitugyanan sa pagdumala sa ilang buluhaton: 1 ) si Jehoiarib; 2 ) si Jedaias; 3 ) si Harim; 4 ) si Seorim; 5 ) si Malquias; 6 ) si Mijamin; 7 ) si Hakkoz; 8 ) si Abias; 9 ) si Jesua; 10 ) si Sequenias; 11 ) si Eliasib; 12 ) si Jakim; 13 ) si Huppa; 14 ) si Isbaab; 15 ) si Bilga; 16 ) si Immer; 17 ) si Hezir; 18 ) si Hapises; 19 ) si Petahias; 20 ) si Jehezkel; 21 ) si Jaquin; 22 ) si Gamul; 23 ) si Delaias; 24 ) si Maazias. 
 19 Kini sila magbanosbanos pag -adto sa Templo sa Ginoo aron pagtuman sa ilang mga buluhaton sibo sa paagi nga gitudlo kanila ni Aaron nga ilang kagikan sumala sa gimando kaniya sa Ginoo nga Dios sa Israel. Ang mga Levita
 20 Kini mao ang ubang mga pangulo sa mga banay nga mga kaliwat ni Levi: si Jehdeias, kaliwat ni Sebuel nga kaliwat ni Amram;
 21 si Issias kaliwat ni Rehabias;
@@ -11195,8 +11160,7 @@ Ruth 4
 14 Ikanapulog-usa nga bulan: si Benaias nga taga -Faraton sa kayutaan sa tribo ni Efraim
 15 Ikanapulog-duha nga bulan: si Holdai nga taga -Netofa Ang Pagdumala sa mga Tribo sa Israel
 16 Mao kini ang talaan sa mga tigdumala sa mga tribo sa Israel:
-17-22 Tribo Tigdumala Ruben Eliezer nga anak ni Zicri Simeon Safatias nga anak ni Maaca Levi Jasabias nga anak ni Camuel Aaron Sadok Juda Elihu nga usa sa mga kaigsoonan ni Hari David Isacar Amri nga anak ni Michael Zabulon Ismaias nga anak ni Obadias Neftali Jeremot nga anak ni Asriel Efraim Hosea nga anak ni Ozazias Kasadpan sa Manases Joel nga anak ni Pedaias Silangan sa Manases Iddo nga anak ni Zacarias Benjamin Jasiel nga anak ni Abner Dan Azarel nga anak ni Jeroham
-23 Wala iapil ni David pag-ihap ang wala pay
+17-22 Tribo Tigdumala Ruben Eliezer nga anak ni Zicri Simeon Safatias nga anak ni Maaca Levi Jasabias nga anak ni Camuel Aaron Sadok Juda Elihu nga usa sa mga kaigsoonan ni Hari David Isacar Amri nga anak ni Michael Zabulon Ismaias nga anak ni Obadias Neftali Jeremot nga anak ni Asriel Efraim Hosea nga anak ni Ozazias Kasadpan sa Manases Joel nga anak ni Pedaias Silangan sa Manases Iddo nga anak ni Zacarias Benjamin Jasiel nga anak ni Abner Dan Azarel nga anak ni Jeroham 23 Wala iapil ni David pag-ihap ang wala pay 
 20 ka tuig ang panuigon kay nagsaad man ang Ginoo nga iyang pasanayon ang kaliwat ni Israel sama kadaghan sa kabituonan sa langit.
 24 Si Joab nga anak ni Seruia maoy nagsugod sa pagpanglista sa mga tawo apan bisan wala niya kini mahuman nahiagom gayod sa kapungot sa Dios ang Israel tungod niini. Busa ang maong pagpanglista wala malakip sa talaan ni Hari David. Ang Pagdumala sa Kabtangan sa Hari
 25 Kini mao ang talaan sa mga nagdumala sa mga kabtangan sa hari: Sa mga lawak-tigomanan sa mga bahandi sa hari: si Asmavet nga anak ni Adiel Sa mga lawak -tigomanan sa mga bahandi sa nasod siyudad ug balang ay: si Jonatan nga anak ni Uzias
@@ -11296,8 +11260,7 @@ Ruth 4
 14 Anak siya sa usa ka babaye nga kaliwat sa banay ni Dan ug ang iyang amahan taga-Tiro. Si Huram batid manghimog mga butang gikan sa bulawan, plata, bronsi, puthaw, bato, kahoy ug sa paghabol sa panapton nga pula dagtom-pula, asul ug sa mga pino nga lino. Hanas usab siya sa pagpangulit sa nagkalainlaing dibuho nga ipabuhat kaniya uban sa imong mga tawo nga pinili sa akong agalon nga si David nga imong amahan.
 15 Busa ipadala sa imong mga sulugoon ang giingon mong trigo sebada, lana ug bino
 16 kay andam kami sa pagpamutol sa mga kahoy sa Lebanon nga imong gikinahanglan. Himoon namo kining balsa ug ipalutaw agi sa dagat Amo kining ihatod kutob sa Jopa aron gikan didto dad -on niny o kini ngadto sa Jerusalem.” Gisugdan ang Pagtukod sa Templo
-17 Unya gipalista ni Solomon ang tanang langyaw nga diha magpuyo sa Israel sama sa paglista ni David nga iyang amahan u g mikabat sa ka tawo ang tanan.
-18 Ang kanila i yang gihimong tighakot sa mga materyales ug ang gipakuha niyag mga bato sa kabungtoran ug ang gihimo niyang mga kapatas sa trabaho.
+17 Unya gipalista ni Solomon ang tanang langyaw nga diha magpuyo sa Israel sama sa paglista ni David nga iyang amahan u g mikabat sa ka tawo ang tanan. 18 Ang kanila i yang gihimong tighakot sa mga materyales ug ang gipakuha niyag mga bato sa kabungtoran ug ang gihimo niyang mga kapatas sa trabaho. 
 2 Cronicas 3
 1 Gisugdan ni Solomon pagtukod ang Templo sa Ginoo didto sa Jerusalem sa Bukid sa Moria diin ang Ginoo mipakita ngadto sa iyang amahan nga si David. Didto niya kini tukora sa nahimutangan sa giukanan ni Arauna ang Jebusihanon, sumala sa giingon kaniya ni David.
 2 Gisugdan niya kini pagtukod sa ikaduhang bulan sa ikaupat nga tuig sa iyang paghari.
@@ -11436,8 +11399,7 @@ Ruth 4
 14 Ug sumala sa gisugo kaniya sa iyang amahan nga si David ang tawo nga pinili sa Dios nagsugo siya nga bahinbahinon ang mga pari alang sa ilang mga buluhaton ingon man ang mga Levita nga motabang kanila sa pag -awit ug uban pang buluhaton sa Templo Gibahinbahin usab niya ang mga tigbantay sa mga pultahan.
 15 Gituman sa mga pari ug sa mga Le vita ang gisugo ni David kanila mahitungod sa tipiganan sa mga kabtangan ug sa mga bahandi.
 16 Sa maong paagi natapos gayod ang tanang buluhaton ni Solomon lakip ang Templo sa Ginoo. Gikan sa pagpahimu tang sa sukaranan sa Templo sa Ginoo hangtod sa pagkatapos niini, ang tanang buluhaton nagmalampuson.
-17 Unya miadto siya sa Esion -geber ug sa Elat nga duol sa baybayon sa Dagat sa Acaba sa nasod sa Edomea.
-18 Si Hiram nagpadala kang Solomon ug mga barko ug mga sulugoon nga sinati sa dagat ug kini sila nangadto sa Ofir uban sa mga sulugoon ni Solomon ug gikuha nila didto ang 16 ka toniladang bulawan ug ila kining gidala ngadto kang Hari Solomon.
+17 Unya miadto siya sa Esion -geber ug sa Elat nga duol sa baybayon sa Dagat sa Acaba sa nasod sa Edomea. 18 Si Hiram nagpadala kang Solomon ug mga barko ug mga sulugoon nga sinati sa dagat ug kini sila nangadto sa Ofir uban sa mga sulugoon ni Solomon ug gikuha nila didto ang 16 ka toniladang bulawan ug ila kining gidala ngadto kang Hari Solomon. 
 2 Cronicas 9
 1 Sa pagkabalita sa rayna sa Sheba sa kabantog ni Solomon miadto siya sa Jerusalem aron iyang sulayan si Solomon pinaagi sa lisod nga mga pangutana. Gikuyogan ang rayna sa daghan niyang mga opisyal ug nagdala silag mga kamelyo nga gikargahag daghang pa humot, bulawan ug mga mahalong bato. Sa ilang panagkita gipangutana niya si Solomon sa tanang mga pangutana nga iyang nahunahunaan.
 2 Gitubag ni Solomon ang tanan niyang mga pangutana ug wala gayoy lisod tubagon alang kang Solomon.
@@ -11529,8 +11491,7 @@ Ruth 4
 12 Sa dihang nagpaubos si Rehoboam atubangan sa Ginoo, wala ipadayon pagpahamtang sa Ginoo ang iyang kapungot ug wala siya laglaga sa hingpit. Nagpabiling mauswagon ang Juda. Ang Mubong Asoy sa Paghari ni Rehoboam
 13 Busa si Rehoboam nagpadayon paghari didto sa Jerusalem Sa pagsugod niyag hari 41 na ang iyang panuigon. Naghari siya sulod sa 17 ka tuig didto sa Jerusalem, ang siyudad nga gipili ni Yahweh gikan sa tanang banay sa Israel nga maoy dapit diin siya simbahon Ang inahan ni Rehoboam mao si Naama nga usa ka Amonihanon.
 14 Daotag binuhatan si Rehoboam ug wala niya tinguhaa ang pag -alagad sa Ginoo.
-15 Ang tanang nahimo ni Rehoboam gikan sa sinugdan hangtod sa kataposan ug ang talaan sa iyang panimalay anaa sa Kasaysayan ni Propeta Semaias ug sa Kasaysayan ni Propeta IddoKanunay lang nga naggubat sila si Rehoboam ug si Jeroboam.
-16 Unya namatay si Rehoboam ug gilubong siya didto sa Siyudad ni David Mipuli kaniya paghari ang iyang anak nga si Abias.
+15 Ang tanang nahimo ni Rehoboam gikan sa sinugdan hangtod sa kataposan ug ang talaan sa iyang panimalay anaa sa Kasaysayan ni Propeta Semaias ug sa Kasaysayan ni Propeta IddoKanunay lang nga naggubat sila si Rehoboam ug si Jeroboam. 16 Unya namatay si Rehoboam ug gilubong siya didto sa Siyudad ni David Mipuli kaniya paghari ang iyang anak nga si Abias. 
 2 Cronicas 13
 1 Nagsugod si Abias paghari sa Juda sa ika-18 nga tuig sa paghari ni Jeroboam sa Israel.
 2 Naghari siya sulod sa tulo ka tuig didto sa Jerusalem. Ang iyang inahan mao si Micaias, anak ni Uriel nga taga-Gibea.
@@ -11742,8 +11703,7 @@ Ruth 4
 8 Ug sa dihang gipahamtang ni Jehu ang silot sa banay ni Ahab gikakita niya ang mga kadagkoan sa Juda ug ang mga anak sa mga igsoon ni Ahasias nga mikuyog kang Ahasias ug gipamatay niya sila.
 9 Gipangita niya si Ahasias ug nadakpan si Ahasias sa mga sakop ni Jehu samtang nagtago siya didto sa Samaria ug gidala siya n gadto kang Jehu ug gipatay. Gilubong nila siya kay apo man siya ni Josafat nga nahigugma gayod sa Ginoo. Sa banay ni Ahasias walay usa nga takos magmando sa gingharian. Pagmando ni Atalia sa Juda
 10 Sa dihang nakita ni Atalia, inahan ni Ahasias, nga patay na ang iyang anak, gipamatay niya ang tanang sakop sa harianong panimalay sa banay sa Juda.
-11 Si Ahasias adunay igsoon nga babaye sa amahan lamang nga si Joseba Si Joseba naminyo sa usa ka pari nga si Jehoiada. Sa hilom gikuha niya ang usa sa mga anak nga lalaki ni Ahasias nga si Joas ug gipalayo gikan sa ubang mga prinsipe nga hapit na pamatyon ug gitagoan siya uban sa usa ka yaya didto sa usa ka lawak-higdaanan sa Templo. Busa pinaagi sa pagta go kaniya, giluwas ni Joseba si Joas gikan sa kamatayon sa mga kamot ni Atalia.
-12 Ug nagpabilin kanila ang bata sulod sa unom ka tuig Gitagoan siya diha sa Templo samtang si Atalia mao pay nagmando sa nasod.
+11 Si Ahasias adunay igsoon nga babaye sa amahan lamang nga si Joseba Si Joseba naminyo sa usa ka pari nga si Jehoiada. Sa hilom gikuha niya ang usa sa mga anak nga lalaki ni Ahasias nga si Joas ug gipalayo gikan sa ubang mga prinsipe nga hapit na pamatyon ug gitagoan siya uban sa usa ka yaya didto sa usa ka lawak-higdaanan sa Templo. Busa pinaagi sa pagta go kaniya, giluwas ni Joseba si Joas gikan sa kamatayon sa mga kamot ni Atalia. 12 Ug nagpabilin kanila ang bata sulod sa unom ka tuig Gitagoan siya diha sa Templo samtang si Atalia mao pay nagmando sa nasod. 
 2 Cronicas 23
 1 Sa ikapito nga tuig si Jehoiada nakahukom sa pagpakig -abin sa lima ka kapitan sa kasundalohan nga sila si Azarias nga anak ni Jeroham si Ismael nga anak ni Jehohanan, laing Azarias nga anak ni Obed si Maasias nga anak ni Adaias ug si Elisafat nga anak ni Secri.
 2 Gilibot nila ang Juda ug gitigom nila ang mga Levita gikan sa tanang siyudad sa Juda ug ang mga pangulo sa mga banay sa Israel ug nangadto sila sa Jerusalem.
@@ -11798,8 +11758,7 @@ Ruth 4
 2 Gibuhat niya ang matarong atubangan sa Ginoo apan dili gayod hingpit ang iyang pagkinabuhi.
 3 Ug sa dihang nakasukad na siya sa iyang pagkahari gipatay niya ang iyang mga alagad nga maoy nagpatay sa iyang amahan.
 4 Apan wala niya patya ang ilang mga anak sumala sa nahisulat sa balaod diha sa basahon n i Moises diin nagsugo ang Ginoo, “Ang mga ginikanan dili patyon tungod sa sala sa ilang mga anak ug ang mga anak dili patyon tungod sa sala sa ilang mga ginikanan. Apan ang matag tawo patyon tungod sa iyang kaugalingong sala.” Gubat batok sa Edomea
-5 Unya gitigom ni Amasias ang tanang lalaki sa Juda ug sa Benjamin ug gipahimutang sila sumala sa ilang mga banay ubos sa pagdumala sa mga pangulo sa linibo ug ginatos Gilakip niya kadtong nagpanuigon ug gikan sa
-20 pataas ug miabot silag. Pinili sila nga pundok sa kasundalohan nga andam sa pagpakiggubat, hanas sa paggamit sa bangkaw ug taming.
+5 Unya gitigom ni Amasias ang tanang lalaki sa Juda ug sa Benjamin ug gipahimutang sila sumala sa ilang mga banay ubos sa pagdumala sa mga pangulo sa linibo ug ginatos Gilakip niya kadtong nagpanuigon ug gikan sa 20 pataas ug miabot silag. Pinili sila nga pundok sa kasundalohan nga andam sa pagpakiggubat, hanas sa paggamit sa bangkaw ug taming. 
 6 Nagsuhol usab siya ug ka sundalo gikan sa Israel ug gibayran silag mga upat ka toniladang plata.
 7 Apan ang usa ka propeta sa Dios miadto ug m iingon kaniya, “Kamahalan, ayaw pakuyoga kanimo ang kasundalohan sa Israel kay ang Ginoo wala mahimuot sa Gingharian sa Amihanan.
 8 Apan kon naghunahuna ka nga niining paagiha malig -on kaalang sa gubat ang Dios dili motabang kanimo kay may gahom ang Dios s a pagtabang o pagbiya kanimo.”
@@ -11848,8 +11807,7 @@ Ruth 4
 22 Ang nabuhat ni Uzias sukad gayod sa sinugdan gisulat ni propeta Isaias nga anak ni Amos.
 23 Unya si Uzias namatay ug wala nila siya ilubong sa lubnganan sa mga hari kay sanlahon man siya Ug si Jotam nga iyang anak maoy mipuli kaniya paghari.
 2 Cronicas 27
-1 Si Jotam nagpanuigon ug 25 ka tuig sa pagsugod niyag hari ug naghari siyag
-16 ka tuig didto sa Jerusalem Ang iyang inahan mao si Jerusa nga anak ni Sadok.
+1 Si Jotam nagpanuigon ug 25 ka tuig sa pagsugod niyag hari ug naghari siyag 16 ka tuig didto sa Jerusalem Ang iyang inahan mao si Jerusa nga anak ni Sadok. 
 2 Gibuhat niya ang matarong atubangan sa Ginoo sumala sa tanan nga nabuhat sa iyang amahan nga si Uzias gawas l ang sa pagpangahas sa pagsulod sa Templo. Apan ang katawhan nagpadayon sa pagbuhat ug daotan.
 3 Gitukod ni Jotam ang ibabaw nga ganghaan sa balay sa Ginoo ug gihimo niya ang dakong buluhaton sa pagtukod sa kota sa Ofel.
 4 Labot pa, gitukod niya ang mga siyud ad sa bungtod sa Juda ang mga kota ug mga tore diha sa bungtod nga daghag kahoy.
@@ -12024,8 +11982,7 @@ Ruth 4
 14 Human niini, nagtukod siyag kota dapit sa gawas sa Siyudad ni David sa kasadpan sa Gihon, gikan sa walog ngadto sa pultahan hangtod sa ganghaan nga ginganlag Ganghaan sa Isda ug gipadayon kini libot sa Opel. Gihimo niya kini nga habog kaayo ug gibutangan usab niyag pangulo sa kasundalohan ang tanang kinutaan nga siyudad sa Juda.
 15 Ug gikuha niya gikan sa Templo sa Ginoo ang mga diosdios Gipangguba usab niya ang mga halaran nga iyang gitukod didto sa bungtod nga nahimutangan sa Templo sa Ginoo ug gilabay kini sa gawas sa siyudad.
 16 Giuli usab niya ang halaran sa Ginoo didto sa nahimutangan niini ug naghalad siya ug mga mananap ug mga halad sa pakigdait ug pagpasalamat ug gimandoan niya ang Juda sa pag-alagad sa Ginoo, ang Dios sa Israel.
-17 Bisan pag ang mga tawo nagpadayon sa paghalad ug mga mananap diha sa mga halaran sa mga diosdios gihalad nila kini alang lamang sa Ginoo nga ilang Dios. Ang Kataposan sa Paghari ni Manases
-18 Ang ubang mga buhat ni Manases ug ang iyang pag-ampo ngadto sa Dios ug ang mga pulong sa mga propeta nga misulti kaniya sa ngalan ni Yahweh ang Dios sa Israel nahisulat sa Kasaysayan sa mga Hari sa Israel. 19 Ug ang iyang pag-ampo ug ang pagtubag sa Dios sa iyang pangamuyo ug ang tanan niyang kasal-anan ug ang iyang pagkadili matinuohon ug ang mga dapit nga gitukoran niya sa mga halaran alang sa mga diosdios ang mga simbolo sa diosa nga si Asera ang mga larawan nga iyang gihimo sa wala pa siya magpaubos sa iyang kaugalingon atubangan sa Ginoo nahisulat sa Kasaysayan sa mga Propeta.
+17 Bisan pag ang mga tawo nagpadayon sa paghalad ug mga mananap diha sa mga halaran sa mga diosdios gihalad nila kini alang lamang sa Ginoo nga ilang Dios. Ang Kataposan sa Paghari ni Manases 18 Ang ubang mga buhat ni Manases ug ang iyang pag-ampo ngadto sa Dios ug ang mga pulong sa mga propeta nga misulti kaniya sa ngalan ni Yahweh ang Dios sa Israel nahisulat sa Kasaysayan sa mga Hari sa Israel. 19 Ug ang iyang pag-ampo ug ang pagtubag sa Dios sa iyang pangamuyo ug ang tanan niyang kasal-anan ug ang iyang pagkadili matinuohon ug ang mga dapit nga gitukoran niya sa mga halaran alang sa mga diosdios ang mga simbolo sa diosa nga si Asera ang mga larawan nga iyang gihimo sa wala pa siya magpaubos sa iyang kaugalingon atubangan sa Ginoo nahisulat sa Kasaysayan sa mga Propeta. 
 20 Si Manases namatay ug gilubong nila siya diha sa iyang palasyo Si Amon nga iyang anak maoy mipuli kaniya sa paghari. Ang Paghari ni Amon sa Juda
 21 Si Amon nagpanuigon ug 22 sa pagsugod niya pag hari ug naghari siya sa Jerusalem sulod sa duha ka tuig.
 22 Gihimo niya ang daotan atubangan sa Ginoo sama sa gibuhat sa iyang amahan. Naghalad si Amon ug mga mananap sa tanang larawan nga gihimo sa iyang amahan ug gisimba niya sila.
@@ -12599,8 +12556,7 @@ Nehemias 11
 16 Si Sabbetai ug si Jozabad, ang mga dakudako sa mga Levita nga nagdumala sa trabaho gawas sa Templo.
 17 Si Matanias nga anak ni Mica ug apo ni Zabdi kaliwat ni Asaf mao ang mangulo sa mga mag -aawit sa pag-ampo sa pagpasalamat. Si Bakbukias nga mao ang luyoluyo ni Matanias. Si Abda nga anak ni Sammua ug apo ni Galal, usa ka kaliwat ni Jeduton.
 18 Ang tanan mikabat ug ka Levita nga nagpuyo sa balaang siyudad sa Jerusalem.
-19 Ang mga guwardiya sa Templo: Si Akkub, Talmon ug ang ilang mga paryenti,
-172 silang tanan.
+19 Ang mga guwardiya sa Templo: Si Akkub, Talmon ug ang ilang mga paryenti, 172 silang tanan. 
 20 Ang ubang mga Israelita mga pari ug mga Levita didto magpuyo sa mga kalungsoran sa Juda.
 21 Ang mga nag-alagad sa Templo didto magpuyo sa Ofel Si Ziha ug si Gispa maoy nagdumala kanila.
 22 Ang pangulo sa mga Levita didto sa Jerusalem mao si Uzi nga anak ni Bani ug apo ni Hasabias, nga anak ni Matanias nga anak ni Mica nga anak ni As af, ang banay nga mag-aawit didto sa Templo sa Dios.
@@ -12759,8 +12715,7 @@ Ester 4
 8 Gihatagan usab siya ni Mardoqueo ug kopya sa sugo sa hari nga gipakanaog didto sa Susa nga patyon ang tanang Judio Gihatag kini ni Mardoqueo kang Hatac aron ipakita ug isaysay kini ni Hatac kang Ester ug ipahangyo si Ester sa pag-adto sa hari aron pagpangaliyupo sa hari alang sa mga Judio nga mao ang katawhan ni Ester.
 9 Busa gisuginlan ni Hatac si Ester sa tanang gisulti ni Mardoqueo.
 10 Unya gisugo siya ni Ester pagsulti kang Mardoqueo:
-11 “Ang tanang mga alagad sa hari ug ang katawhan sa mga lalawigan nga ubos sa iyang pagmando nasayod nga kon may tawo nga moatubang sa hari nga wala ipatawag patyon ang maong tawo gawas niadtong pahikapon sa hari sa bulawang sitro. Ug ako wala gayod ipatawag sa hari sulod na karon sa
-30 ka adlaw.”
+11 “Ang tanang mga alagad sa hari ug ang katawhan sa mga lalawigan nga ubos sa iyang pagmando nasayod nga kon may tawo nga moatubang sa hari nga wala ipatawag patyon ang maong tawo gawas niadtong pahikapon sa hari sa bulawang sitro. Ug ako wala gayod ipatawag sa hari sulod na karon sa 30 ka adlaw.” 
 12 Ilang gisuginlan si Mardoqueo sa gisulti ni Ester.
 13 Unya gisultihan sila ni Mardoqueo sa iyang tubag kang Este r nga mao kini: “Ayaw paghunahuna nga makalingkawas ka sa dangatan sa tanang mga Judio tungod lamang kay nagpuyo ka sa palasyo sa hari.
 14 Kon magpaka hilom ka lamang niining panahon sa kalisdanan lain ang moluwas sa mga Judio apan ikaw ug ang imong banay malaglag Kinsay nasayod nga nahimo kang rayna tungod ug alang sa panahon nga sama niini?”
@@ -18664,8 +18619,7 @@ Isaias 38
 4 Ug giingnan sa Ginoo si Isaias.
 5 “Adtoa si Ezequias ug sultihi nga nag -ingon ako ang Ginoo, ang Dios ni David nga imong kagikan Nadungog ko a ng imong pag -ampo ug nakita ko ang imong mga luha busa dugangan kog 15 ka tuig ang imong kinabuhi.
 6 Luwason ko ikaw ug kining siyudara gikan sa hari sa Asiria ug magpadayon sa pagpanalipod niini.”
-21 Gisultihan ni Isaias ang hari sa pagbutang nganha sa iyang hubag ug papilit nga hinimo gikan sa igos ug mamaayo siya.
-22 Unya nangutana si Hari Ezequias “Unsa may ilhanan ug magmatuod nga makaadto ako sa Templo sa Ginoo?”
+21 Gisultihan ni Isaias ang hari sa pagbutang nganha sa iyang hubag ug papilit nga hinimo gikan sa igos ug mamaayo siya. 22 Unya nangutana si Hari Ezequias “Unsa may ilhanan ug magmatuod nga makaadto ako sa Templo sa Ginoo?” 
 7 Si Isaias mitubag “Mao kini ang ilhanan nga ihatag sa Ginoo kanimo nga tumanon gayod niya ang iyang gisaad:
 8 Pabalikon niyag napulo ka lakang ang landong sa adlaw sa orasan ni Ahaz” Ug natuman kini.
 9 Mao kini ang gisulat ni Ezequias ang hari sa Juda human siya maayo sa iyang sakit.
@@ -19927,8 +19881,7 @@ Jeremias 27
 14 Ayaw kamo padani sa mga propeta nga magtambag kaninyo sa dili pag - alagad sa hari sa Babilonia kay gilimbongan lamang kamo nila.
 15 Nag-ingon ang Ginoo nga wala siya magsugo kanila ug gibakakan kamo nila ginamit ang iyang ngalan Busa abugon kamo sa Ginoo ug pamatyon lakip ang mga propeta nga nagsulti kaninyo niining mga bakak.”
 16 Unya gisultihan ko ang mga pari ug ang katawhan nga nag-ingon angGinoo, “Ayaw kamo pagpamati sa mga propeta nga nag -ingon nga sa dili madugay panad-on nganhi gikan sa Babilonia ang mga mahal nga kabtangan sa Templo kay gibakakan lamang kamo nila.
-17 Busa ayaw ninyo sila pamatia. Alagari ninyo ang hari sa Babilonia kon buot kamong magpabiling buhi Kinahanglan ba gayod nga malaglag kining siyudara?
-18 Kon tinuod gayod nga sila mga propeta ug nga sila nagdala sa akong mensahe, ipahangyo nila ako, ang Ginoo nga Labing Gamhanan nga dili ko itugot nga dad -on ngadto sa Babilonia ang mga mahal nga kabtangan nga nahibilin sa Templo sa Jerusalem ug sa mga palasyo.”
+17 Busa ayaw ninyo sila pamatia. Alagari ninyo ang hari sa Babilonia kon buot kamong magpabiling buhi Kinahanglan ba gayod nga malaglag kining siyudara? 18 Kon tinuod gayod nga sila mga propeta ug nga sila nagdala sa akong mensahe, ipahangyo nila ako, ang Ginoo nga Labing Gamhanan nga dili ko itugot nga dad -on ngadto sa Babilonia ang mga mahal nga kabtangan nga nahibilin sa Templo sa Jerusalem ug sa mga palasyo.” 
 21 Miingon ang Ginoo nga Labing Gamhanan ang Dios sa Israel “Pamati sa akong isulti bahin sa mga mahal nga kabtangan nga nahibilin sa Templo sa Jerusalem ug sa palasyo sa hari.
 22 Panad-on kini ngadto sa Babilonia ug magpabilin didto hangtod nga mohukom ako nga ibalik kini nganhi aron iuli sa nahimutangan niini Ako, ang Ginoo, maoy nagsulti niini.”
 Jeremias 28
@@ -20046,8 +19999,7 @@ Jeremias 31
 39 Ug ang utlanan magsukad didto hangtod sa bungtod sa Gareb ug unya libot sa Goa.
 40 Ang tibuok walog nga lubnganan sa mga patay ug mga basura ug ang tanang uma ibabaw sa sapa sa Kidron hangtod sa ganghaan nga ginganlag Ganghaan sa Kabayo dapit sa sidlakan igahin ingon nga sagrado ala ng kanako. Ug ang siyudad dili na gayod gub-on o lumpagon pag-usab.”
 Jeremias 32
-1 Sa ikanapulo nga tuig sa paghari ni Sedekias sa Juda nga mao usab ang ika -
-18 nga tuig sa paghari ni Nabucodonosor sa Babilonia misulti angGinoo kanako.
+1 Sa ikanapulo nga tuig sa paghari ni Sedekias sa Juda nga mao usab ang ika - 18 nga tuig sa paghari ni Nabucodonosor sa Babilonia misulti angGinoo kanako. 
 2 Niadtong higayona gilibotan sa kasundalohan sa hari sa Babilonia ang Jerusalem ug ako gibilanggo didto sa hawanan sa guwardiya didto sa palasyo sa hari.
 3 Gibilanggo ako ni Hari Sedekias tungod sa akong pagsangyaw nga ang Ginoo nag-ingon, “Itugyan ko kining siyudara ngadto sa hari sa Babilonia
 4 ug dili gayod makaikyas si Hari Sedekias Itugyan siya ngadto sa hari sa Babilonia, magkaatubang ug magkasulti gayod sila.
@@ -20632,9 +20584,7 @@ Jeremias 52
 27 Ug didto sa Ribla nga sak op sa Hamat, gihukman sila sa hari nga latigohon ug unya patyon Busa ang katawhan sa Juda gipamihag ngadto sa laing nasod.
 28 Sa ikapito nga tuig sa paghari ni Nabucodonosor ang gidaghanon sa mga tawo nga iyang gipamihag.
 29 Sa ika -18 nga tuig sa iya ng paghari ka mga lumolupyo sa Jerusalem ang iyang gibihag
-30 ug sa ika -23 ka tuig sa iyang paghari ka tawo ang gibihag ni Nebusaradan. Mikabat ug ka tawo ang tanan nga iyang gipamihag.
-31 Unya sa tuig nga si Ebilmerodac mao nay nahimong hari sa Babilonia gikaluy-an niya si Joaquin nga hari sa Juda ug gibuhian. Nahitabo kini sa ika-
-25 nga adlaw sa ika-12 nga bulan sa ika-37 nga tuig sukad siya bihaga.
+30 ug sa ika -23 ka tuig sa iyang paghari ka tawo ang gibihag ni Nebusaradan. Mikabat ug ka tawo ang tanan nga iyang gipamihag. 31 Unya sa tuig nga si Ebilmerodac mao nay nahimong hari sa Babilonia gikaluy-an niya si Joaquin nga hari sa Juda ug gibuhian. Nahitabo kini sa ika-  25 nga adlaw sa ika-12 nga bulan sa ika-37 nga tuig sukad siya bihaga. 
 32 Gihatagan ni Ebilmerodac si Joaquin ug dakong katungdanan kay sa ubang binihag nga mga hari didto sa Babilonia.
 33 Busa si Joaquin wala na pasul -oba sa bisti sa mga binilanggo ug didto na siya magkan-anan sa palasyo dungan sa hari hangtod nga namatay siya.
 34 Matag adlaw gihatagan siya sa iyang gikinahanglan hangtod sa iyang kamatayon.
@@ -21859,8 +21809,7 @@ Ezequiel 40
 14 Gisukod usab niya ang lawak -agianan nga miabot ngadto sa hawanan sa sulod ug kini mga napulo ka metros.
 15 Gikan sa ganghaan sa atubangan sa lawak -agianan ngadto sa sulod may gilay-on nga 25 ka metros.
 16 Ang matag lawak sa isigkakilid sa agianan may bintana nga nag -anam ug kagamay paingon sa sulod Ang lawak -agianan sa sulod may sama ng mga bintana usab. Diha sa mga bungbong nga nag-atubang sa agianan may gikulit nga mga palmera. Ang Hawanan sa Gawas sa Templo
-17 Unya gidala ako sa tawo ngadto sa hawanan sa gawas Libot sa hawanan may
-30 ka lawak nga nag-atubang niini. Sa atubangan usab niining mga lawak may agianan
+17 Unya gidala ako sa tawo ngadto sa hawanan sa gawas Libot sa hawanan may 30 ka lawak nga nag-atubang niini. Sa atubangan usab niining mga lawak may agianan 
 18 ug ang agianan nagsubay libot sa hawanan Ang hawanan sa gawas nahimutang ubos kay sa hawanan sa sulod.
 19 Unya iyang gisukod ang gilay -on gikan sa ganghaan sa hawanan sa gawas dapit sa ubos ngadto sa ganghaan sa hawanan sa sulod ug kini mga 50 ka metros. Ang Ganghaan Dapit sa Amihanan
 20 Unya gidala ako sa tawo paingon sa amihanan Didto sa amihanang bahin sa hawanan sa gawas may ganghaan Gisukod niya ang gitas -on ug ang gilapdon niini.
@@ -22002,8 +21951,7 @@ Ezequiel 44
 31 Ayawipakaon sa mga pari ang bisan unsang langgam o mananap nga namatay nga wala hilabti o gitukob sa laing mananap.
 Ezequiel 45
 1 “Inigbahinbahin nimo sa yuta ngadto sa tagsatagsa ka banay igahin ang usa ka bahin niini alang sa Ginoo ug isipon kini nga usa ka luna nga balaan Mao kini ang sukod niini: Ang gitas -on niini mga ka kilometro ug ang gilapdon napulo ka kilometro.
-2 Diha niining maong yuta paggahin ug kwadrado nga luna nga may sukod nga ka metros ang matag kilid nga maoy tukoran sa Templo ug ang balig
-25 ka metros nga gilapdon libot niini maoy lagwerta sa Templo.
+2 Diha niining maong yuta paggahin ug kwadrado nga luna nga may sukod nga ka metros ang matag kilid nga maoy tukoran sa Templo ug ang balig 25 ka metros nga gilapdon libot niini maoy lagwerta sa Templo. 
 3 Unya pagsukod ug laing luna nga ka kilometro ug lima ka kilometro ang gilapdon nga butangan sa Templo, ang labing balaang dapit.
 4 Mao kini ang balaang dapit Alang kini sa mga pari nga nag -alagad diha sa Templo. Anhi tukora ang mga balay sa mga pari ug ang Templo.
 5 Laing luna nga may gitas-on nga ka kilometro ug lima ka kilometro ang gilapdon ang igahin alang sa mga Levita nga nag-alagad sa Templo aron ilang puy-an.
@@ -22013,8 +21961,7 @@ Ezequiel 45
 9 Mao kini ang gisulti sa Ginoong Dios: “Husto na, O mga hari sa Israel! Biyai na ang kapintas ug pagpanlupig ug ipahamtang ang hustisya ug an g katarongan. Hunonga na ang paghingilin ninyo sa akong katawhan Ako, ang Ginoong Dios maoy nagsulti niini.
 10 “Ang tanan kinahanglan maggamit sa husto nga mga timb angan ug mga sukdanan:
 11 “Ang epa alang sa pagsukod sa mga uga kinahanglan sibo sa bat nga alang sa pagsukod sa mga tinubig. Ang sukdanan mao ang omer. Ang sangpotan nga mga sukod mao kining mosunod: usa ka omer =10 ka epa =10 ka bat
-12 “Ang inyong mga timbang mao kining mosunod: 20 ka gera = usa ka sekel
-60 ka sekel = usa ka mina
+12 “Ang inyong mga timbang mao kining mosunod: 20 ka gera = usa ka sekel 60 ka sekel = usa ka mina 
 13-15 “Kini mao ang sumbanan sa paghatag ninyo sa inyong mga halad: Trigo: usa sa 60 ka bahin sa inyong ani Sebada: usa sa 60 ka bahin sa inyong ani Lana sa olibo: usa sa 100 ka bahin sa abot sa inyong mga kahoy nga olibo Karnero: usa ka karnero sa matag 200 gikan sa kaumahan sa Israel "Kinahanglan magdala kamo ug halad nga uhay halad nga sunogon ug mga halad sa pakigdait aron ang inyong mga sala mapasaylo. Ako, ang Ginoong Dios, maoy nagsugo niini.
 16 “Kinahanglan kining halad sa katawhan ihatag nila ngadto sa pangulo sa Israel.
 17 Maoy katungdanan sa pangulo ang paghatag sa mga halad nga sunogon halad nga pagkaon ug halad nga ilimnon panahon sa mga kasaulogan: sa mga Bag-ong Subang sa Bulan ug mga Adlaw nga Igpapahulay ug sa tanang kasaulogan nga himoon sa banay sa Israel Siyay maghatag niining maong mga halad alang sa kapasayloan sa mga sala sa katawhan sa Israel.” Ang mga Kasaulogan
@@ -22047,8 +21994,7 @@ Ezequiel 46
 18 Dili mahimo sa pangulo ang pagpanag-iya sa kabilin sa ubang tawo pinaagi sa paghingilin kanila Kinahanglan nga ang iyang ibahin sa iyang mga anak mao ra gayod ang kabtangan nga iyang kaugalingon aron nga walay mawad - ag yuta sa akong katawhan.” Ang mga Kusina sa Templo
 19 Unya gidala ako sa tawo agi sa pultahan tupad sa ganghaan nga paingon sa mga balaang lawak sa mga pari nga dapit sa amihanan Didto sa kasadpang bahin nakita ko ang usa ka dapit nga iyang giingon kanako.
 20 Ug giingnan niya ako, “Anhi lutoa sa mga pari ang mga halad alang sa sala ug anhi usab nila lutoa ang halad nga pagkaon aron dili nila kini dad -on sa gawas nga hawanan ug sa ingon dili motapon sa mga tawo sa pagkabalaan niini.”
-21 Unya gidala ako niya didto sa gawas nga hawana n ug ngadto sa upat ka eskina niini. Sa matag eskina sa hawanan may hawanan usab.
-22 Didto sa upat ka eskina sa hawanan may mga gagmay nga hawanan usab
+21 Unya gidala ako niya didto sa gawas nga hawana n ug ngadto sa upat ka eskina niini. Sa matag eskina sa hawanan may hawanan usab. 22 Didto sa upat ka eskina sa hawanan may mga gagmay nga hawanan usab 
 20 ka metros ang gitas -on ug 15 ka metros ang gilapdon ug managsamag gidak-on ang upat.
 23 Sa sulod sa upat ka hawan an may usa ka laray nga sinapsapang bato ug may abohan sa taliwala niini.
 24 Unya giingnan niya ako “Mao kini ang kusina sa mga pari ug anhi lutoa ang halad sa mga tawo.”
@@ -22396,8 +22342,7 @@ Daniel 9
 21 si Gabriel nga akong nakita sa unang panan -awon tulin nga milupad ug miduol kanako sa panahon sa gabhion nga halad.
 22 Miduol siya kanako ug miingon “Daniel, ania ako aron paghatag kanimog kaalam ug panabot.
 23 Sa pagsugod nim og ampo gitubag ka sa Dios ug ania ako aron pagsulti kanimo niini kay ikaw gihigugma man niya pag -ayo busa palandonga ang tubag ug sabta ang panan-awon.
-24 “Pito ka
-70 nga tuig ang gitagal alang sa imong katawhan ug sa imong balaang siyudad aron pagtapos sa kalapasan ug paghunong sa sala ug paghugas sa kadaotan, aron pagpatunhay sa katarong nga walay paglubad, aron pagtak-op sa panan -awon ug sa panagna ug aron paghalad pag-usab sa balaan nga Templo.
+24 “Pito ka 70 nga tuig ang gitagal alang sa imong katawhan ug sa imong balaang siyudad aron pagtapos sa kalapasan ug paghunong sa sala ug paghugas sa kadaotan, aron pagpatunhay sa katarong nga walay paglubad, aron pagtak-op sa panan -awon ug sa panagna ug aron paghalad pag-usab sa balaan nga Templo. 
 25 Busa hibaw -i nga sukad sa paghatag sa sugo nga tukoron pa g-usab ang Jerusalem ngadto sa pag-abot sa dinihogan nga usa ka prinsipe, kinahanglang molabay una ang pito ka pito ka tuig Unya sulod sa 62 ka pito ka tuig tukoron pag -usab ang Jerusalem lakip ang mga plasa ug mga kanal nga maglibot sa siyudad apan mahitabo kini panahon sa kasamok.
 26 Ug tapos sa maong panahon ang dinihogan patyon ug ang siyudad ug Templo laglagon sa katawhan sa umaabot nga p rinsipe. Ang kataposan niini moabot daw bul -og sa baha ug kanunay kini nga may gubat kay gitagal na man ang pagkagun-ob niini.
 27 Ug sulod sa pito ka tuig ang maong prinsipe maghimog kasabotan uban sa daghang katawhan ug tapos sa katunga sa maong panahon pa hunongon niya ang halad ug taliwala niining tanang kangil -ad motungha Ang Makalilisang nga Talan -awon hangtod nga a ng gitagal nga katalagman ibubo diha sa nagbutang niini.”
@@ -22794,8 +22739,7 @@ Amos 2
 7 Gidaugdaog nila ang mga timawa ug namintaha sila sa mga kabos Ang usa ka tawo ug ang iyang amahan makighilawas sa usa ra ka ulipong babaye ug tungod niini gipakaulawan nila ang akong ngalan nga balaan.
 8 Sa tanang dapit nga ilang gisimbahan nanghigda sila sinul -ob ang mga bisti nga gigarantiya sa mga nakautang kanila Didto sa templo sa ilang Dios nanginom silag bino nga ilang kinuha niadtong nakautang kanila.
 9 “Apan bisan pa niana gilaglag ko alang kanila ang mga Amorihanon nga sama ka tag -as sa mga kahoyng sidro ug ingon ka lig -on sa mga kahoyng tugas. Gilaglag ko sila sa hingpit.
-10 Gikuha ko kamo gikan sa Ehipto ug gigiyahan latas sa kamingawan sulod sa
-40 ka tuig ug gihatag ko kaninyo ang yuta sa mga Amorihanon.
+10 Gikuha ko kamo gikan sa Ehipto ug gigiyahan latas sa kamingawan sulod sa 40 ka tuig ug gihatag ko kaninyo ang yuta sa mga Amorihanon. 
 11 Gipili ko ang pipila sa inyong anak nga lalaki aron mahim ong mga propeta ug pipila sa inyong batan-on aron mahimong Nasareo. Dili ba kini matuod, O katawhan sa Israel? Ako ang Ginoo maoy nag-ingon niini.
 12 Apan gipainom ninyog bino ang mga Nasareo ug gidid -an ang mga propeta sa pagsangyaw sa akong mensahe.
 13 Ug karon lisudlisoron ko kamo ug mag -agulo kamo sama sa karomata nga nagbaguod sa kargang trigo.
@@ -23368,8 +23312,7 @@ Zacarias 4
 10 bMiingon ang anghel kanako, “Kining pito ka suga mao ang mga mata ni Yahweh nga nagtan-aw sa tibuok kalibotan.”
 11 Unya gipangutana ko siya “Unsa man kining duha ka kahoyng olibo nga anaa sa tuo ug sa wala sa tungtonganan sa suga?”
 12 Ug gipangutana ko pa gayod siya “Unsa may kahulogan niining duha ka sanga sa kahoy nga olibo nga anaa sa kiliran sa duha ka tubo nga bulawan diin modagayday ang lana?”
-13 Giingnan ako niya, “Wala ka ba diay masayod ug unsa k ini?” Mitubag ako, “Wala.”
-14 Unya miingon siya, “Kini mao ang du ha ka tawo nga dinihogan aron mag - alagad sa Ginoo sa tibuok kalibotan.” Ang Saad sa Dios ngadto kang Zerubabel
+13 Giingnan ako niya, “Wala ka ba diay masayod ug unsa k ini?” Mitubag ako, “Wala.” 14 Unya miingon siya, “Kini mao ang du ha ka tawo nga dinihogan aron mag - alagad sa Ginoo sa tibuok kalibotan.” Ang Saad sa Dios ngadto kang Zerubabel 
 6 Unya giingnan ako sa anghel nga isulti kining mensahe ni Yahweh nga Labing Gamha nan ngadto kang Zerubabel “Molampos ka dili pinaagi sa kusog o sa imong gahom kondili pinaagi sa akong espiritu.
 7 Ang mga kakulian nga ingon kadagko sa mga bukid mahanaw sa imong atubangan. Tukoron mo pag -usab ang Templo ug sa diha nga ipahimutang mo ang kataposang bato, mosinggit ang katawhan ‘Pagkaanindot, pagkaanindot gayod!’”
 8 Ug giingnan pa gayod ako sa Ginoo,
@@ -23996,8 +23939,7 @@ Mateo 13
 5 Ang uban nahulog sa yuta nga batoon ug nanurok dayon kay diyutay ra man ug dili lawom ang yuta niini.
 6 Apan sa pagsubang na sa adlaw nalawos ang bag-ong nanurok ug kay wala man makagamot pag-ayo, nangalaya dayon kini.
 7 Ang ubang mga binhi didto nahulog sa dapit sa mga tunokong sagbot Nanubo ang mga tunokong sagbot ug gilupig ang mga bag-ong tanom.
-8 Ug ang uban nahulog sa maayong yuta ug namunga. May namunga ug balig
-100 ka pilo kay sa natanom ang uban balig 60 ka pilo ug ang uban balig 30 ka pilo.”
+8 Ug ang uban nahulog sa maayong yuta ug namunga. May namunga ug bali 100 ka pilo kay sa natanom ang uban balig 60 ka pilo ug ang uban balig 30 ka pilo.”
 9 Ug miingon si Jesus, “Busa kon aduna kamoy dalunggan, pamati!” Ang Tuyo sa mga Sambingay
 10 Unya ang mga tinun-an miduol kang Jesus ug nangutana kaniya, “Nganong sambingay man ang imong gigamit sa pagtudlo kanila?”
 11 Si Jesus mitubag “Ang mga tinago mahitungod sa paghari sa Dios gipadayag na kaninyo apan wala ipadayag kanila.
@@ -24012,8 +23954,7 @@ Mateo 13
 20 Ang binhi nga nahulog sa yutang batoon sama sa mga tawo nga malipayong midawat sa mensahe sa pagkadungog nila niini.
 21 Apan wala kini makagamot diha kanila busa dili sil a molahutay. Sa pag - abot sa mga kalisdanan ug mga paglutos tungod sa mensahe mobiya dayon sila.
 22 Ug ang binhi nga nahulog sa dapit sa mga tunokon nga sagbot sama sa mga tawo nga nakadungog sa mensahe Apan ang mga kabalaka bahin niining kinabuhia ug ang gugma alang sa mga bahandi mipatigbabaw kay sa mensahe ug dili sila makabunga.
-23 Ug ang binhi nga napugas didto sa maayong yuta sama sa mga tawo nga nakadungog ug nakasabot sa mensahe. Mamunga silag tag-, ang uban tag-
-60 ug ang uban tag-.” Ang Sambingay mahitungod sa mga Sagbot
+23 Ug ang binhi nga napugas didto sa maayong yuta sama sa mga tawo nga nakadungog ug nakasabot sa mensahe. Mamunga silag tag-, ang uban tag- 60 ug ang uban tag-.” Ang Sambingay mahitungod sa mga Sagbot 
 24 Unya misugilon si Jesus kanilag laing sambingay: “Ang paghari sa Dios nahisama sa usa ka tawo nga nagpugas ug maayong binhi didto sa iyang uma.
 25 Usa niana ka gabii samtang nangatulog ang tanan usa ka kaaway ang miadto ug misabod ug liso sa mga sagbot sagol sa trigo ug unya mibiya.
 26 Sa nakatubo na ang mga tanom ug misugod na pagbuswak ang mga uhay diha pa mailhi ang mga sagbot.
@@ -25630,8 +25571,7 @@ Lucas 6
 9 Unya miingon si Jesus kanila, “Pangutan-on ko kamo: Unsa ba ang gitu got sa atong Balaod nga mahimong buhaton nato sa Adlawng Igpapahulay? Ang pagtabang ba o ang pagdaot? Ang pagluwas ba sa kinabuhi sa tawo o ang pagpatay?”
 10 Gilibot niya pagtan -aw silang tanan ug unya gisultihan niya ang tawo “Ituy-od ang imong kamot” Ug gituy-od sa tawo ang iyang kamot ug naayo kini.
 11 Apan napungot sila pag-ayo ug nagsabot unsay ilang buhaton kang Jesus. Gipili ni Jesus ang 12 ka Apostoles
-12 Niadtong panahona mitungas si Jesus sa usa ka bungtod aron pag -ampo ug sa tibuok gabii nag-ampo siya sa Dios.
-13 Sa pagkabuntag na, gitawag niya ang iyang mga tinun-an ug gipili niya ang
+12 Niadtong panahona mitungas si Jesus sa usa ka bungtod aron pag -ampo ug sa tibuok gabii nag-ampo siya sa Dios. 13 Sa pagkabuntag na, gitawag niya ang iyang mga tinun-an ug gipili niya ang 
 12 kanila nga ginganlan niyag apostoles:
 14 si Simon ug ang iyang igsoon nga si Andres si Santiago ug si Juan, si Felipe ug si Bartolome,
 15 si Mateo ug si Tomas si Santiago nga anak ni Alfeo ug si Simon
@@ -26439,8 +26379,7 @@ Lucas 23
 13 Unya gipatawag ni Pilato ang mga kadagkoan sa mga pari ang mga pangulo ug ang mga tawo.
 14 Giingnan niya sila, “Inyong gidala dinhi kanako kining tawhana ug miingon kamo nga nagpasalaag siya sa mga tawo. Giimbistigar ko siya dinhi sa inyong atubangan apan nakaplagan nako ng a dili siya sad -an sa bisan unsa sa mga daotang buhat nga gisumbong ninyo batok kaniya.
 15 Si Herodes wala usab makakaplag kaniya nga sad-an kay gipadala man niya kining tawhana pagbalik kanato Wala siyay nabuhat nga angay silotan sa kamatayon.
-16 Busa ipalatos ko lang siya ug unya buhian.”
-18 Apan misinggit ang tibuok pundok sa mga tawo “Patya siya! Si Barabas maoy buhii!”
+16 Busa ipalatos ko lang siya ug unya buhian.” 18 Apan misinggit ang tibuok pundok sa mga tawo “Patya siya! Si Barabas maoy buhii!” 
 20 Buot ni Pilato nga buhian si Jesus busa misulti siya pag -usab ngadto sa mga tawo.
 21 Apan misinggit sila pagtubag kaniya, “Ilansang siya sa krus! Ilansang siya sa krus!”
 22 Sa ikatulo ka higayon miingon si Pilato kanila “Apan unsa bay sala nga iyang nahimo? Wala akoy nakaplagan bisag unsa nga angay sa silot sa kamatayon! Ipalatos ko siya ug unya buhian.”
@@ -26509,8 +26448,7 @@ Lucas 24
 29 Apan gihawiran nila siya ug giingnan “Anhi lang ta mamahulay kay hapit na magabii.” Busa midayon siya ug nagpabilin uban kanila.
 30 Sa ila nang pagpanihapon gikuha niya ang pan ug gipan alanginan kini unya gipikaspikas ug gihatag kanila.
 31 Dihadiha nabuka ang ilang mga mata ug nakaila sila kaniya apan nahanaw siya.
-32 Nag-ingnanay sila “Dili ba ingon sa may kalayo nga nagdilaab sa atong kasingkasing sa dihang nagsulti siya ug nagpatin -aw kanato sa Kasulatan didto sa dalan?”
-33 Ug nanindog sila dayon ug namalik sa Jerusalem diin nakaplagan nila ang
+32 Nag-ingnanay sila “Dili ba ingon sa may kalayo nga nagdilaab sa atong kasingkasing sa dihang nagsulti siya ug nagpatin -aw kanato sa Kasulatan didto sa dalan?” 33 Ug nanindog sila dayon ug namalik sa Jerusalem diin nakaplagan nila ang 
 11 ka tinun-an ug ang uban pa nga nagkatigom
 34 nga nag -ingon, “Tinuod gayod nga nabanhaw ang Ginoo! Nagpakita siya kang Simon!”
 35 Unya gisaysay sa duha ka tawo ang nahitabo didto sa dalan ug ang pagkaila nila sa Ginoo sa iyang pagpikaspikas sa pan. Si Jesus Nagpakita ngadto sa Iyang mga Tinun-an
@@ -27629,8 +27567,7 @@ Mga Buhat 7
 11 Unya may gutom sa tibuok Ehipto ug sa Canaan nga nakahatag sa katawhan ug dakong kalisod. Ug ang atong mga katigulangan walay makaon.
 12 Busa sa pagkadungog ni Jacob nga may trigo didto sa Ehipto gipadala niya ang iyang mga anak, ang atong mga katigulangan, ug mao kadtoy una nilang pagduaw sa Ehipto.
 13 Sa ikaduha nilang pag-adto, nagpaila si Jose ngadto sa iyang mga igsoon ug nailhan ni Paraon ang banay ni Jose.
-14 Busa gipahibalo ni Jose ang iyang amahan nga si Jacob ug gidapit siya ug ang iyang panimalay,
-75 silang tanan, sa pag-adto sa Ehipto.
+14 Busa gipahibalo ni Jose ang iyang amahan nga si Jacob ug gidapit siya ug ang iyang panimalay, 75 silang tanan, sa pag-adto sa Ehipto. 
 15 Unya miadto si Jacob sa Ehipto diin didto siya ug ang atong mga katigulangan mangamatay.
 16 Ang ilang mga lawas gidalag balik ngadto sa Siquem ug didto gilubong sila sa lubnganan nga pinalit ni Abraham gikan sa banay ni Hamor.
 17 “Sa nagkaduol na ang panahon nga tumanon sa Dios ang iyang gisaad kang Abraham, midaghan ug m isanay pag-ayo ang atong katawhan nga didto sa Ehipto
@@ -27657,8 +27594,7 @@ Mga Buhat 7
 38 Siyamao ang nag -uban sa katawhan sa Israel nga nagkatigom didto sa kamingawan. Didto siya uban sa atong mga katigulangan ug sa anghel nga nakigsulti kaniya didto sa Bukid sa Sinai ug nadawat niya gikan sa Dios ang buhing mensahe aron ihatag kanato.
 39 “Apan midumili ang atong mga katigulangan sa pagtuman kaniya Ila siyang gisalikway ug nangandoy sila nga makabalik unta sa Ehipto.
 40 Miingon sila kang Aaron ‘Buhati kamig mga diosdios nga maoy mag -una kanamo kay wala kami ma hibalo unsa nay nahitabo niadtong Moises nga nagdala kanamo gikan sa Ehipto.’
-41 Busa nagbuhat silag usa ka diosdios sa dagway sa nating baka ug ila kining gihalaran ug naglipay sila tungod sa binuhat sa ilang mga kamot.
-42 Ug mibiya kanila ang Dios ug gipas agdan sila nga magsimba sa mga bituon sa kalangitan sumala sa gisulat sa basahon sa mga propeta: 'Katawhan sa Israel! Ako ba ang inyong giihawan ug gihalaran ug mga mananap sulod sa
+41 Busa nagbuhat silag usa ka diosdios sa dagway sa nating baka ug ila kining gihalaran ug naglipay sila tungod sa binuhat sa ilang mga kamot. 42 Ug mibiya kanila ang Dios ug gipas agdan sila nga magsimba sa mga bituon sa kalangitan sumala sa gisulat sa basahon sa mga propeta: 'Katawhan sa Israel! Ako ba ang inyong giihawan ug gihalaran ug mga mananap sulod sa 
 40 ka tuig didto sa kamingawan?
 43 Ang inyong gidala mao ang tolda sa dios dios nga si Moloc, ug ang larawan sa bituon sa inyong diosdios nga si Repan Sila mga diosdios nga inyong gibuhat aron simbahon. Busa ingon nga mga bihag ipadala ko kamo saylo pa sa Babilonia.’
 44 “Didto sa kamingawan ang atong mga katigulangan adunay usa k a tolda diin ang katawhan makigtagbo sa Dios Gibuhat kini ni Moises sumala sa sumbanan nga gipakita kaniya sa Dios.
@@ -28101,8 +28037,7 @@ Mga Buhat 19
 4 Unya si Pablo miingon “Ang bunyag ni Juan alang lamang niadtong naghinulsol ug iyang gitudloan ang katawhan sa Israel nga kinahanglan motuo sila niadtong moanhi sunod kaniya nga mao si Jesus.”
 5 Sa pagkadungog nila niini, gibunyagan sila sa ngalan sa Ginoong Jesus.
 6 Sa dihang g ipandongan sila ni Pablo sa iyang kamot mikunsad kanila ang Espiritu Santo; unya nagsulti silag lahi nga mga pinulongan ug nagwali usab sa pulong sa Dios.
-7 Mga
-12 sila ka tawo.
+7 Mga 12 sila ka tawo. 
 8 Unya miadto si Pablo sa sinagoga ug sulod sa tulo ka bulan gisangyawan niya ang katawhan sa walay kahadlok Nakiglantugi siya ug naninguha sa pagpasabot kanila mahitungod sa gingharian sa Dios.
 9 Apan ang pipila ka nila gahig kasingkasing ug wala motuo ug nanultig daotan atubangan sa mga tawo mahitungod sa Dalan Busa mibiya kanila si Pablo ug gidala niya ang mga tinun -an ug matag adlaw nakiglantugi siya didto sa lawak-tigomanan ni Tirano.
 10 Nagpadayon kini sa duha k a tuig ug tungod niini ang katawhan sa lalawigan sa Asia mga Judio ug mga dili Judio nakadungog sa pulong sa Ginoo. Ang mga Anak ni Esceva
@@ -29404,8 +29339,7 @@ Mga Taga-Roma 16
 14 Dili sila makasabot kay hangtod niining adlawa ang ilang mga sala botan gitaptapan gihapon sa maong taptap samtang magbasa sila sa mga basahon sa daang kasabotan. Makuha lamang ang maong taptap kon ang tawo mahiusa kang Cristo.
 15 Bisan karon inigbasa nila sa Balaod ni Moises gitaptapan gihapon ang ilang mga salabotan.
 16 Apan sa dihang ang tawo moduol sa Ginoo kining maong taptap matangtang.
-17 Ang Ginoo mao ang Espiritu ug hain gani ang Espiritu sa Ginoo anaay kagawasan.
-18 Kitang tanan naglarawan sa himaya sa Ginoo pinaagi sa atong mga nawong nga dili tinaptapan Busa gipang-usab kita ngadto sa iya gayong dagway sa labi pang dako nga himaya Ang maong himaya naggikan sa Ginoo nga mao ang Espiritu.
+17 Ang Ginoo mao ang Espiritu ug hain gani ang Espiritu sa Ginoo anaay kagawasan. 18 Kitang tanan naglarawan sa himaya sa Ginoo pinaagi sa atong mga nawong nga dili tinaptapan Busa gipang-usab kita ngadto sa iya gayong dagway sa labi pang dako nga himaya Ang maong himaya naggikan sa Ginoo nga mao ang Espiritu. 
 2 Mga Taga-Corinto 4
 1 Busa wala kami kawad -i sa kadasig kay ang Dio s sa iyang kaluoy naghatag man kanamo niining maong pagpangalagad.
 2 Gisalikway namo ang tanang tinago ug makauulawng mga buhat. Wala kami manlimbong o magtuis sa pulong sa Dios. Nagkinabuhi kami diha sa kahayag sa kamatuoran atubangan sa Dios ug among gipa ningkamotan nga ang mga tawo walay ikasaway kanamo.
@@ -29423,8 +29357,7 @@ Mga Taga-Roma 16
 14 Kay nasayod kami nga ang Dios nga nagbanhaw sa Ginoong Jesus magbanhaw usab kanamo uban kang Jesus ug iya ka ming dad -on uban kaninyo ngadto sa iyang atubangan.
 15 Gibuhat kining tanan alang kaninyo ug sa magakadaghan ang mga tawo nga makadawat sa grasya sa Dios molabi kadaghan ang mga pag -ampo sa pasalamat alang sa himaya sa Dios. Pagkinabuhi Pinaagi sa Pagtuo
 16 Tungod niini wala gayod kami kawad -ig kadasig Bisag nag -anam nag kahugo ang among lawas, ang among espiritu gilig-on adlaw-adlaw.
-17 Ug kining gamay ug lumalabay nga kalisdanan nga among giantos naghatag kanamog labihan kadako ug walay kataposang himaya n ga labaw kaayo kay sa mga kalisdanan.
-18 Kay wala kami magtan -aw sa mga butang nga makita kondili sa mga butang nga dili makita kay ang mga butang nga makita dili molungtad ug dugay apan ang mga butang nga dili makita walay kataposan.
+17 Ug kining gamay ug lumalabay nga kalisdanan nga among giantos naghatag kanamog labihan kadako ug walay kataposang himaya n ga labaw kaayo kay sa mga kalisdanan. 18 Kay wala kami magtan -aw sa mga butang nga makita kondili sa mga butang nga dili makita kay ang mga butang nga makita dili molungtad ug dugay apan ang mga butang nga dili makita walay kataposan. 
 2 Mga Taga-Corinto 5
 1 Kay nasayod kita nga inigkaguba na niining atong gipuy -an nga payag dinhi sa yuta nga mao ang atong lawas hatagan kita sa Dios ug puloy -anan didto sa langit. Kini maoy usa ka puloy -anan nga walay kataposan ug siya gayod ang nagbuhat.
 2 Sa pagkakaron nang hupaw kita kay dako kaayo ang atong tinguha nga masul-oban na kita sa atong puloy-anan nga atua sa langit.
@@ -29464,8 +29397,7 @@ Mga Taga-Roma 16
 14 Ayaw kamo pakighiusa sa mga dili magtutuo kay dili gayod magkasinabot ang matarong ug ang da otan o mag -ambitanay ang kahayag ug ang kangitngit.
 15 Dili gayod magkauyon si Cristo ug si Belial Kay managsama ba gud ang magtutuo ug ang dili magtutuo?
 16 Magkasabotba ang templo sa Dios ug ang sa mga diosdios? Dili! Kay kita ang templo sa Dios nga buhi. Sumala sa gisulti sa Dios "Magpuyo ako ug makig-uban sa akong katawhan. Mahimo ako nga ilang Dios, ug mahimo sila nga akong katawhan.”
-17 Busa ang Ginoo nag-ingon, "Bulagi sila ug paglain gikan kanila. Ayaw kamo paghikap sa hugaw, ug dawaton ko kamo.
-18 Ako mahimong inyong amahan, ug kamo mahimong akong mga anak nag- ingon ang Ginoo nga Labing Gamhanan.”
+17 Busa ang Ginoo nag-ingon, "Bulagi sila ug paglain gikan kanila. Ayaw kamo paghikap sa hugaw, ug dawaton ko kamo. 18 Ako mahimong inyong amahan, ug kamo mahimong akong mga anak nag- ingon ang Ginoo nga Labing Gamhanan.” 
 2 Mga Taga-Corinto 7
 1 Minahal kong mga igsoon, tungod niining mga saad alang kanato, hinloan ta ang atong kaugalingon gikan s a bisan unsa nga makahugaw sa lawas ug espiritu. Maningkamot kita nga mahingpit sa pagkabalaan diha sa pagkinabuhi nga mahadlokon sa Dios. Ang Kalipay ni Pablo
 2 Hatagi kamig luna sa inyong kasingkasing Wala kami makabuhat ug sayop kang bisan kinsa ug wala kami mangdaot o mamintaha kang bisan kinsa.
@@ -29481,8 +29413,7 @@ Mga Taga-Roma 16
 12 Busa gisulat ko kadtong sulata dili tungod kaniya nga nasayop o kaniya nga gibuhatan sa sayop kondili aron makita atubangan sa Dios ang katiunay sa inyong paghigugma kanamo.
 13 Busa nadasig kami Ug gawas nga nadasig kami nalipay usab kami sa hilabihan sa pagkasayod namo sa kalipay nga inyong gidulot kang Tito.
 14 Gipasigarbo ko kamo kaniya ug wala ako ninyo pakyasa kay ang tanan iya mang nasuta nga tinuod gayod.
-15 Busa midugang ang iyang gugma alang kaninyo sa matag hinumdom niya nga kamo andam sa pagtuman ug sa pagdawat kaniya uban ang pagtahod ug pagtamod.
-16 Malipayon ako kaayo nga kamo kasaligan ko sa hingpit.
+15 Busa midugang ang iyang gugma alang kaninyo sa matag hinumdom niya nga kamo andam sa pagtuman ug sa pagdawat kaniya uban ang pagtahod ug pagtamod. 16 Malipayon ako kaayo nga kamo kasaligan ko sa hingpit. 
 2 Mga Taga-Corinto 8
 1 Mga igsoon, buot namo nga masayod kamo sa nahimo sa mga simbahan didto sa Macedonia tungod sa grasya sa Dios.
 2 Gisulayan sila pag-ayo pinaagi sa mga kalisdanan nga ilang gisagubang apan ang ilang kalipay labihan kadako ug tungod niini naghingapin ang ilang pagkamahinatagon bisan sila mga kabos kaayo.
@@ -29540,8 +29471,7 @@ Mga Taga-Roma 16
 14 Kamo anaa sa sulod sa maong utlanan busa wala kami maglapas niini pinaagi sa among pag -anha kani nyo aron pagdala sa Maayong Balita mahitungod kang Cristo.
 15 Wala kami magpasigarbo sa buluhaton nga nabuhat sa uban lapas sa mga utlanan nga gilatid sa Dios alang kanamo. Naglaom hinuon kami nga motubo unta ang inyong pagtuo ug molambo ang among pagbuhat uban kaninyo.
 16 Unya makasangyaw na kami sa Maayong Balita sa uban pang kanasoran Dili kami mangangkon sa buhat nga nahimo na sa uban sa dapit nga gihatag sa Dios kanila.
-17 Apan sumala sa giingon sa kasulatan, “Ang buot magpasigarbo kinahanglan magpasigarbo sa Ginoo.”
-18 Ang tawo tinuod gayong dalaygon kon ang Ginoo maoy magdayeg kaniya ug dili siya ang magdayeg sa iyang kaugalingon.
+17 Apan sumala sa giingon sa kasulatan, “Ang buot magpasigarbo kinahanglan magpasigarbo sa Ginoo.” 18 Ang tawo tinuod gayong dalaygon kon ang Ginoo maoy magdayeg kaniya ug dili siya ang magdayeg sa iyang kaugalingon. 
 2 Mga Taga-Corinto 11
 1 Naglaom ako nga magpailob kamo kanako bisag daw buangbuang ako Pailob intawon kamo!
 2 Nangabubho ako alang kaninyo sama gayod sa Dios kay sama man kamo sa putli nga dalaga nga akong gisaarang ipakasal sa usa lamang ka lalaki nga mao si Cristo.
@@ -30262,8 +30192,7 @@ Mga Taga-Colosas 4
 8 Moanhi siya uban sa nagdilaab nga kalayo aron s a pagsilot niadtong wala moila sa Dios ug niadtong wala modawat sa Maayong Balita mahitungod sa atong Ginoong Jesus.
 9 Mag-antos sila sa silot nga mao ang walay kataposang pagkalaglag ug ipahilayo sila gikan sa presensya sa Ginoo ug sa iyang mahimayaong gahom.
 10 Mahitabo kini inig -abot niya niadtong adlawa aron pagdawat sa pagdayeg gikan sa iyang katawhan ug sa pa sidungog gikan sa tanan nga nagtuo Kamo usab mahiuban kanila kay nagtuo man kamo sa mensahe nga among gisangyaw kaninyo.
-11 Mao kini ang hinungdan nga kanunay kaming nag -ampo alang kaninyo Nangamuyo kami sa atong Dios nga himoon kamo niyang takos sa iyang pagtawag kaninyo. Hinaot unta nga pinaagi sa iyang gahom ihatag niya ang tanang maayo nga inyong gipangandoy ug magbuhat kamo tungod sa inyong pagtuo.
-12 Niining paagiha ang ngalan sa atong Ginoong Jesus mapasidunggan tungod kaninyo ug kamo tungod kaniya p inaagi sa grasya s a atong Dios ug sa Ginoong Jesu-Cristo.
+11 Mao kini ang hinungdan nga kanunay kaming nag -ampo alang kaninyo Nangamuyo kami sa atong Dios nga himoon kamo niyang takos sa iyang pagtawag kaninyo. Hinaot unta nga pinaagi sa iyang gahom ihatag niya ang tanang maayo nga inyong gipangandoy ug magbuhat kamo tungod sa inyong pagtuo. 12 Niining paagiha ang ngalan sa atong Ginoong Jesus mapasidunggan tungod kaninyo ug kamo tungod kaniya p inaagi sa grasya s a atong Dios ug sa Ginoong Jesu-Cristo. 
 2 Mga Taga-Tesalonica 2
 1 Mahitungod sa pag -anhi sa atong Ginoong Jesu -Cristo ug sa atong pagkatigom aron makig -uban kaniya naghangyo ako kaninyo mga igsoon:2 ayaw dayon kamo kataranta ug kabalaka kon makadungog kamo nga ang Adlaw sa Ginoo miabot na Ayaw kinig tuohi bisag gipasikad pa kini sa propesiya o sa wali o sa sulat nga kuno gikan kanamo.
 3 Ayaw kamo palimbong ni bisan kinsa sa bisan unsang paagi. Kay ang maong Adlaw dili mo abot samtang dili pa mahitabo ang kataposang pag -alsa batok sa Dios ug dili pa motungha ang Tawong Yawan -on nga gitagana alang sa kalaglagan.
@@ -30436,8 +30365,7 @@ Mga Taga-Colosas 4
 14 Ampingi ang maayong mga butang nga gipiyal kanimo pinaagi sa gahom sa Espiritu Santo nga nagpuyo dinhi kanato.
 15 Nasayod ka nga gitalikdan ako sa tanan nga taga lalawigan sa Asia lakip na nila ni Figelo ug ni Hermogenes.
 16 Hinaot unta nga maluoy ang Ginoo sa panimalay ni Onesiforo kay gidasig ako niya sa makadaghan ug wala niya ikaulaw ang akong pagkabilanggo.
-17 Hinuon, sa pag-abot gayod niya sa Roma, gipangita dayon ako niya hangtod nga nakaplagan ako.
-18 Hinaot unta nga kaluy -an siya sa Ginoo sa adlaw sa iyang pagbalik Nasayod ka pag-ayo sa gidak-on sa iyang gikatabang kanako didto sa Efeso.
+17 Hinuon, sa pag-abot gayod niya sa Roma, gipangita dayon ako niya hangtod nga nakaplagan ako. 18 Hinaot unta nga kaluy -an siya sa Ginoo sa adlaw sa iyang pagbalik Nasayod ka pag-ayo sa gidak-on sa iyang gikatabang kanako didto sa Efeso. 
 2 Timoteo 2
 1 Busa, anak, pagmalig-on pinaagi sa grasya nga nabatonan nato diha kang Cristo Jesus.
 2 Itugyan sa mga tawo nga kasaligan ang imong madungog nga akong giwali atubangan sa kadaghanan aron kini itudlo usab nila sa uban.
@@ -31371,8 +31299,7 @@ Gipadayag 1
 19 Isulat ang mga butang nga imong nakita ang nahitabo karon ug ang mahitabo unya.
 20 Ania ang tinagong kahulogan sa pito ka bitu on nga nakita mo sa akong tuong kamot ug sa pito ka bulawan nga butanganag suga: ang pito ka bituon mao ang mga anghel sa pito ka simbahan ug ang pito ka butanganag suga mao ang pito ka simbahan.
 Gipadayag 2
-1 “Isulat kini alang sa anghel sa simbahan sa Efeso: "Mao kini ang mensahe gikan kaniya nga
-4 nagkupot sa pito ka bituon sa iyang tuong kamot ug naglakaw taliwa la sa pito ka bulawan nga butanganag suga.
+1 “Isulat kini alang sa anghel sa simbahan sa Efeso: "Mao kini ang mensahe gikan kaniya nga 4 nagkupot sa pito ka bituon sa iyang tuong kamot ug naglakaw taliwa la sa pito ka bulawan nga butanganag suga. 
 2 Nasayran ko ang imong nabuhat ang imong paghago ug ang imong pailob Nasayran ko usab nga dili ka gusto sa daotang mga tawo ug giusisa mo kadtong nagpakaapostol ug nakaplagan mo nga sila mga mini.
 3 Nasayod ako nga nagpailob ka ug giantos mo ang mga kasakitan tungod kanako ug wala ka maluya.
 4 Apan ang ikasaway ko kanimo mao nga wala ka na mahigugma kanako sama sa sinugdan.

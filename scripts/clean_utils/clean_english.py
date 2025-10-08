@@ -9,7 +9,7 @@ def clean_english(text):
         "Ezra", "Nehemiah", "Esther", "Job", "Psalms",
         "Proverbs", "Ecclesiastes", "Song of Songs", "Isaiah",
         "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea",
-        "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum",
+        "Joel", "Amos", "Abadiah", "Jonah", "Micah", "Nahum",
         "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
     ]
 
@@ -86,6 +86,9 @@ def clean_english(text):
     
     pattern = r"The Acts\n"
     text = re.sub(pattern, "\n", text)
+    
+    pattern = r"(2 Kings) 2\n1(.*)\n(?=1)"
+    text = re.sub(pattern, r"\1 1\n", text)
     
     #verify(text)
     return text, books
