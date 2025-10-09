@@ -5,7 +5,7 @@ pairs = [
   ("PAM", "CEB"),
   ("CBK", "SPA"),
   ("TGL", "PAM"),
-  ("BCL", "KAK"),
+  ("CBK", "PAG"),
   ("CEB", "ENG"),
 ]
 
