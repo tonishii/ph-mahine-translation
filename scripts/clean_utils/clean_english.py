@@ -54,9 +54,6 @@ def clean_english(text):
     pattern = r"^\s+"
     text = re.sub (pattern, "", text, flags=re.MULTILINE)
     
-    pattern = r"\s\n(Juan\s+\d+)[ \t]*\n([A-Za-z])"
-    text = re.sub(pattern, r" \1\2", text, flags=re.MULTILINE)
-    
     pattern = r"((\d+-)*\d+)\s*(?=[A-Za-z])"
     text = re.sub(pattern, r"\n\1 ", text)
     
