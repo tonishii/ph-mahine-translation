@@ -54,7 +54,6 @@ def process_corpora(lang1, lang2):
   lang1_df = pd.read_excel(os.path.join(dir_path, lang1) + ".xlsx", dtype=str)
   lang2_df = pd.read_excel(os.path.join(dir_path, lang2) + ".xlsx", dtype=str)
 
-
   books1, books2 = list(lang1_df["Book"].unique()), list(lang2_df["Book"].unique())
 
   lang1_to_eng_book, eng_book = {}, []
@@ -72,6 +71,12 @@ def process_corpora(lang1, lang2):
     eng_book = old_testament_books + new_testament_books
     lang2_to_eng_book = {local: eng for local, eng in zip(books2, eng_book)}
 
+  if len(books1) > len(books2):
+    lang1_df = lang1_df[lang1_df["Book"].isin(books1[:-len(books2)-1])]
+
+  elif len(books1) < len(books2):
+    lang2_df = lang2_df[lang2_df["Book"].isin(books2[-len(books1)-1:])]
+
   lang1_df["Book"] = lang1_df["Book"].map(lang1_to_eng_book).fillna(lang1_df["Book"])
   lang2_df["Book"] = lang2_df["Book"].map(lang2_to_eng_book).fillna(lang2_df["Book"])
 
@@ -84,13 +89,13 @@ def process_corpora(lang1, lang2):
   )
 
   merged = merged.rename(columns={
-    f"Text_{lang1}": codes.get(lang1),
-    f"Text_{lang2}": codes.get(lang2),
+    f"Text_{lang1}": codes.get(lang1,"None").capitalize(),
+    f"Text_{lang2}": codes.get(lang2,"None").capitalize(),
   })
 
   for lang in (lang1, lang2):
-    col = codes.get(lang)
-    merged[codes.get(lang)] = merged.apply(
+    col = codes.get(lang,"None").capitalize()
+    merged[codes.get(lang,"None").capitalize()] = merged.apply(
       lambda r: (
         r.get(col)
         if pd.notna(r.get(col))
@@ -108,6 +113,42 @@ def process_corpora(lang1, lang2):
                .group()) if re.match(r"\d+", str(v)) else 9999 # type: ignore
     )
   ).reset_index(drop=True)
+
+  range_verse_iter = merged[merged["Verse"].str.contains(r"^\d+-\d+$")].iterrows()
+  pattern = re.compile(r"(\d+)-(\d+)")
+  # i = 3
+  while range_verse_iter:
+    try:
+      curr_range_idx, curr_range_tuple = next(range_verse_iter)
+    except:
+      break # Exhaust
+
+    range_match = re.match(pattern, curr_range_tuple.Verse)
+    # print(curr_range_verse)
+
+    if not range_match: continue
+
+    is_lang1 = not bool(re.match(r"\<no verse.*\>", curr_range_tuple[codes.get(lang1,"None").capitalize()]))
+    low, high = range_match.groups()
+    text, range_verse = [], None
+
+    for range_verse_num in range(int(low), int(high) + 1):
+      range_verse = merged.loc[
+        (merged["Book"] == curr_range_tuple.Book) &
+        (merged["Chapter"] == curr_range_tuple.Chapter) &
+        (merged["Verse"] == str(range_verse_num))
+      ]
+
+      if range_verse.empty:
+        continue
+
+      # print(range_verse)
+      text.append(str(range_verse[codes.get(lang2 if is_lang1 else lang1, "None").capitalize()].iloc[0]))
+
+      merged.drop(index=range_verse.index, inplace=True)
+
+    if text:
+      merged.at[curr_range_idx, codes.get(lang2 if is_lang1 else lang1, "None").capitalize()] = " ".join(text) # type: ignore
 
   output_path = os.path.join("data/parallels", f"{lang1}_{lang2}.xlsx")
   merged.to_excel(output_path, index=False)
