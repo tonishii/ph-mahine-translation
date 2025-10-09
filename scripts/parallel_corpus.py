@@ -47,6 +47,10 @@ new_testament_books = [
   "1 John", "2 John", "3 John", "Jude", "Revelation"
 ]
 
+def safe_append(arr, val):
+  if pd.notna(val) and str(val).lower() != "nan":
+    arr.append(str(val))
+
 def process_corpora(lang1, lang2):
   dir_path = "data/by_verse/"
 
@@ -93,17 +97,6 @@ def process_corpora(lang1, lang2):
     f"Text_{lang2}": codes.get(lang2,"None").capitalize(),
   })
 
-  for lang in (lang1, lang2):
-    col = codes.get(lang,"None").capitalize()
-    merged[codes.get(lang,"None").capitalize()] = merged.apply(
-      lambda r: (
-        r.get(col)
-        if pd.notna(r.get(col))
-        else f"<no verse{r['Verse']}>"
-      ),
-      axis=1
-    )
-
   merged = merged.sort_values(
     by=["Book", "Chapter", "Verse"],
     key=lambda col: col.map(
@@ -116,45 +109,93 @@ def process_corpora(lang1, lang2):
 
   range_verse_iter = merged[merged["Verse"].str.contains(r"^\d+-\d+$")].iterrows()
   pattern = re.compile(r"(\d+)-(\d+)")
-  while range_verse_iter:
+  to_drop = []
+
+  while True:
     try:
       curr_range_idx, curr_range_tuple = next(range_verse_iter)
       curr_range_idx = int(curr_range_idx) # type: ignore
     except:
       break # Exhaust
 
+    col_lang1_name = codes.get(lang1,"None").capitalize()
+    col_lang2_name = codes.get(lang2,"None").capitalize()
+
     range_match = re.match(pattern, curr_range_tuple.Verse)
     # print(curr_range_verse)
 
     if not range_match: continue
 
-    is_lang1 = not bool(re.match(r"\<no verse.*\>", curr_range_tuple[codes.get(lang1,"None").capitalize()]))
     low, high = range_match.groups()
-    text, drop_indices = [], []
+    low, high, curr_verse_num = int(low), int(high), int(low)
+    text_lang1, text_lang2, drop_indices = [], [], []
 
-    for range_verse_num in range(int(low), int(high) + 1):
+    while curr_verse_num < high + 1:
       range_verse = merged.loc[
         (merged["Book"] == curr_range_tuple.Book) &
         (merged["Chapter"] == curr_range_tuple.Chapter) &
-        (merged["Verse"] == str(range_verse_num))
+        (merged["Verse"] == str(curr_verse_num))
       ]
 
-      if range_verse.empty:
-        range_verse = merged.loc[
-          (merged["Book"] == curr_range_tuple.Book) &
-          (merged["Chapter"] == curr_range_tuple.Chapter) &
-          (merged["Verse"].astype(str).str.match(rf"^{range_verse_num}+-\d+$"))
-        ]
+      if not range_verse.empty:
+        safe_append(text_lang1, range_verse[col_lang1_name].iloc[0])
+        safe_append(text_lang2, range_verse[col_lang2_name].iloc[0])
+        drop_indices.extend(range_verse.index.to_list())
 
+        curr_verse_num += 1
         continue
 
-      text.append(str(range_verse[codes.get(lang2 if is_lang1 else lang1, "None").capitalize()].iloc[0]))
-      drop_indices.extend(range_verse.index.to_list())
+      overlap = merged.loc[
+        (merged["Book"] == curr_range_tuple.Book) &
+        (merged["Chapter"] == curr_range_tuple.Chapter) &
+        (merged["Verse"].astype(str).str.match(rf"^{curr_verse_num}+-\d+$", na=False))
+      ]
 
-    if text:
-      merged.at[curr_range_idx, codes.get(lang2 if is_lang1 else lang1, "None").capitalize()] = " ".join(text)
+      if overlap.empty:
+        curr_verse_num += 1
+        continue
+
+      if pd.notna(overlap.iloc[0][col_lang1_name]) and pd.notna(overlap.iloc[0][col_lang2_name]):
+        curr_verse_num += 1
+        continue
+
+      overlap_range = re.match(pattern, overlap.iloc[0].Verse)
+      _, new_high = overlap_range.groups() # type: ignore
+      high = max(high, int(new_high))
+      # print(overlap_range)
+
+      safe_append(text_lang1, overlap[col_lang1_name].iloc[0])
+      safe_append(text_lang2, overlap[col_lang2_name].iloc[0])
+      # print(text_lang1, text_lang2)
+
+      drop_indices.extend(overlap.index.to_list())
+      curr_verse_num += 1
+
+    if text_lang1 or text_lang2:
+      safe_append(text_lang1, curr_range_tuple[codes.get(lang1, "None").capitalize()])
+      safe_append(text_lang2, curr_range_tuple[codes.get(lang2, "None").capitalize()])
+
+      merged.at[curr_range_idx, codes.get(lang1, "None").capitalize()] = " ".join(text_lang1)
+      merged.at[curr_range_idx, codes.get(lang2, "None").capitalize()] = " ".join(text_lang2)
+
+      merged.at[curr_range_idx, "Verse"] = str(low)+"-"+str(high)
+
       # print(drop_indices)
-      merged.drop(index=drop_indices, inplace=True)
+    to_drop.extend(drop_indices)
+
+  merged.drop(index=to_drop, inplace=True)
+  merged.reset_index(drop=True, inplace=True)
+
+  for lang in (lang1, lang2):
+    col = codes.get(lang,"None").capitalize()
+    merged[codes.get(lang,"None").capitalize()] = merged.apply(
+      lambda r: (
+        r.get(col)
+        if pd.notna(r.get(col))
+        else f"<no verse{r['Verse']}>"
+      ),
+      axis=1
+    )
 
   merged.to_excel("data/parallels/" + f"{lang1}_{lang2}.xlsx", index=False)
   merged.to_csv("data/parallels/" + f"{lang1}_{lang2}.csv", index=False)

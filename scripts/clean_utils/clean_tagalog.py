@@ -66,7 +66,7 @@ def clean_tagalog(text):
   text = re.sub(pattern, r"\1", text)
 
   # Normalizes spacing before a punctuation mark
-  pattern = r'\s+([.,;:!?])'
+  pattern = r"\s+([.,;:!?])"
   text = re.sub(pattern, "", text)
 
   # Normalizes spacing after a number (Sometimes verses are in ranges e.g. 4-5)

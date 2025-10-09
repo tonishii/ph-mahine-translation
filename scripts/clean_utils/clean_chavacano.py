@@ -43,7 +43,7 @@ def clean_chavacano(text):
   text = re.sub(pattern, " ", text)
 
   # Normalizes spacing before a punctuation mark
-  pattern = r'\s+([.,;:!?])'
+  pattern = r"\s+([.,;:!?])"
   text = re.sub(pattern, "", text)
 
   # verify(text)
