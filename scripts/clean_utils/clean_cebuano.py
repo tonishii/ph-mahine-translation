@@ -19,7 +19,7 @@ books = [
 
 def clean_cebuano(text):
   text = re.sub(r"(?s)^.*?\bGenesis\s*1\b", "Genesis 1", text, count=1)
-  
+
   book_pattern = "|".join(books)
 
   pattern = r"\s*(?=\n)"
@@ -69,7 +69,7 @@ def clean_cebuano(text):
   text = re.sub(pattern, r"\1", text)
 
   # Normalizes spacing before a punctuation mark
-  pattern = r'\s+([.,;:!?])'
+  pattern = r"\s+([.,;:!?])"
   text = re.sub(pattern, "", text)
 
   # Normalizes spacing after a verse number (Sometimes verses are in ranges e.g. 4-5)
@@ -92,13 +92,13 @@ def clean_cebuano(text):
 
   pattern = r"\n\d\n"
   text = re.sub(pattern, "\n", text)
-  
+
   pattern = r"[^.]\n(?=100)"
   text = re.sub(pattern, " ", text)
-  
+
   pattern = r"\s\n(?=50\ska)"
   text = re.sub(pattern, " ", text)
-  
+
   pattern = r"(?<=as)\n(?=50\s)"
   text = re.sub(pattern, " ", text)
 
@@ -114,21 +114,21 @@ def fix_verse(text):
   curr_chapter = None
   last_verse = 0
   book_chapters = defaultdict(list)
-  
+
   for line in lines:
     line = line.strip()
     if not line:
       continue
-      
+
     match = re.match(rf"({book_pattern})\s(\d+)", line)
-    
+
     if match:
       curr_book, chap_str = match.groups()
       curr_chapter = int(chap_str)
       last_verse = 0
       book_chapters[curr_book].append(curr_chapter)
       continue
-    
+
     if re.match(r"^\d+(-(\d+))*\s", line):
       verse_num = int(re.match(r"^(\d+)", line).group(1))
       match = re.match(r"^(\d+)-(\d+)", line)
@@ -140,36 +140,36 @@ def fix_verse(text):
         pattern = rf"\n({last_verse}\s(.*))\n({verse_num}(.*))"
         text = re.sub(pattern, r" \1 \n\3", text)
       last_verse = verse_num
-    
+
   return text
-    
+
 def verify(text: str):
   book_pattern = "|".join(books)
   chapter_counts = [50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52, 5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5, 3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22]
-  
+
   chapter_counts_dict = { book: count for (book, count) in zip(books, chapter_counts)}
   lines = text.splitlines()
   curr_book = ""
   curr_chapter = None
   last_verse = 0
   book_chapters = defaultdict(list)
-  
+
   issues = []
-  
+
   for line in lines:
       line = line.strip()
       if not line:
           continue
-        
+
       match = re.match(rf"({book_pattern})\s+(\d+)", line)
-      
+
       if match:
           curr_book, chap_str = match.groups()
           curr_chapter = int(chap_str)
           last_verse = 0
           book_chapters[curr_book].append(curr_chapter)
           continue
-        
+
       if re.match(r"^\d+\s", line):
           verse_num = int(re.match(r"^(\d+)", line).group(1))
           if verse_num < last_verse:
@@ -177,14 +177,14 @@ def verify(text: str):
           elif verse_num == last_verse:
               issues.append(f"Duplicate verse in {curr_book} {curr_chapter}: {verse_num}")
           last_verse = verse_num
-          
+
   for book, chaps in book_chapters.items():
       expected = chapter_counts_dict.get(book, None)
       if expected and len(set(chaps)) == expected:
           print(f"{book} chapters ({len(chaps)}) in order ✓")
       else:
           print(f"{book} chapters ({len(set(chaps))} should be {expected}) NOT in order x")
-          
+
   if issues:
       print("\n--- Chronology Issues ---")
       for i in issues:
