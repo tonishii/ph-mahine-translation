@@ -89,6 +89,9 @@ def clean_kapampangan(text):
   # Removes the dupe Ukum 1
   pattern = r"(Ukum\s+1[\s\S]+?)\1"
   text = re.sub(pattern, r"\1", text, re.IGNORECASE)
+  
+  pattern = r"\s*-\s*"
+  text = re.sub(pattern, "-", text)
 
   # verify(text)
   return text, books
