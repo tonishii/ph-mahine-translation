@@ -2,7 +2,7 @@ import sys, os, re, pandas as pd
 
 pairs = [
   ("PAG", "TAO"),
-  ("HIL", "WAR"),
+  ("PAM", "CEB"),
   ("CBK", "SPA"),
   ("TGL", "PAM"),
   ("BCL", "KAK"),
@@ -116,10 +116,10 @@ def process_corpora(lang1, lang2):
 
   range_verse_iter = merged[merged["Verse"].str.contains(r"^\d+-\d+$")].iterrows()
   pattern = re.compile(r"(\d+)-(\d+)")
-  # i = 3
   while range_verse_iter:
     try:
       curr_range_idx, curr_range_tuple = next(range_verse_iter)
+      curr_range_idx = int(curr_range_idx) # type: ignore
     except:
       break # Exhaust
 
@@ -130,7 +130,7 @@ def process_corpora(lang1, lang2):
 
     is_lang1 = not bool(re.match(r"\<no verse.*\>", curr_range_tuple[codes.get(lang1,"None").capitalize()]))
     low, high = range_match.groups()
-    text, range_verse = [], None
+    text, drop_indices = [], []
 
     for range_verse_num in range(int(low), int(high) + 1):
       range_verse = merged.loc[
@@ -140,19 +140,25 @@ def process_corpora(lang1, lang2):
       ]
 
       if range_verse.empty:
+        range_verse = merged.loc[
+          (merged["Book"] == curr_range_tuple.Book) &
+          (merged["Chapter"] == curr_range_tuple.Chapter) &
+          (merged["Verse"].astype(str).str.match(rf"^{range_verse_num}+-\d+$"))
+        ]
+
         continue
 
-      # print(range_verse)
       text.append(str(range_verse[codes.get(lang2 if is_lang1 else lang1, "None").capitalize()].iloc[0]))
-
-      merged.drop(index=range_verse.index, inplace=True)
+      drop_indices.extend(range_verse.index.to_list())
 
     if text:
-      merged.at[curr_range_idx, codes.get(lang2 if is_lang1 else lang1, "None").capitalize()] = " ".join(text) # type: ignore
+      merged.at[curr_range_idx, codes.get(lang2 if is_lang1 else lang1, "None").capitalize()] = " ".join(text)
+      # print(drop_indices)
+      merged.drop(index=drop_indices, inplace=True)
 
-  output_path = os.path.join("data/parallels", f"{lang1}_{lang2}.xlsx")
-  merged.to_excel(output_path, index=False)
-  print(f"{output_path} ✓")
+  merged.to_excel("data/parallels/" + f"{lang1}_{lang2}.xlsx", index=False)
+  merged.to_csv("data/parallels/" + f"{lang1}_{lang2}.csv", index=False)
+  print(f"data/parallels/{lang1}_{lang2}.xlsx ✓")
 
 def main():
   if not sys.argv[1:]:
