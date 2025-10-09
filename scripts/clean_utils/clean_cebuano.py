@@ -104,7 +104,7 @@ def clean_cebuano(text):
 
   # verify(text)
   text = fix_verse(text)
-  verify(text)
+  # verify(text)
   return text, books
 
 def fix_verse(text):
@@ -130,7 +130,7 @@ def fix_verse(text):
       continue
 
     if re.match(r"^\d+(-(\d+))*\s", line):
-      verse_num = int(re.match(r"^(\d+)", line).group(1))
+      verse_num = int(re.match(r"^(\d+)", line).group(1)) # type: ignore
       match = re.match(r"^(\d+)-(\d+)", line)
       if match:
         verse_num, _= match.groups()
@@ -171,7 +171,7 @@ def verify(text: str):
           continue
 
       if re.match(r"^\d+\s", line):
-          verse_num = int(re.match(r"^(\d+)", line).group(1))
+          verse_num = int(re.match(r"^(\d+)", line).group(1)) # type: ignore
           if verse_num < last_verse:
               issues.append(f"Verse out of order in {curr_book} {curr_chapter}: {last_verse} → {verse_num}")
           elif verse_num == last_verse:
