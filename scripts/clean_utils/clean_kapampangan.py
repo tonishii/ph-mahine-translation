@@ -86,6 +86,10 @@ def clean_kapampangan(text):
   pattern = r"([eE]) n e"
   text = re.sub(pattern, r"\1 ne", text)
 
+  # Removes the dupe Ukum 1
+  pattern = r"(Ukum\s+1[\s\S]+?)\1"
+  text = re.sub(pattern, r"\1", text, re.IGNORECASE)
+
   # verify(text)
   return text, books
 
