@@ -25,16 +25,19 @@ def clean_bicolano(text):
 
     # Separate by book + chapter
     book_pattern = "|".join(books)
-    pattern = rf"(?:\b({book_pattern}))\s+(?:\1\s+)?(\d+)\b(?![\"“]?[A-Za-z])"
+    pattern = rf"(?<!\()\b({book_pattern})\s+(?:\1\s+)?(\d+)\b(?![\"“]?[A-Za-z])"
     text = re.sub(pattern, r"\n\n\1 \2", text)
 
     # Add space after verse ranges (e.g. 1-2text → 1-2 text)
-    pattern = r"\b(\d+)-(\d+)([\"“]?[A-Za-z]+)\b"
+    pattern = r"\b(\d+)-(\d+)([\"“]?[A-Za-z]+)(?!\))\b"
     text = re.sub(pattern, r"\n\1-\2 \3", text)
 
     # Add space after single verse numbers (e.g. 3text → 3 text)
-    pattern = r"\b(\d+)([\"“]?[A-Za-z]+)\b"
+    pattern = r"\b(\d+)([\"“]?[A-Za-z]+)(?!\))\b"
     text = re.sub(pattern, r"\n\1 \2", text)
+    
+    pattern = rf"[(;\[{{\.,]*\b(?:{book_pattern})\s+\d+:\d+(?:-\d+)?(?:,\s*\d+)?[)\]}}\.,;]*"
+    text = re.sub(pattern, "", text)
 
     pattern = r"\b[A-Z][a-z]+\.\s*\d+:\d+(?:-\d+:\d+|\-\d+)?\b"
     text = re.sub(pattern, r"", text)
@@ -46,6 +49,8 @@ def clean_bicolano(text):
     # Remove everything after book + chapter
     pattern = rf"({book_pattern})\s+(\d+).*"
     text = re.sub(pattern, r"\1 \2", text)
+    
+    text = re.sub(r'\b\d+:\d+(?:-\d+:\d+|-\d+)?\b', '', text)
 
     # Remove parentheses but keep contents
     pattern = r"[()]+"

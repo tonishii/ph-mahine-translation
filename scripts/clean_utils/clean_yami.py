@@ -17,9 +17,6 @@ def clean_yami(text):
     pattern = r"\d+\s+Seysyo No Tao © Bible Society in Taiwan\.\s+"
     text = re.sub(pattern, "", text)
 
-    pattern = r"^(.*?)(?=Mateo\s+1\s)"
-    text = re.sub(pattern, "", text)
-
     pattern = r"\((.*?)\)|\{(.*?)\}"
     text = re.sub(pattern, "", text)
 
