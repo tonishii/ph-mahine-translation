@@ -72,10 +72,10 @@ def process_corpora(lang1, lang2):
     lang2_to_eng_book = {local: eng for local, eng in zip(books2, eng_book)}
 
   if len(books1) > len(books2):
-    lang1_df = lang1_df[lang1_df["Book"].isin(books1[:-len(books2)-1])]
+    lang1_df = lang1_df[lang1_df["Book"].isin(books1[-len(books2):])]
 
   elif len(books1) < len(books2):
-    lang2_df = lang2_df[lang2_df["Book"].isin(books2[-len(books1)-1:])]
+    lang2_df = lang2_df[lang2_df["Book"].isin(books2[-len(books1):])]
 
   lang1_df["Book"] = lang1_df["Book"].map(lang1_to_eng_book).fillna(lang1_df["Book"])
   lang2_df["Book"] = lang2_df["Book"].map(lang2_to_eng_book).fillna(lang2_df["Book"])

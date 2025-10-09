@@ -18,13 +18,13 @@ def clean_chavacano(text):
   pattern = r"<\n\d+\n>\n© 1981 WBT\n"
   text = re.sub(pattern, "", text)
 
-  # Remove everything from the book title to the first verse number
-  pattern = rf"({book_pattern})\s(\d+)(.*?)(?=\d+\s[a-zA-Z])"
-  text = re.sub(pattern, r"\1 \2\n", text, flags=re.S)
-
   # Remove the titles
   pattern = rf"\n({book_pattern})\n"
   text = re.sub(pattern, "\n", text)
+
+  # Remove everything from the book title to the first verse number
+  pattern = rf"({book_pattern})\s(\d+)(.*?)(?=\d+\s[a-zA-Z])"
+  text = re.sub(pattern, r"\1 \2\n", text, flags=re.S)
 
   # Separates by verse number
   pattern = r"\s\s+(?=\d+\s)"
