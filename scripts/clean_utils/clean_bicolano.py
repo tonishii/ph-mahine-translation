@@ -50,7 +50,7 @@ def clean_bicolano(text):
     pattern = rf"({book_pattern})\s+(\d+).*"
     text = re.sub(pattern, r"\1 \2", text)
     
-    text = re.sub(r'\b\d+:\d+(?:-\d+:\d+|-\d+)\b', '', text)
+    text = re.sub(r'\b\d+:\d+(?:-\d+:\d+|-\d+)?\b', '', text)
 
     # Remove parentheses but keep contents
     pattern = r"[()]+"
