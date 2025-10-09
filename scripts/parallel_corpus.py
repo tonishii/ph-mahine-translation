@@ -47,6 +47,7 @@ new_testament_books = [
   "1 John", "2 John", "3 John", "Jude", "Revelation"
 ]
 
+# Only appends if value is valid
 def safe_append(arr, val):
   if pd.notna(val) and str(val).lower() != "nan":
     arr.append(str(val))
@@ -58,8 +59,10 @@ def process_corpora(lang1, lang2):
   lang1_df = pd.read_excel(os.path.join(dir_path, lang1) + ".xlsx", dtype=str)
   lang2_df = pd.read_excel(os.path.join(dir_path, lang2) + ".xlsx", dtype=str)
 
+  # List of unique books for each lang
   books1, books2 = list(lang1_df["Book"].unique()), list(lang2_df["Book"].unique())
 
+  # Build the lang1 to english book translation map and a list of english books
   lang1_to_eng_book, eng_book = {}, []
   if lang1 in ["TAO", "PAG", "CBK", "TSG"]:
     eng_book = new_testament_books
@@ -75,12 +78,14 @@ def process_corpora(lang1, lang2):
     eng_book = old_testament_books + new_testament_books
     lang2_to_eng_book = {local: eng for local, eng in zip(books2, eng_book)}
 
+  # Slice the bigger dataframe based on book set size
   if len(books1) > len(books2):
     lang1_df = lang1_df[lang1_df["Book"].isin(books1[-len(books2):])]
 
   elif len(books1) < len(books2):
     lang2_df = lang2_df[lang2_df["Book"].isin(books2[-len(books1):])]
 
+  # Translate the books to english
   lang1_df["Book"] = lang1_df["Book"].map(lang1_to_eng_book).fillna(lang1_df["Book"])
   lang2_df["Book"] = lang2_df["Book"].map(lang2_to_eng_book).fillna(lang2_df["Book"])
 
@@ -92,9 +97,13 @@ def process_corpora(lang1, lang2):
     suffixes=(f"_{lang1}", f"_{lang2}")
   )
 
+  col_lang1_name = codes.get(lang1,"None").capitalize()
+  col_lang2_name = codes.get(lang2,"None").capitalize()
+
+  # Rename to specified column
   merged = merged.rename(columns={
-    f"Text_{lang1}": codes.get(lang1,"None").capitalize(),
-    f"Text_{lang2}": codes.get(lang2,"None").capitalize(),
+    f"Text_{lang1}": col_lang1_name,
+    f"Text_{lang2}": col_lang2_name,
   })
 
   merged = merged.sort_values(
@@ -118,13 +127,10 @@ def process_corpora(lang1, lang2):
     except:
       break # Exhaust
 
-    col_lang1_name = codes.get(lang1,"None").capitalize()
-    col_lang2_name = codes.get(lang2,"None").capitalize()
-
     range_match = re.match(pattern, curr_range_tuple.Verse)
     # print(curr_range_verse)
 
-    if not range_match: continue
+    if not range_match: continue # Literally impossible
 
     low, high = range_match.groups()
     low, high, curr_verse_num = int(low), int(high), int(low)
@@ -137,7 +143,7 @@ def process_corpora(lang1, lang2):
         (merged["Verse"] == str(curr_verse_num))
       ]
 
-      if not range_verse.empty:
+      if not range_verse.empty: # Safe to append to resulting text
         safe_append(text_lang1, range_verse[col_lang1_name].iloc[0])
         safe_append(text_lang2, range_verse[col_lang2_name].iloc[0])
         drop_indices.extend(range_verse.index.to_list())
@@ -145,11 +151,12 @@ def process_corpora(lang1, lang2):
         curr_verse_num += 1
         continue
 
+      # This case is for overlapping ranges
       overlap = merged.loc[
         (merged["Book"] == curr_range_tuple.Book) &
         (merged["Chapter"] == curr_range_tuple.Chapter) &
         (merged["Verse"].astype(str).str.match(rf"^{curr_verse_num}+-\d+$", na=False))
-      ]
+      ]                                            # ^ Ofc start with the verse number were searching for
 
       if overlap.empty:
         curr_verse_num += 1
@@ -159,9 +166,10 @@ def process_corpora(lang1, lang2):
         curr_verse_num += 1
         continue
 
+      # Leaves only overlapping ranges
       overlap_range = re.match(pattern, overlap.iloc[0].Verse)
       _, new_high = overlap_range.groups() # type: ignore
-      high = max(high, int(new_high))
+      high = max(high, int(new_high)) # Adjust the range
       # print(overlap_range)
 
       safe_append(text_lang1, overlap[col_lang1_name].iloc[0])
@@ -169,7 +177,7 @@ def process_corpora(lang1, lang2):
       # print(text_lang1, text_lang2)
 
       drop_indices.extend(overlap.index.to_list())
-      curr_verse_num += 1
+      curr_verse_num += 1 # Better to search even with a new high
 
     if text_lang1 or text_lang2:
       safe_append(text_lang1, curr_range_tuple[codes.get(lang1, "None").capitalize()])
@@ -183,9 +191,11 @@ def process_corpora(lang1, lang2):
       # print(drop_indices)
     to_drop.extend(drop_indices)
 
+  # Drop the marked rows
   merged.drop(index=to_drop, inplace=True)
   merged.reset_index(drop=True, inplace=True)
 
+  # Fills the empty rows
   for lang in (lang1, lang2):
     col = codes.get(lang,"None").capitalize()
     merged[codes.get(lang,"None").capitalize()] = merged.apply(
