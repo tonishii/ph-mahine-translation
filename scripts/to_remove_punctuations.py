@@ -1,4 +1,5 @@
 import re, os
+from char_ngrams import char_ngrams
 
 codes = {
   "english": "ENG",
@@ -25,3 +26,6 @@ def to_remove_punctuations(text, name):
   file_path = os.path.join("data/no_punctuation", f"{codes.get(name)}.txt")
   with open(file_path, "w", encoding="utf-8") as f:
     f.write(text)
+
+  char_ngrams(text, name)
+  print(f"counts/lexical/{codes.get(name)}.txt: {name} ✓")
