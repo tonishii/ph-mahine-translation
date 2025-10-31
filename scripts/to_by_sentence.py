@@ -1,4 +1,5 @@
 import re, os
+from to_remove_punctuations import to_remove_punctuations
 
 codes = {
   "english": "ENG",
@@ -32,3 +33,6 @@ def to_sentence(text, books, name):
   file_path = os.path.join("data/by_sentence", f"{codes.get(name)}.txt")
   with open(file_path, "w", encoding="utf-8") as f:
     f.write(text)
+
+  to_remove_punctuations(text, name)
+  print(f"data/no_punctuations/{codes.get(name)}.txt: {name} ✓")
