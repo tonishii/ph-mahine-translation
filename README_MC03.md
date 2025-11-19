@@ -32,10 +32,11 @@ eole train -config configs/<config_file>.yml
 
 ## Predict/Translate
 ```bash
-eole predict -model_path data/training/TGL_HIL/model \
-            -src data/training/TGL_HIL/valid.tgl \
-            -output data/training/TGL_HIL/pred.txt \
-            -gpu 0
+eole predict \
+    -model_path data/training/TGL_HIL/model/step_5500 \
+    -src data/training/TGL_HIL/test.tgl \
+    -output data/training/TGL_HIL/pred.hgl \
+    --gpu_ranks 0
 ```
 
 ## Stop Container
