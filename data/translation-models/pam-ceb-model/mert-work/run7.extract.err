@@ -1,0 +1,12 @@
+Binary write mode is NOT selected
+Scorer type: BLEU
+name: case value: true
+Loading reference from /home/ubuntu/training/PAM_CEB/valid.ceb
+..............................Data::m_score_type BLEU
+Data::Scorer type from Scorer: BLEU
+loading nbest from run7.best100.out.gz
+Loaded N-best lists : [Wall 6.08372 CPU 5.79374] seconds.
+Binary write mode is NOT selected
+saving the array into run7.features.dat
+saving the array into run7.scores.dat
+Stopping... : [Wall 9.09735 CPU 8.68191] seconds.
