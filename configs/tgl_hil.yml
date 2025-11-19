@@ -1,0 +1,49 @@
+seed: 42  
+save_data: data/training/TGL_HIL/processed
+overwrite: False
+report_every: 100
+
+src_vocab: data/training/TGL_HIL/processed/experiment.vocab.src  
+tgt_vocab: data/training/TGL_HIL/processed/experiment.vocab.tgt  
+share_vocab: false 
+
+data:
+  corpus_1:
+    path_src: data/training/TGL_HIL/train.tgl  
+    path_tgt: data/training/TGL_HIL/train.hil  
+  valid:
+    path_src: data/training/TGL_HIL/valid.tgl  
+    path_tgt: data/training/TGL_HIL/valid.hil  
+
+transforms: [onmt_tokenize]
+transforms_configs:
+  onmt_tokenize:
+    src_subword_type: bpe
+    tgt_subword_type: bpe
+
+model:
+  architecture: transformer
+  layers: 6
+  heads: 8
+  hidden_size: 512
+  transformer_ff: 2048
+  embeddings:
+    word_vec_size: 512
+    position_encoding: true
+  
+training:
+  world_size: 1
+  gpu_ranks: [0]
+  batch_size: 4096           
+  batch_type: tokens
+  optim: adam
+  learning_rate: 2
+  warmup_steps: 4000
+  decay_method: noam
+  adam_beta2: 0.998
+  max_grad_norm: 1.0
+  save_checkpoint_steps: 500
+  train_steps: 50000           
+  valid_steps: 500
+  bucket_size: 1000
+  model_path: data/training/TGL_HIL/model
