@@ -1,0 +1,12 @@
+services:
+  eole_nlp:
+    image: ghcr.io/eole-nlp/eole:0.1.2-torch2.5.1-ubuntu22.04-cuda12.4
+    container_name: eole_nlp
+    runtime: nvidia         
+    volumes:
+      - .:/workspace
+    mem_limit: 16g
+    shm_size: 16g
+    stdin_open: true
+    tty: true
+    command: /bin/bash
