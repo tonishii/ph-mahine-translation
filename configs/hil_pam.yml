@@ -45,5 +45,7 @@ training:
   save_checkpoint_steps: 500
   train_steps: 50000           
   valid_steps: 500
+  keep_checkpoint: 3
   bucket_size: 1000
   model_path: data/training/HIL_PAM/model
+  #train_from: data/training/HIL_PAM/model/step_2500
