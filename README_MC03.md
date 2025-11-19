@@ -29,10 +29,6 @@ eole build_vocab -config configs/<config_file>.yml -n_sample -1
 ```bash
 eole train -config configs/<config_file>.yml
 ```
-### Resume Training
-```bash
-eole train -config configs/<config_file>.yml -resume
-```
 
 ## Predict/Translate
 ```bash
