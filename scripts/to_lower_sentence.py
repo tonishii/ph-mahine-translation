@@ -11,6 +11,7 @@ for file in os.listdir(dir_path):
             text = f.read()
 
         text = text.lower()
+        text = re.sub(r"\s+-", '-', text)
         os.makedirs(new_path, exist_ok=True)
         file_path = os.path.join(new_path, file)
 
