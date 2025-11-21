@@ -23,29 +23,45 @@ transforms_configs:
 
 model:
   architecture: transformer
-  layers: 6
-  heads: 8
-  hidden_size: 512
-  transformer_ff: 2048
+  layers: 2
+  heads: 4
+  hidden_size: 256
+  transformer_ff: 1024
+
   embeddings:
-    word_vec_size: 512
+    word_vec_size: 256
     position_encoding: true
   
 training:
   world_size: 1
   gpu_ranks: [0]
-  batch_size: 4096           
+  batch_size: 1024
+  valid_batch_size: 1024
+  batch_size_multiple: 8        
   batch_type: tokens
-  optim: adam
-  learning_rate: 2
+  optim: adamw
+  learning_rate: 1.0
   warmup_steps: 4000
   decay_method: noam
   adam_beta2: 0.998
-  max_grad_norm: 1.0
+  max_grad_norm: 5.0
   save_checkpoint_steps: 500
-  train_steps: 50000           
+  train_steps: 25000           
   valid_steps: 500
-  keep_checkpoint: 3
-  bucket_size: 1000
+  keep_checkpoint: 5
+
+  accum_count: [1]            
+  accum_steps: [0]
+  bucket_size: 4096
+
+  dropout_steps: [0]
+  dropout: [0.3]
+  attention_dropout: [0.1]
+
+  label_smoothing: 0.1
+
   model_path: data/training/TAO_TGL/model
-  #train_from: data/training/TAO_TGL/model/step_2500
+  
+  #train_from: data/training/TAO_TGL/model/step_5000
+
+  num_workers: 2

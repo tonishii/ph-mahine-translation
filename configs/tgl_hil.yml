@@ -46,6 +46,6 @@ training:
   train_steps: 50000           
   valid_steps: 500
   bucket_size: 1000
-  keep_checkpoint: 3
+  keep_checkpoint: 4
   model_path: data/training/TGL_HIL/model
-  #train_from: data/training/TGL_HIL/model/step_2500
+  train_from: data/training/TGL_HIL/model/step_12000
