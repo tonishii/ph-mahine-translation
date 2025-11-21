@@ -1,12 +1,7 @@
 import sys, os, re, pandas as pd
 
 pairs = [
-  ("PAG", "TAO"),
-  ("PAM", "CEB"),
-  ("CBK", "SPA"),
-  ("TGL", "PAM"),
-  ("CBK", "PAG"),
-  ("CEB", "ENG"),
+  ("TAO", "HIL"),
 ]
 
 codes = {

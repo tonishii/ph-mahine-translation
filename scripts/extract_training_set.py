@@ -43,14 +43,14 @@ for file in files:
             df[column]
             .astype(str)
             .str.lower()
-            .apply(lambda x: re.sub(r'[^\w\s]', '', x))        
+            .apply(lambda x: re.sub(r'[^\w\s\'\-]', '', x))        
             .apply(lambda x: re.sub(r'\s+', ' ', x).strip())   
         )
         
     df = df[~df.apply(lambda row: row.astype(str).str.fullmatch(r'no verse\s*\d*', flags=re.IGNORECASE)).any(axis=1)]
     
-    train_val, test = train_test_split(df, test_size=0.1, random_state=42)
-    train, val = train_test_split(train_val, test_size=0.1111, random_state=42)
+    train_val, test = train_test_split(df, test_size=0.05, random_state=42)
+    train, val = train_test_split(train_val, test_size=0.15, random_state=42)
     
     for column in df.columns:
         ext = rev_codes[column.lower()].lower()
