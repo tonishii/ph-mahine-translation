@@ -35,11 +35,16 @@ eole train -config configs/<config_file>.yml
 eole predict \
     -model_path data/training/TGL_HIL/model/step_5500 \
     -src data/training/TGL_HIL/test.tgl \
-    -output data/training/TGL_HIL/pred.hgl \
+    -output data/training/TGL_HIL/pred.hil \
     --gpu_ranks 0
 ```
 
 ## Stop Container
 ```bash
 docker compose down
+```
+
+## Bleu score
+```bash
+sacrebleu test.<code> -i pred.<code> -m bleu --tokenize none -w 4
 ```
