@@ -46,9 +46,9 @@ training:
   adam_beta2: 0.998
   max_grad_norm: 5.0
   save_checkpoint_steps: 500
-  train_steps: 25000           
+  train_steps: 14000           
   valid_steps: 500
-  keep_checkpoint: 5
+  keep_checkpoint: 14
 
   accum_count: [2]            
   accum_steps: [0]
@@ -62,6 +62,6 @@ training:
 
   model_path: data/training/HIL_PAM/model
   
-  train_from: data/training/HIL_PAM/model/step_8000
+  train_from: data/training/HIL_PAM/model/step_9500
 
   num_workers: 2
