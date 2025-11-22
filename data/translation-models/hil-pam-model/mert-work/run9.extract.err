@@ -1,0 +1,12 @@
+Binary write mode is NOT selected
+Scorer type: BLEU
+name: case value: true
+Loading reference from /home/ubuntu/training/HIL_PAM/valid.pam
+.............................Data::m_score_type BLEU
+Data::Scorer type from Scorer: BLEU
+loading nbest from run9.best100.out.gz
+Loaded N-best lists : [Wall 3.81624 CPU 3.81579] seconds.
+Binary write mode is NOT selected
+saving the array into run9.features.dat
+saving the array into run9.scores.dat
+Stopping... : [Wall 5.34565 CPU 5.34505] seconds.

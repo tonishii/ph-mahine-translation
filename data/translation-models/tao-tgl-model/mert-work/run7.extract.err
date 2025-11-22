@@ -1,0 +1,12 @@
+Binary write mode is NOT selected
+Scorer type: BLEU
+name: case value: true
+Loading reference from /home/ubuntu/training/TAO_TGL/valid.tgl
+.......Data::m_score_type BLEU
+Data::Scorer type from Scorer: BLEU
+loading nbest from run7.best100.out.gz
+Loaded N-best lists : [Wall 1.49393 CPU 1.44792] seconds.
+Binary write mode is NOT selected
+saving the array into run7.features.dat
+saving the array into run7.scores.dat
+Stopping... : [Wall 2.29442 CPU 2.21821] seconds.
